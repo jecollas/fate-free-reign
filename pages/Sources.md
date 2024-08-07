@@ -3,6 +3,7 @@ tags:: list
 
 - ## Fandom Wikis
 	- ### [Type-Moon Wiki](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki)
+	  collapsed:: true
 		- [Heroic Spirit](https://typemoon.fandom.com/wiki/Heroic_Spirit)
 		  id:: 668f1fd8-f7ef-49f2-93c2-228d53dc6a5a
 		- [Holy Grail](https://typemoon.fandom.com/wiki/Holy_Grail)
