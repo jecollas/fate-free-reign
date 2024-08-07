@@ -9,7 +9,7 @@ tags:: characters, servants, pirates
 		- **True Name:** Portgas D. Ace
 		- **Titles:** Commander of Flames
 		- **[Summoning Catalyst]([[Catalysts]]):** The Flame-Flame Fruit
-			- Hat, necklace, or dagger
+			- Could also be summoned using his hat, necklace, or dagger
 		- **Qualified Servant Classes:** Archer, Lancer, Berserker
 		- **Wish:** to have another chance at life
 	- ### Identity
