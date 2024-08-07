@@ -50,17 +50,14 @@ description:: story ideas to be sorted through later
 		- LAST TIME PEOPLE BROUGHT SIGNIFICANT OTHERS TO HOLY GRAIL WARS THEY WERE USED BY OTHER MASTERS AS HOSTAGES LMAOOO
 	- Other freak dynamics!!! :D theyve got opinions abt each other teehee
 		- [[Freak Dynamics/Otohime and Stelly]]
-		- Noland and Otohime
-			- “Youre the only motherfucker in this city who can handle me”
+		- [[Freak Dynamics/Noland and Otohime]]
 		- Noland and Stelly
 			- Fuckign, theyre giving each other nervous glances. They really dont want to be paired up
 		- Jalmack and Stelly
 			- Stelly tries to cozy up to this guy for the sake of political clout and whatnot. Jalmack couldnt care less
 			- For the record, jalmack does think that stelly has about as much important as a worm drying up on the sidewalk
-		- Jalmack and Noland
-			- Jalmack HATES THIS GUY!!!
-			- Noland PROBABLY ALSO HATES THIS GUY!!!
-		- Jalmack and Otohime
+		- [[Freak Dynamics/Jalmack and Noland]]
+		- [[Freak Dynamics/Jalmack and Otohime]]
 			- Idk the context yet but i want Jalmack to tell Otohime about the Celestial Dragon that she saved and how he became a better person, and how at the reverie he defended princess shirahoshi and was executed for it
 				- Obvi jalmack says all of this shit like its stupid and awful and like that guy deserved death for being weak-minded and soft-hearted and whatever else
 				- I was otohime to be devastated by this news tbh
