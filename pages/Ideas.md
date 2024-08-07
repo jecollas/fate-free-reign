@@ -35,7 +35,7 @@ description:: story ideas to be sorted through later
 	- Oh shit he’d definitely try to ally with Saint Jalmack wouldn’t he. Oooohhhh that slimy little fucker
 		- Yeah no hes allying with Saint Jalmack 100%. SPOILER ALERT: ENDS BAD
 		- New freak dynamic unlocked: King Stelly and the Celestial Dragon who shot his adopted brother in the face
-			- Stelly: acting like an ass-kisser advisor  and saying shit like “very wise decision, my liege”
+			- Stelly: acting like an ass-kisser advisor and saying shit like “very wise decision, my liege”
 			- Jalmack: does not give two fucks. “bark like a dog. your below me moron”
 		- Ooohhhhh Jalmack is 100% going to try to get Stelly to swap servants with him
 			- Otohime is not for it. She doesn’t like the idea at all. Stelly is her master!
