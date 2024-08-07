@@ -1,0 +1,22 @@
+## Short Description
+	- [[Marshall D. Teach]] and [[Rocks D. Xebec]]
+	- Summary
+- Their whole garbage
+	- Guy who wants to be king of the pirates at any cost and his new best friend, guy who wants to be king of the world at any cost
+	- Team Rider is one of, if not *the* biggest threat in this grail war
+		- The other biggest threat is team berserker lol
+		- These guys are such a fucking problem for everybody
+		- An extremely fucking terrifying as as a master/servant combo. Just like bad news all around
+	- Team Rider is already a huge problem. The only thing keeping them from being an apocalyptic-level threat is that they are seconds away from just fucking killing each other
+		- The cunts are conspiring [against each other], my liege
+		- Thank god they're infighting otherwise we'd all be screwed
+			- Clash of egos
+			- Blackbeard is the king of biding his time and waiting for his moment, and Xebec is king of fuck it we ball
+			- Xebec does NOT want to listen to blackbeard. The only thing keeping his ass in line is the command spells and he is constantly testing blackbeards patience
+		- I think xebec is conspiring to kill blackbeard behind his back
+			- maybe blackbeard ends up having to order xebec by command seal to kill himself
+			- maybe xebec is manipulating events so blackbeard has to use command spells so that he can be free of blackbeard, fucking kill him, and take the grail for himself
+		- I gotta look into what makes blackbeard captain. Why do all those criminals follow him anyway?
+			- Do you think Xebec would follow him also? My guess is no way in hell
+			- I think hes trying to steal blackbeards crew out from under him and do whatever the fuck he wants
+				- I should look into those guys

@@ -1,0 +1,56 @@
+alias:: Heaven's Feel
+description:: reference guide for the Holy Grail War
+
+- The [[Holy Grail War]] is a magical ritual where seven Masters each summon a Heroic Spirit as their [Servant]([[Servants]]) to fight to the death in a battle royale for possession of the [[Holy Grail]]
+	- Also known as the Heaven's Feel ritual, or just Heaven's Feel
+	- The Grail chooses seven Magi as masters and gives them the ability to summon a Servant as their Familiar to do battle until only one pair is left
+	- The last Master/Servant pair standing gets claim the Holy Grail and use the Mana Reservoir inside of it to make a wish
+	- Servants are summoned into one of seven classes: Saber, Archer, Lancer, Rider, Caster, Assassin, and Berserker
+- Most Masters and Servants enter the war with a specific wish in mind for when they obtain the Holy Grail
+	- Not everybody wants the Grail
+		- Some seek it for the sake of seeking it
+		- Some are against its very existence
+		- Some pay it no mind in lieu of pursuing other goals
+	- Jubstacheit von Einzbern believes that all Servants wish to be resurrected for a second life
+	- Lancer believes no true hero would actually be interested in resurrection
+		- He claims that true heroes are not attached to the world, but are only attached to the oaths they could not fulfill
+- ## The Truth Behind the War
+	- The true purpose of the Holy Grail War is to fill the vessel of the Grail with the souls of all seven Servants and use the combined energy to burn a hole in reality and reach [[The Root]]
+		- The Greater Grail was designed to open a gate to the Root by using the souls of all seven Heroic Spirits collected by the Lesser Grail as fuel
+		- Defeated Servants revert to being pure energy and, while they would normally disappear from the timeline by returning to the Throne of Heroes as information for the true Heroic Spirits, the Grail halts that process temporarily and collects them
+		- Servants are spiritual beings, which makes them collectible by the Lesser Grail
+		- They get broken down into component mana as fuel for either the wish granting process or the Greater Grail's true purpose
+	- Uses the guise of a wish-granting ritual to draw in potential Masters, who would then summon the Heroic Spirits meant to be used as sacrifices to the Greater Grail
+		- Also hides the Three Families’ true goals of reaching the Root from other mages who would likely steal the Grail away if they knew the truth
+			- Only the Three Founding Families and their overseer Zelretch know the truth in order to maximize their own chances of reaching the Root
+		- Ideally, all the Masters would use their Command Seals to compel their Servants into suicide upon summoning and then begin the Heaven’s Feel ritual
+			- However, the ritual's very premise is flawed: only a spiritual body like a Servant, not a flesh-and-blood Master, is capable of grasping the Grail and completing the ritual.
+			- As such, the final Master, instead of sacrificing their own Servant to perfect the Grail and reach the Root, must keep their Servant alive to claim an energy source that is much weaker, but still capable of granting far-reaching wishes to the final Master/Servant pair.
+- The **First Holy Grail War** took place in 1810, but it was not meant to be anything like the future Holy Grail Wars. It was not named as such, only meant to be a ritual for the families to reach Akasha.
+	- It took ten years from its establishment to gather the necessary energy to manifest, but the Three Families originally planning to utilize it realized that the system could only allow for one person to utilize it.
+	- Though they had the same goals, their opinions on how to reach them were different, so the incomplete nature of the ritual caused them to break off their alliance.
+	- Instead, the families create the Heaven's Feel system to summon the Grail, and then fight for it amongst themselves.
+- **Heaven's Feel** is a Magic that allows for the **Materialization of the Soul**
+	- Stops the inevitable dispersion of the soul once it no longer has an anchor to the World, and essentially makes it transcend to a higher form of existence.
+	- It is a Magic that realizes true immortality by making the soul into a high-dimensional planar being capable of interacting with the material world as a mental body without having to return to Akasha.
+	- The practitioner will acquire an unlimited source of Magical Energy due to the soul becoming analogous to a perpetual motion machine.
+- The Greater Grail uses several parts of Heaven's Feel in an attempt to recreate it in its entirety.
+	- Using an incomplete version, it takes a raw soul, raw energy made from spiritual particles, and copies information of Heroic Spirits in order to generate Servants.
+	- Rather than being actual resurrection, it is the temporary formation of a soul that does not require a real body, meaning that they are not truly brought back to life.
+	- In fact they are not considered proper Life but merely Ether in the form of past individuals.
+	- The World, considering that they should be dead in the present, considers Servants to be a contradiction that must be removed, so they need a constant connection to their Masters' Magical Energy to keep from being erased.
+	- After a Servant is killed, the Holy Grail temporarily stores their souls before they are returned to Akasha.
+	- In the case of receiving an actual body from the corrupted Grail, they are able to exist for a longer period of time, but they are still considered as not alive and require Magical Energy to remain in the present World.
+- ## Procedure
+	- The Great Grail requires sixty years in order to amass enough Mana to summon Servants, making the planning period span over generations.
+		- If the Grail is unable to utilize its energy, that which is leftover can reduce the time to as little as a decade, such as in the case of the period between the Fourth and Fifth Wars.
+	- It is possible to make a wish upon it with only the power of five Servants, allowing it to grant most wishes. It is still incomplete, and will take at least six to bring it into form. Its true purpose, opening a hole to the Root, requires all seven Servants. Once the vessel is filled, the energy of the Heroic Spirits returning to the "Throne" is used by the Great Grail in a ritual to open a "hole" leading to Akasha.
+	- As a conflict between Magi, the wars' preparation and decision-making are controlled by the Mage's Association. To avoid conflicts of interest, the Associate invites the Holy Church as Arbiters to onboard new Masters and neutrally enforce rules, although they only participate to assert their dominion over Christian relics and hope to confiscate the "Holy Grail" at the right opportunity.
+- ### [[Sources]]
+	- Type-Moon Wiki
+		- ((6688a490-efa7-4140-aed1-1820f55d362b))
+		- ((668893a3-e709-43b7-824d-c801bb6282be))
+		- ((6688a32d-9ca7-4e61-b638-00dbddb91fc1))
+	- TV Tropes
+		- ((66887431-629a-49be-abd7-1ff9ee4ecb42))
+		- ((6688997d-3208-4279-8d59-a88f9b2e8625))

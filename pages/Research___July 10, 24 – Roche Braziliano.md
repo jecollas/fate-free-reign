@@ -1,0 +1,47 @@
+tags:: Rocks D. Xebec
+
+- I went on a research run that got way out of hand
+- ((6695ab9e-1683-4f04-a88a-fb412c695351)) — wikipedia
+	- ((6695ae9c-e566-4502-8d54-79e504a83b4f)) — the pirate king (blog)
+	- ((6695aed3-27da-4ace-93d9-b121eee18b6f))
+	- ((6695af7b-3ed8-42b7-affc-68b43c03f8cf))
+		- “He was first made famous in Alexandre Exquemelin's 1678 book *The Buccaneers of America*”
+- The Buccaneers of America
+	- ((6695b016-f371-4726-a76e-7278c51ae990)) — library of congress
+	- ((6695b08c-32c0-4b01-95cc-295ae8e50dae)) (pdf)
+		- Excerpt from *The Buccaneers of America* (reprinted by Dover Publications, 1969)
+	- ((6695c9b9-fc39-4726-a820-b71bd20b9be1)) — the pirate king (blog)
+	- ((6695ca77-6199-48ff-a985-cd6e910f96bd)) — project gutenberg
+		- Written by James Burney, 1816
+	- ((6695cebe-de62-4717-ade6-4d7ff79c2b7c)) — library of congress
+		- ((6695cbbc-e944-410e-b5d8-746b4569f419)) — pdf
+			- Published by the Frederick A. Stokes company, 1914
+			- Chapter 5, pp. 48-53 (Roche Braziliano)
+			- God i hope theres more written abt this guy than just whats in here bc if so im in danger
+	- ((6695cffb-31f0-4411-8197-d86ebfc6f9a1)) — university of michigan
+		- Printed for William Crooke, 1684
+	- ((6695d109-1490-4802-86b8-1aec0d8d7e0b)) — the internet archive
+		- Published by Cosimo, 2007
+	- ((6695d29e-5446-47b2-bd99-b549c00c1ae7)) — project gutenberg
+		- Edited by Howard Pyle, 1891
+		- Part 1 is a reprint of *Buccaneers of America* (1684), Part 2 is a reprint of *A General History of Pyrates* (1725)
+- Who was the guy that first translated *Buccaneers of America* from Spanish to English? I need to doxx him *now*
+	- ((6695ce09-7bc1-49cd-91d4-13aadf5fab80)) — wikipedia
+	- ((6695d43c-20bb-4497-a46a-68f6d93ba455)) — wikipedia
+		- ((6695d54b-bee5-493c-9c40-3ef49c9067bb)) — university of florida
+			- Written by Frank Cundall, 1936
+			- Citation from wiki points to pp.70-71
+		- ((6695d6df-4f66-457d-a37b-1cfb40778851)) — project gutenberg
+			- Written by EA Cruikshank, 1935
+			- Chapter 12 covers the details of Morgan’s lawsuit against Crooke and Malthus
+			- Includes Crooke’s entire whinging apology letter
+		- He was anonymous i guess! Man, fuck my stupid baka life
+- Translation stuff
+	- ((6695d812-dc39-429a-b2cc-47c0b51b2b8a))
+		- Frohock, Richard. 2010. Common mischaracterizations of early English translations of Exquemelin’s *Buccaneers of America*
+	- ((6695d91b-80c8-4545-ae94-ede7bd6b2a21))
+		- Section: Alexandre Olivier Exquemelin, De Americaensche zee-roovers. Amsterdam: Jan ten Hoorn, 1678
+		- “Exquemelin had painted an often grim and critical picture of the dealings of the French and English buccaneers. He was especially critical of Henry Morgan’s attack on Panama (1669) and accused him of stealing from his men. In the first English translation, the tone of the account changed radically: Morgan was transformed from a villain to the central hero of the story.”
+	- ((6695dac3-9dcc-45e5-bd3b-6edee08636bc)) (pdf)
+		- Written by Juliette Scott, Ph.D, and John O'Shea, LL.B, LL.M
+		- Includes Morgan v. Malthus (1685) in section 2.5.1

@@ -1,0 +1,28 @@
+- [[START]]
+- [[Premise]]
+- [[Reference Text]]
+	- [[Ideas]]
+	- [[Research]]
+	- [[Sources]]
+	- [[Pages in Progress]]
+- Plot stuff
+	- [[Celestial Dragon Shitshow]]
+	- [[Grand Line Holy Grail War]]
+	- [[Freak Dynamics]]
+- Lists
+	- [[Characters]]
+	- [[Locations]]
+	- [[Organizations]]
+	- [[Servant Rosters]]
+- References
+	- [[Catalysts]]
+	- [[Holy Grail]]
+	- [[Holy Grail War]]
+	- [[Noble Phantasm]]
+	- [[The Root]]
+	- [[Servant Skills]]
+	- [[Servants]]
+	- [[Throne of Heroes]]
+- [[Templates]]
+	- ((668f60a9-fa82-44fd-8242-93e4c3812829))
+	- ((6681b9da-9a05-41d6-8f07-0cffed3e35ee))

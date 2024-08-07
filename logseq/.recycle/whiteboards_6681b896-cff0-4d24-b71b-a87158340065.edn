@@ -1,0 +1,45 @@
+{:blocks (
+{:block/created-at 1719777643731
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Sabo"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 615]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e922c40-371b-11ef-b51d-65278b2e3c92"
+:noFill false
+:point [336 208]
+:parentId "6681b896-cff0-4d24-b71b-a87158340065"
+:collapsedHeight 615
+:nonce 1719777482491}}
+:block/updated-at 1719777643731})
+:pages (
+{:block/uuid #uuid "6681b896-cff0-4d24-b71b-a87158340065"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6681b896-cff0-4d24-b71b-a87158340065"
+:name "6681b896-cff0-4d24-b71b-a87158340065"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("0e922c40-371b-11ef-b51d-65278b2e3c92")}}
+:block/updated-at 1719777643748
+:block/created-at 1719777430793
+:block/type "whiteboard"
+:block/name "6681b896-cff0-4d24-b71b-a87158340065"
+:block/original-name "6681b896-cff0-4d24-b71b-a87158340065"})}

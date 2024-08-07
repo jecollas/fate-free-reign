@@ -1,0 +1,7 @@
+filters:: {}
+description:: freak dynamics lfgggg!!!!!!
+tags:: list
+
+- Page title format
+	- `Freak Dynamics/FName A and FName B`
+	- First names should be in alphabetical order

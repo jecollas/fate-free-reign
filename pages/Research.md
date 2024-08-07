@@ -1,0 +1,172 @@
+description:: a collection of research rabbit holes I've gone down
+tags:: list
+
+- ## Formats
+	- Page title
+		- `Research/Month DD, YY – Subject`
+	- Citations: Chicago Notes and Bibliography style
+		- Note notation only
+- ## Chicago Reference
+	- ### Style Guides
+		- [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+			- [Notes and Bibliography: Sample Citations](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html)
+			  collapsed:: true
+				- Chicago-Style Citation Quick Guide
+		- [How to Cite a Research Paper in 2024: Citations Style Guide](https://research.com/research/how-to-cite-a-research-paper) – Research.com
+			- Section title: Chicago/Turabian Style Citation Guide
+		- [Chicago/Turabian Style Guide](https://www.easybib.com/guides/citation-guides/chicago-turabian/) – EasyBib
+	- ### Specific Examples
+		- [How to Cite a Foreign Language Sources in APA, MLA, or Chicago](https://www.easybib.com/guides/citation-guides/how-do-i-cite-a/how-to-cite-a-source-in-a-foreign-language/) – EasyBib
+		- [Blog - Chicago Referencing Guide](https://aut.ac.nz.libguides.com/c.php?g=685064&p=5479174) – AUT Library
+			- Blog posts and comments on blog posts
+		- [Citing an Individual Document from a Website or Part of a Website](https://towson.libguides.com/chicagonotesbibliography/websites) – Towson University, Albert S. Cook Library
+			- If “last modified” date for web document is not shown, in its place, use the term  “accessed” followed by the date you viewed the document.
+	- ### See also
+		- Turabian Style: *A Manual for Writers of Research Papers, Theses, and Dissertations* by Kate L. Turabian
+- ## Abstracts and Short Descriptions
+	- ### Abstracts
+	  collapsed:: true
+		- An abstract is a short summary of a research paper
+			- Usually about a paragraph (roughly 6-7 sentences, or 150-250 words) long
+			- Serves multiple purposes
+				- Gives the gist of the paper or article quickly so they can decide whether or not to read the full paper or article
+				- Prepares readers to follow detailed information, analyses, and arguments in the full paper article
+				- Helps readers remember key points from the paper or article
+				- Used to identify key terms for indexing published papers
+			- Should be intelligible on its own without the reader having to read the entire article
+			  collapsed:: true
+				- You don't usually cite references in the abstract
+					- An abstract is a description of what you studied, what you found, and what you argue in the paper or article
+				- References are cited in the body of the paper
+		- Contents of an Abstract
+			- Abstracts typically contain most of the following kinds of information
+				- Objective
+				  collapsed:: true
+					- Context or background information for your research
+						- General topic under study
+						- Specific topic of your research
+					- Central questions or the statement of the problem being addressed
+						- What's already known about this question
+						- What previous research has done or shown
+					- Main reasons, rationale, and/or goals for your research
+						- Why is it important to address these questions?
+						- Are you examining a new topic?
+						- Why is that topic worth examining?
+						- Are you filling a gap in previous research?
+						- Are you applying new methods to take a fresh look at existing ideas or data?
+						- Are you resolving a dispute within the literature in your field?
+				- Methods
+				  collapsed:: true
+					- Research and/or analytical methods
+				- Results
+				  collapsed:: true
+					- Main findings, results, or arguments
+				- Conclusions
+				  collapsed:: true
+					- Significance or implications of your findings or arguments
+			- In some cases, some of this information is implied, rather than stated explicitly
+		- Types of Abstracts
+			- Social Sciences
+			  collapsed:: true
+				- The social and cultural aspects of human behavior
+				- Verb tenses used
+					- Present tense: used to describe general facts and interpretations that have been and are currently true, the methods, findings, arguments, and implications of the findings from the new research study
+					- Past tense: used to describe previous research
+				- Structure
+					- Introduce the topic under study and imply the question underlying the research study (1 sentence)
+					  logseq.order-list-type:: number
+					- Explain what previous research has demonstrated and provide a rationale for new research (2-3 sentences)
+					  logseq.order-list-type:: number
+					- The data, research, and analytical methods used in the new study (1 sentence)
+					  logseq.order-list-type:: number
+					- The major findings, implications, and significance of the study (2-3 sentences)
+					  logseq.order-list-type:: number
+			- Humanities
+			  collapsed:: true
+				- The individual, cultural, societal, and experiential aspects of human society and culture
+				- Verb tenses used
+					- Past tense: used to describe completed events in the past
+					- Present tense: used to describe what is happening in texts being referenced, to explain the significance or meaning of those texts, and to describe the arguments presented in the article
+				- Structure
+					- Introduce the context for the research, and announce the topic under study (1 sentence)
+					  logseq.order-list-type:: number
+					- Other essential information for this article (5-6 sentences)
+					  logseq.order-list-type:: number
+						- Implied research questions
+						  logseq.order-list-type:: number
+						- The argument and significance of this analysis on a smaller scale
+						  logseq.order-list-type:: number
+						- Imply what previous historical research has obscured
+						  logseq.order-list-type:: number
+						- Imply the methods used to interpret the texts being studied
+						  logseq.order-list-type:: number
+			- Science
+			  collapsed:: true
+				- Specifies the major things that happen in your paper, whether or not you found out if your hypothesis was correct or not, the name of the methods you used to test it, a little bit of background on why you're doing this, etc
+				  collapsed:: true
+					- Cris Rienton, verbal communication to author, July 16, 2024
+				- Verb tenses used
+					- Past tense: used to describe what previous research studies have done, the research the authors conducted, the methods they followed, and what they found
+					- Present tense: used to describe the rationale or justification for the research, and to introduce the study
+				- Structure
+					- Announce the topic under study, summarize what's already known, and signal the rationale and goals for the new research (1 sentence)
+					  logseq.order-list-type:: number
+					- The methods developed to achieve their goal and what the results were (3-5 sentences)
+					  logseq.order-list-type:: number
+					- The significance or implications of the findings (1 sentence)
+					  logseq.order-list-type:: number
+	- ### Short Descriptions
+	  collapsed:: true
+		- A concise explanation of the scope of the page
+		- Purpose
+			- A very brief indication of the field covered by the article
+			- A short descriptive annotation
+			- A disambiguation in searches, especially to distinguish the subject from similarly titled subjects in different fields
+		- Content
+			- Meant to distinguish an article from similarly named articles in search results, and not to define the subject
+			- Each description should provide
+				- A brief overview of the topic
+				- A short annotation
+				- A way to differentiate it from other similarly titled articles
+			- Content text
+				- A short description is not a definition
+					- Editors should not attempt to define the article's subject nor to summarise the lead
+				- A good short description should:
+					- Focus on the purposes stated above
+					- Start with the most important information
+					- Use universally accepted facts that will not be subject to rapid change,
+						- Avoiding anything that could be understood as controversial, judgmental, or promotional
+					- Avoid jargon, and use simple, readily comprehensible terms that do not require pre-existing detailed knowledge of the subject
+					- Avoid duplicating information that is already in the title
+						- Don't worry too much if you need to repeat a word or two for context
+					- Avoid time-specific adjectives
+						- Like: "former", "retired", "late", "defunct", "closed", "current", "new", "recent", "planned", "future", etc.
+					- Avoid subjective adjectives
+						- Like: "small", "famous", "popular"
+			- Formatting
+				- Each short description should:
+					- Be written in plain text – without HTML tags, wiki markup, typographic dingbats, emojis, or CSS display manipulation
+					- Start with a capital letter
+					- Avoid initial articles (A, An, The) except when required for correct grammar and meaning
+					- Avoid using a final full stop (period)
+					- Be short – no longer than is needed to fulfill its purposes effectively
+						- More than 80% of short descriptions use fewer than 40 characters (including spaces)
+						- Fewer than 3% of short descriptions are longer than 60 characters, and short descriptions longer than 100 characters will be flagged for attention
+						- Because they are intended to be scanned quickly, longer, more specific descriptions can be less useful.
+			- Examples
+				- A good way to draft a short description is to consider the words that would naturally follow if you started a sentence like this:
+					- "**[Article subject] is/was a/an/the ... **".
+					- Use those additional words as the short description.
+						- Example: "Stève Nzigamasabo is a *Burundian footballer*"
+							- *Burundian footballer* becomes the short description
+				- List of examples
+					- For a person: "[country adjective] [what the person is known for]" (Examples: "American singer/songwriter" or "Cuban ice skater")
+					- For a location: "[type of location], [country]" (Examples: "City in Florida, United States" or "University in Oxford, England")
+					- For an organism: "[type of organism] [how it is best known]" (Examples: "Species of moth", "Species of monkey", "Extinct group of molluscs")
+						- Do not include family or other technical taxonomic terms
+					- Publication: "[year] [type of publication] by [author or director]" (Examples: "1983 novel by John Irving", "2017 film by Jordan Peele")
+					- Miscellaneous: "Type of [noun]", "Concept in [academic field]"
+- ### [[Sources]]
+	- ((66971673-80c9-48d8-8b94-757e0e0580da))
+	- ((63b0cd81-2eb2-463c-a4e5-2b0de22f88dd))
+	- ((66972b49-8419-47e2-9a0b-0aa1daf49958))
