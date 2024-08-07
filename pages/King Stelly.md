@@ -7,7 +7,7 @@ tags:: characters, masters, royalty
 	- ### Personality
 	- ### Relationships
 		- [[Queen Otohime]]
-			- [[Freak Dynamics/Otohime and Stelly]]
+			- They're weird. [Here's why]([[Freak Dynamics/Otohime and Stelly]]).
 - ## Role
 - ## Abilities
 	- ### Skills
