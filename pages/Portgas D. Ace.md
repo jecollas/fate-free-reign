@@ -16,6 +16,7 @@ tags:: characters, servants, pirates
 	- ### Identity
 		- Backstory stuff
 		- #### Legends and Anecdotes
+		  collapsed:: true
 			- *Son of the Pirate King* — Ace is Gold Roger’s only son, and is hated for it almost as much as Roger was
 				- Alt titles: *Son of the Devil*, *The Pirate Prince*, *Heir to the World’s Greatest Evil*
 			- *A Mother’s Protection* — Ace’s mother, Portgas D. Rouge, carried him for twenty months while on Baterilla Island to keep him safe from the World Government. She died upon giving birth, but not before naming him and ensuring that he would be protected
