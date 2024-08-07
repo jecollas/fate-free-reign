@@ -12,35 +12,7 @@ tags:: characters, servants, pirates
 		- In Sabo’s case, the Flame-Flame Fruit acted as the catalyst
 	- **Wish:** to have another chance at life
 	- #### Servant Statistics
-		- **Abilities:**
-			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
-		- **Skills:**
-		  collapsed:: true
-			- Battle Continuation
-			- Mana Burst
 		- **[[Noble Phantasm]]**
-			- Buster-type AoE (Anti-Army)
-			- Fire Fist – launches a column of fire at his opponents
-			  collapsed:: true
-				- Ace's signature attack and the thing he is most known for
-				- This would definitely give away his True Name if used
-				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
-				- Anti-City Noble Phantasm
-			- St. Elmo’s Fire
-			  collapsed:: true
-				- Blast attack from the fire spear yeehaw
-				- Buster-type Single Target (Anti-Unit)
-			- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
-			  collapsed:: true
-				- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
-				- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
-					- Whats rhe story reason beihind ascension? How can we make ace ascend and why.
-					- No im gonna lose it actually. Servant ascension for ace. Stage one is 17yr old boy, second ascension is the second division commander, and his final ascension is ace from the war at marineford
-				- Fuckoff powerful but takes a lot of mana. He transforms into his adult self and dies to explode everything around him. Its a bomb that goes off and kills him in the process / leaves him unable to keep fighting. so if this doesnt kill his enemy hes kinda fucked
-				- Good thing hes a servant and servants arent people otherwise hed die from being killed ✌️
-				- Anti-Fortress Noble Phantasm
-				- Ill never forgive you for this, anuk
-				- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
 	- #### Legends and Anecdotes
 	  collapsed:: true
 		- *Son of the Pirate King* — Ace is Gold Roger’s only son, and is hated for it almost as much as Roger was
@@ -109,6 +81,8 @@ tags:: characters, servants, pirates
 			- In *One Piece: Burning Blood*, Ace wields two twin double-barreled firearms that look like a cross between a pistol and a sawed-off shotgun
 				- Part of his Twin Guns & Cross Fire special attack
 - ## Profile
+	- ### Servant Stats
+		-
 	- ### Identity
 		- [[Portgas D. Ace]] is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 	- ### Appearance
@@ -130,11 +104,28 @@ tags:: characters, servants, pirates
 		- #### Personal Skills
 			- Battle Continuation
 			- Mana Burst
-	- ### Noble Phantasm
+	- ### [[Noble Phantasm]]
 		- #### Fire Fist
 			- Buster-type AoE (Anti-Army)
+			- Fire Fist – launches a column of fire at his opponents
+				- Ace's signature attack and the thing he is most known for
+				- This would definitely give away his True Name if used
+				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
+				- Anti-City Noble Phantasm? Definitely as an Archer
 		- #### St. Elmo’s Fire
 			- Buster-type Single Target (Anti-Unit)
+			- Blast attack from the fire spear yeehaw
+		- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
+		  collapsed:: true
+			- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
+			- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
+				- Whats rhe story reason beihind ascension? How can we make ace ascend and why.
+				- No im gonna lose it actually. Servant ascension for ace. Stage one is 17yr old boy, second ascension is the second division commander, and his final ascension is ace from the war at marineford
+			- Fuckoff powerful but takes a lot of mana. He transforms into his adult self and dies to explode everything around him. Its a bomb that goes off and kills him in the process / leaves him unable to keep fighting. so if this doesnt kill his enemy hes kinda fucked
+			- Good thing hes a servant and servants arent people otherwise hed die from being killed ✌️
+			- Anti-Fortress Noble Phantasm
+			- Ill never forgive you for this, anuk
+			- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
 	- ### Combat
 		- #### St. Elmo's Spear
 			- A long bo staff made from a metal pipe, topped with a wye joint

@@ -3,7 +3,6 @@ tags:: list
 
 - ## Fandom Wikis
 	- ### [Type-Moon Wiki](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki)
-	  collapsed:: true
 		- [Heroic Spirit](https://typemoon.fandom.com/wiki/Heroic_Spirit)
 		  id:: 668f1fd8-f7ef-49f2-93c2-228d53dc6a5a
 		- [Holy Grail](https://typemoon.fandom.com/wiki/Holy_Grail)
@@ -36,7 +35,7 @@ tags:: list
 				- [Assassin](https://typemoon.fandom.com/wiki/Assassin)
 				- [Berserker](https://typemoon.fandom.com/wiki/Berserker)
 			- Servant List
-				- [Artoria Pendragon (Saber)](https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)
+				- [Artoria Pendragon (Saber)](https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber))
 				  id:: 668f62df-1d7f-4456-9e08-488efd1d1ff7
 				- [EMIYA (Archer)](https://typemoon.fandom.com/wiki/EMIYA_(Archer))
 				  id:: 668f62f1-b9d3-484c-9e92-2b8d66722761
