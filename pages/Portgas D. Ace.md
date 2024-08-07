@@ -4,13 +4,7 @@ tags:: characters, servants, pirates
 
 - ## Servant Information
 	- **Master:** [[Sabo]]
-	- **Class:** Lancer
-		- **Qualified Classes:** Archer, Lancer, Berserker
-		- **Titles:** Commander of Flames
 	- **[Catalyst]([[Catalysts]])**
-		- Hat, necklace, or dagger
-		- In Sabo’s case, the Flame-Flame Fruit acted as the catalyst
-	- **Wish:** to have another chance at life
 	- #### Servant Statistics
 		- **[[Noble Phantasm]]**
 	- #### Legends and Anecdotes
@@ -82,7 +76,13 @@ tags:: characters, servants, pirates
 				- Part of his Twin Guns & Cross Fire special attack
 - ## Profile
 	- ### Servant Stats
-		-
+		- **True Name:** Portgas D. Ace
+		- **Titles:** Commander of Flames
+		- **[Summoning Catalyst]([[Catalysts]]):**
+			- Hat, necklace, or dagger
+			- In Sabo’s case, the Flame-Flame Fruit acted as the catalyst
+		- **Qualified Servant Classes:** Archer, Lancer, Berserker
+		- **Wish:** to have another chance at life
 	- ### Identity
 		- [[Portgas D. Ace]] is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 	- ### Appearance
