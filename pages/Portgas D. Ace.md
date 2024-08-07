@@ -8,9 +8,8 @@ tags:: characters, servants, pirates
 	- ### Servant Stats
 		- **True Name:** Portgas D. Ace
 		- **Titles:** Commander of Flames
-		- **[Summoning Catalyst]([[Catalysts]]):**
+		- **[Summoning Catalyst]([[Catalysts]]):** The Flame-Flame Fruit
 			- Hat, necklace, or dagger
-			- In Sabo’s case, the Flame-Flame Fruit acted as the catalyst
 		- **Qualified Servant Classes:** Archer, Lancer, Berserker
 		- **Wish:** to have another chance at life
 	- ### Identity
@@ -62,10 +61,10 @@ tags:: characters, servants, pirates
 			- Battle Continuation
 			- Mana Burst
 	- ### [[Noble Phantasm]]
-	  collapsed:: true
 		- #### Fire Fist
 			- Buster-type AoE (Anti-Army)
 			- Fire Fist – launches a column of fire at his opponents
+			  collapsed:: true
 				- Ace's signature attack and the thing he is most known for
 				- This would definitely give away his True Name if used
 				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
@@ -77,6 +76,7 @@ tags:: characters, servants, pirates
 		  collapsed:: true
 			- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
 			- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
+			  collapsed:: true
 				- Whats rhe story reason beihind ascension? How can we make ace ascend and why.
 				- No im gonna lose it actually. Servant ascension for ace. Stage one is 17yr old boy, second ascension is the second division commander, and his final ascension is ace from the war at marineford
 			- Fuckoff powerful but takes a lot of mana. He transforms into his adult self and dies to explode everything around him. Its a bomb that goes off and kills him in the process / leaves him unable to keep fighting. so if this doesnt kill his enemy hes kinda fucked
