@@ -14,6 +14,7 @@ tags:: characters, servants, pirates
 		- **Qualified Servant Classes:** Archer, Lancer, Berserker
 		- **Wish:** to have another chance at life
 	- ### Identity
+		- Backstory stuff
 		- #### Legends and Anecdotes
 			- *Son of the Pirate King* — Ace is Gold Roger’s only son, and is hated for it almost as much as Roger was
 				- Alt titles: *Son of the Devil*, *The Pirate Prince*, *Heir to the World’s Greatest Evil*
@@ -51,6 +52,7 @@ tags:: characters, servants, pirates
 		- [[Gol D. Roger]]
 			- [His fuckass dad]([[Freak Dynamics/Ace and Roger]])
 - ## Role
+	- What happens to him in the story
 - ## Abilities
 	- ### Skills
 		- #### Class Skills
@@ -82,7 +84,6 @@ tags:: characters, servants, pirates
 			- Ill never forgive you for this, anuk
 			- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
 	- ### Combat
-	  collapsed:: true
 		- #### St. Elmo's Spear
 			- A long bo staff made from a metal pipe, topped with a wye joint
 			- An amalgamation weapon that manifested upon Ace's summoning as a Lancer, based on various stories told about his strength in battle from around the world
@@ -129,7 +130,6 @@ tags:: characters, servants, pirates
 						- ((668f55bf-6d4e-42df-8ff4-f8937aaf622c))
 						- ((668f5615-d834-431c-8a1a-4126f08c7249))
 					- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
-	- ### yeah
 	- #### Weapons and Abilities
 		- *The Flame-Flame Fruit* – Ace ate a logia-type Devil Fruit that allows him to create, control, and transform his body into fire
 		  collapsed:: true

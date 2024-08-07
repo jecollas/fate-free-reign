@@ -1,6 +1,11 @@
 description:: pages that are actively being worked on
 tags:: list
 
+- ## Stuff for Cris's reference
+	- Character motivations
+	- Personality types
+	- Dynamics between characters
+	- Backstory information
 - ## Actively in Progress
 	- [[Portgas D. Ace]]
 	- [[Rocks D. Xebec]]
