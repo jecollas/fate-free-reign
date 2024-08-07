@@ -1,6 +1,7 @@
 filters:: {"servants" true}
 alias:: Roger, Gold Roger, Berserker, Servants/Berserker
 tags:: characters, servants, pirates
+id:: 66b2ccb7-0c31-4328-be54-52493c1358f2
 
 - ## Servant Information
 	- **Master:** [[Rob Lucci]]
@@ -19,6 +20,8 @@ tags:: characters, servants, pirates
 	- #### Weapons and Abilities
 - freak dynamics
 	- [[Portgas D. Ace]]
+		- [they're weird abt each other in a fun way]([[Freak Dynamics/Ace and Roger]])
 	- [[Rob Lucci]]
 		- [yea lol]([[Freak Dynamics/Lucci and Roger]])
 	- [[Rocks D. Xebec]]
+		- [stupid old men]([[Freak Dynamics/Roger and Xebec]])

@@ -3,6 +3,7 @@ tags:: list
 - ## Servant Information
   template:: Servant Information
   id:: 6681b9da-9a05-41d6-8f07-0cffed3e35ee
+  collapsed:: true
 	- **Master:**
 	- **Class:**
 		- **Qualified Classes:**
@@ -21,6 +22,12 @@ tags:: list
   template:: Character Profile
   template-including-parent:: false
 	- ## Profile
+		- ### Servant Stats
+			- **True Name:**
+			- **Titles:**
+			- **[Summoning Catalyst]([[Catalysts]]):**
+			- **Qualified Servant Classes:**
+			- **Wish:**
 		- ### Identity
 		- ### Appearance
 		- ### Personality
