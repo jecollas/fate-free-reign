@@ -2,78 +2,8 @@ filters:: {}
 alias:: Ace, Fire Fist, Fire Fist Ace, Lancer, Servants/Lancer
 tags:: characters, servants, pirates
 
-- ## Servant Information
-	- **Master:** [[Sabo]]
-	- **[Catalyst]([[Catalysts]])**
-	- #### Servant Statistics
-		- **[[Noble Phantasm]]**
-	- #### Legends and Anecdotes
-	  collapsed:: true
-		- *Son of the Pirate King* — Ace is Gold Roger’s only son, and is hated for it almost as much as Roger was
-			- Alt titles: *Son of the Devil*, *The Pirate Prince*, *Heir to the World’s Greatest Evil*
-		- *A Mother’s Protection* — Ace’s mother, Portgas D. Rouge, carried him for twenty months while on Baterilla Island to keep him safe from the World Government. She died upon giving birth, but not before naming him and ensuring that he would be protected
-		- *The Will of D* — Ace carries the Will of D
-		- *Raised by Wolves* — Ace was raised in the jungle by the Curly Dadan Bandits
-		- *No Surrender* — Ace famously never backs down from a fight, and would rather die than give up or run away
-		- *The Terrors of Gray Terminal* — from a very young age, Ace and his brothers terrorized the people of Gray Terminal and Edge Town
-		- *Bonds of Brotherhood* — Ace made a promise over stolen sake that the bonds between him and his brothers would never be broken
-		- *Pulled from the Fire* — Ace and Curly Dadan survived the burning of Grey Terminal. He carried her home on his back after three days of laying low enough to return from hiding
-		- *The Wanderer* — Ace has a habit of wandering into places he shouldn’t be. Like Wano or Sixis Island
-		- *Fire Fist* — Ace ate the Flame-Flame Fruit and became a fire logia. His devil fruit powers became his main offensive abilities
-		- *Power on His Own Terms* — Ace turned down the government’s offer to become one of the Seven Warlords of the Sea while he was still a rookie
-		- *He Who Challenged an Emperor* — Ace challenged the Strongest Man in the World to a fight, and fought for five days straight with the Knight of the Sea, Jimbei
-			- Alt title: *The Five-Day Fight*
-		- *100 Days of Assassination* — Ace tried to assassinate Whitebeard every day for the first 100 days he lived onboard the *Moby Dick*
-			- He used a bunch of different weapons during his assassination attempts, such as a knife and an axe
-		- *Second Division Commander* — Ace was quickly offered the title of Second Division Commander of Whitebeard's crew after he formally joined up
-		- *Beloved Brother, Beloved Son* — Ace is one of many people beloved by Whitebeard as his son, and by his crew as their brother
-		- *The War of the Best* — Ace was the catalyst for the Paramount War at Marineford. 100,000 marine soldiers and five Warlords of the Sea stood against an onslaught from the Whitebeard pirates and their allies
-			- Alt titles: *Sins of the Father*, *A Love that Launched One Thousand Ships* (Helen of Troy inspired)
-		- *From the Jaws of Victory* — at the last minute, Ace turned around the engage Akainu in battle over his insults towards Whitebeard. This is ultimately his undoing
-		- *A Brother‘s Love* — Ace died taking a killing blow from Admiral Akainu meant for his brother, Luffy
-			- Alt title: *A Life Freely Given*
-		- *Passing the Torch* — Sabo went on to inherit both Ace’s will and Devil Fruit
-	- #### Weapons and Abilities
-	  collapsed:: true
-		- *The Flame-Flame Fruit* – Ace ate a logia-type Devil Fruit that allows him to create, control, and transform his body into fire
-		  collapsed:: true
-			- Ace mainly uses his flames for a different kinds of offensive attacks that can create and unleash massive amounts of fire for large-scale damage as well as small precision attacks
-			- **List of Techniques**
-				- **Fire Fist** (Hiken) – turns his fist into fire and launches it as a massive column of flame at his target powerful enough to destroy ships and annihilate entire cities at once
-					- Ace's signature attack, and the reason why he's called "Fire Fist Ace"
-				- **Heat Haze** (Kagero) – shoots a stream of fire from the palm of his hand
-				- **Flame Fence** (Enjomo) – creates a circle of fire around a selected area to prevent anyone from leaving or entering
-				- **Fire Gun** (Higan) – points the index and middle fingers of both hands at an opponent, turns his fingertips into fire, and shoots bullets of compressed flame at them
-					- Literal finger guns lol
-				- **Flame Commandment** (Enkai) – amasses a large amount of flames around his body to prepare for another attack
-					- Usually does this by swinging his outstretched hand in a circle to "summon" a swirling ball of flames
-					- **Fire Pillar** (Hibashira) – shoots the collected flames straight upward to destroy at a target above him, or downwards to get rid of any enemies below him while he's in mid-air
-				- **Firefly** (Hotarubi) – creates a swarm of small, glowing fireballs that float around an enemy to prepare for another attack
-					- The fireballs are greenish-yellow and look like fireflies
-					- **Fiery Doll** (Hidaruma) – sends the fireflies flying into his targets all at once and burns them
-					- **Fire Whirl** (Kasen) – shoots the fireflies at his targets at high speed to distract them and cause them to scatter
-					- **Ship Spirit** (Funadama) – instead of firing them all at once, he staggers the timing and uses Observation Haki to place them where his targets are going to be before setting them off
-				- **St. Elmo's Fire** (Shinka: Shiranui) – hurls long lances made out of fire, which has the combined effect of piercing and burning a target at the same time
-					- Definitions for St. Elmo's Fire, Shinka, and Shiranui
-					  collapsed:: true
-						- St. Elmo's Fire – a weather phenomenon where a continuous, luminous discharge of atmospheric electricity is created from the ends of pointed objects (like the masts of a ship) during thunderstorms
-						- Shinka (Divine Fire) – mysterious and strange fires that are beyond man-made, like the ones caused by natural phenomena such as lightning strikes or volcanic eruptions
-						- Shiranui (Unknown Fire) – strange atmospheric ghost lights that appear on the sea, similar to will-o'-the-wisps.
-							- Also called "sea fire"
-					- **St. Elmo's Fire: Beam of Light** (Shinka: Shiranui Itto) – a variation of St. Elmo's Fire where the lances are thrown at the same spot at the same time
-				- **Cross Fire** (Jujika) – crosses his index fingers together and launches a cross-shaped column of fire directly at his opponent
-					- **Twin Guns & Cross Fire** – fires a volley of bullets from two guns before finishing with a Cross Fire attack
-				- **Great Flame Commandment: Flame Emperor** (Dai Enkai: Entei) – creates a large, spiraling fire centered around the palm of his hand, turns it into a gigantic fireball that resembles the sun, and hurls it at his opponent to obliterate them
-					- Ace's ultimate technique
-					- **Great Flame Commandment: Demon Fire** (Dai Enkai: Onibi) – creates a giant vortex of fire around himself and his opponent to trap them inside, then targets his opponent with fire dragons created from the vortex which hit all at once, resulting in a huge explosion
-				- **Flame Mirror** (Kyokaen) – releases a wall of fire to block oncoming attacks
-				- **Fire Leg** (Hikyaku) – covers his feet in flames so that he can launch himself off the ground and do an aerial attack
-		- *Haki* – Ace can use all three types of Haki, but he rarely uses them for combat in favor of fighting with his Devil Fruit abilities
-			- Ace's Haki is fiery in nature, to the point where his very presence is able to stop blizzards from happening on islands as long as he is there
-		- *Weapons*
-			- Ace's favored weapon as a child was a long bo staff made from a metal pipe
-			- In *One Piece: Burning Blood*, Ace wields two twin double-barreled firearms that look like a cross between a pistol and a sawed-off shotgun
-				- Part of his Twin Guns & Cross Fire special attack
+- ## Short Description
+	- [[Portgas D. Ace]] is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 - ## Profile
 	- ### Servant Stats
 		- **True Name:** Portgas D. Ace
@@ -84,7 +14,31 @@ tags:: characters, servants, pirates
 		- **Qualified Servant Classes:** Archer, Lancer, Berserker
 		- **Wish:** to have another chance at life
 	- ### Identity
-		- [[Portgas D. Ace]] is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
+		- #### Legends and Anecdotes
+			- *Son of the Pirate King* — Ace is Gold Roger’s only son, and is hated for it almost as much as Roger was
+				- Alt titles: *Son of the Devil*, *The Pirate Prince*, *Heir to the World’s Greatest Evil*
+			- *A Mother’s Protection* — Ace’s mother, Portgas D. Rouge, carried him for twenty months while on Baterilla Island to keep him safe from the World Government. She died upon giving birth, but not before naming him and ensuring that he would be protected
+			- *The Will of D* — Ace carries the Will of D
+			- *Raised by Wolves* — Ace was raised in the jungle by the Curly Dadan Bandits
+			- *No Surrender* — Ace famously never backs down from a fight, and would rather die than give up or run away
+			- *The Terrors of Gray Terminal* — from a very young age, Ace and his brothers terrorized the people of Gray Terminal and Edge Town
+			- *Bonds of Brotherhood* — Ace made a promise over stolen sake that the bonds between him and his brothers would never be broken
+			- *Pulled from the Fire* — Ace and Curly Dadan survived the burning of Grey Terminal. He carried her home on his back after three days of laying low enough to return from hiding
+			- *The Wanderer* — Ace has a habit of wandering into places he shouldn’t be. Like Wano or Sixis Island
+			- *Fire Fist* — Ace ate the Flame-Flame Fruit and became a fire logia. His devil fruit powers became his main offensive abilities
+			- *Power on His Own Terms* — Ace turned down the government’s offer to become one of the Seven Warlords of the Sea while he was still a rookie
+			- *He Who Challenged an Emperor* — Ace challenged the Strongest Man in the World to a fight, and fought for five days straight with the Knight of the Sea, Jimbei
+				- Alt title: *The Five-Day Fight*
+			- *100 Days of Assassination* — Ace tried to assassinate Whitebeard every day for the first 100 days he lived onboard the *Moby Dick*
+				- He used a bunch of different weapons during his assassination attempts, such as a knife and an axe
+			- *Second Division Commander* — Ace was quickly offered the title of Second Division Commander of Whitebeard's crew after he formally joined up
+			- *Beloved Brother, Beloved Son* — Ace is one of many people beloved by Whitebeard as his son, and by his crew as their brother
+			- *The War of the Best* — Ace was the catalyst for the Paramount War at Marineford. 100,000 marine soldiers and five Warlords of the Sea stood against an onslaught from the Whitebeard pirates and their allies
+				- Alt titles: *Sins of the Father*, *A Love that Launched One Thousand Ships* (Helen of Troy inspired)
+			- *From the Jaws of Victory* — at the last minute, Ace turned around the engage Akainu in battle over his insults towards Whitebeard. This is ultimately his undoing
+			- *A Brother‘s Love* — Ace died taking a killing blow from Admiral Akainu meant for his brother, Luffy
+				- Alt title: *A Life Freely Given*
+			- *Passing the Torch* — Sabo went on to inherit both Ace’s will and Devil Fruit
 	- ### Appearance
 	- ### Personality
 	- ### Relationships
@@ -105,6 +59,7 @@ tags:: characters, servants, pirates
 			- Battle Continuation
 			- Mana Burst
 	- ### [[Noble Phantasm]]
+	  collapsed:: true
 		- #### Fire Fist
 			- Buster-type AoE (Anti-Army)
 			- Fire Fist – launches a column of fire at his opponents
@@ -127,6 +82,7 @@ tags:: characters, servants, pirates
 			- Ill never forgive you for this, anuk
 			- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
 	- ### Combat
+	  collapsed:: true
 		- #### St. Elmo's Spear
 			- A long bo staff made from a metal pipe, topped with a wye joint
 			- An amalgamation weapon that manifested upon Ace's summoning as a Lancer, based on various stories told about his strength in battle from around the world
@@ -173,6 +129,47 @@ tags:: characters, servants, pirates
 						- ((668f55bf-6d4e-42df-8ff4-f8937aaf622c))
 						- ((668f5615-d834-431c-8a1a-4126f08c7249))
 					- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
+	- ### yeah
+	- #### Weapons and Abilities
+		- *The Flame-Flame Fruit* – Ace ate a logia-type Devil Fruit that allows him to create, control, and transform his body into fire
+		  collapsed:: true
+			- Ace mainly uses his flames for a different kinds of offensive attacks that can create and unleash massive amounts of fire for large-scale damage as well as small precision attacks
+			- **List of Techniques**
+				- **Fire Fist** (Hiken) – turns his fist into fire and launches it as a massive column of flame at his target powerful enough to destroy ships and annihilate entire cities at once
+					- Ace's signature attack, and the reason why he's called "Fire Fist Ace"
+				- **Heat Haze** (Kagero) – shoots a stream of fire from the palm of his hand
+				- **Flame Fence** (Enjomo) – creates a circle of fire around a selected area to prevent anyone from leaving or entering
+				- **Fire Gun** (Higan) – points the index and middle fingers of both hands at an opponent, turns his fingertips into fire, and shoots bullets of compressed flame at them
+					- Literal finger guns lol
+				- **Flame Commandment** (Enkai) – amasses a large amount of flames around his body to prepare for another attack
+					- Usually does this by swinging his outstretched hand in a circle to "summon" a swirling ball of flames
+					- **Fire Pillar** (Hibashira) – shoots the collected flames straight upward to destroy at a target above him, or downwards to get rid of any enemies below him while he's in mid-air
+				- **Firefly** (Hotarubi) – creates a swarm of small, glowing fireballs that float around an enemy to prepare for another attack
+					- The fireballs are greenish-yellow and look like fireflies
+					- **Fiery Doll** (Hidaruma) – sends the fireflies flying into his targets all at once and burns them
+					- **Fire Whirl** (Kasen) – shoots the fireflies at his targets at high speed to distract them and cause them to scatter
+					- **Ship Spirit** (Funadama) – instead of firing them all at once, he staggers the timing and uses Observation Haki to place them where his targets are going to be before setting them off
+				- **St. Elmo's Fire** (Shinka: Shiranui) – hurls long lances made out of fire, which has the combined effect of piercing and burning a target at the same time
+					- Definitions for St. Elmo's Fire, Shinka, and Shiranui
+					  collapsed:: true
+						- St. Elmo's Fire – a weather phenomenon where a continuous, luminous discharge of atmospheric electricity is created from the ends of pointed objects (like the masts of a ship) during thunderstorms
+						- Shinka (Divine Fire) – mysterious and strange fires that are beyond man-made, like the ones caused by natural phenomena such as lightning strikes or volcanic eruptions
+						- Shiranui (Unknown Fire) – strange atmospheric ghost lights that appear on the sea, similar to will-o'-the-wisps.
+							- Also called "sea fire"
+					- **St. Elmo's Fire: Beam of Light** (Shinka: Shiranui Itto) – a variation of St. Elmo's Fire where the lances are thrown at the same spot at the same time
+				- **Cross Fire** (Jujika) – crosses his index fingers together and launches a cross-shaped column of fire directly at his opponent
+					- **Twin Guns & Cross Fire** – fires a volley of bullets from two guns before finishing with a Cross Fire attack
+				- **Great Flame Commandment: Flame Emperor** (Dai Enkai: Entei) – creates a large, spiraling fire centered around the palm of his hand, turns it into a gigantic fireball that resembles the sun, and hurls it at his opponent to obliterate them
+					- Ace's ultimate technique
+					- **Great Flame Commandment: Demon Fire** (Dai Enkai: Onibi) – creates a giant vortex of fire around himself and his opponent to trap them inside, then targets his opponent with fire dragons created from the vortex which hit all at once, resulting in a huge explosion
+				- **Flame Mirror** (Kyokaen) – releases a wall of fire to block oncoming attacks
+				- **Fire Leg** (Hikyaku) – covers his feet in flames so that he can launch himself off the ground and do an aerial attack
+		- *Haki* – Ace can use all three types of Haki, but he rarely uses them for combat in favor of fighting with his Devil Fruit abilities
+			- Ace's Haki is fiery in nature, to the point where his very presence is able to stop blizzards from happening on islands as long as he is there
+		- *Weapons*
+			- Ace's favored weapon as a child was a long bo staff made from a metal pipe
+			- In *One Piece: Burning Blood*, Ace wields two twin double-barreled firearms that look like a cross between a pistol and a sawed-off shotgun
+				- Part of his Twin Guns & Cross Fire special attack
 - ## Forms and Alternate Versions
 	- ### Archer
 		- Noble Phantasm
