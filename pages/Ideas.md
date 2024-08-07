@@ -26,7 +26,6 @@ description:: story ideas to be sorted through later
 		- Ariel had a point abt what i could achieve by keeping him in a binder that top surgery scars wouldnt also achieve
 		- Im still thinking abt it
 - I dont really have an overseer for this grail war yet but. Im biased towards it being Marcus Mars. LITERALLY JUST bc i am mars and i think thatd be really funny. Thats the only reason. I know nothing else abt this shitty stupid old man
-- LATER Go back and point relationship pages to freak dynamica pages etc etc
 - [[Stelly]]
 	- Tbh i have been thinking abt this guy SO MUCB. Hes have the WORST TIME in this grail war
 	- I wonder what hed think about being on the other of the battlefield against Sabo. Hed be scared shitless
