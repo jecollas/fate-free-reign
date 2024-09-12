@@ -1,0 +1,31 @@
+description:: pages that are actively being worked on
+tags:: list
+
+- ## Stuff for Cris's reference
+	- Character motivations
+	- Personality types
+	- Dynamics between characters
+	- Backstory information
+- ## Actively in Progress
+	- [[Ideas]]
+	- [[Portgas D. Ace]]
+	- [[Rocks D. Xebec]]
+	- [[The Root]]
+		- At the Magic section
+	- [[Holy Grail War]]
+		- The truth behind the war
+	- [[Freak Dynamics]]
+	- [[Research]]
+		- Abstracts/Short Descriptions
+	- [[Catalysts]]
+	- [[Servants]]
+	- [[Holy Grail]]
+	- [[Magic]]
+- ## Kinda eh
+	- [[Haki]]
+	- [[Throne of Heroes]]
+	- [[Catalysts]]
+	- [[Holy Grail]]
+	- [[Noble Phantasm]]
+	- [[World Government]]
+- ## Namespaces??

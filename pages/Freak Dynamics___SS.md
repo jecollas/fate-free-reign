@@ -1,0 +1,1 @@
+- Freak dynamics between servants in the Grail War

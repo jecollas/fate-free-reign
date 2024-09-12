@@ -1,0 +1,14 @@
+## Short Description
+	- [[King Stelly]] and [[Queen Otohime]]
+- She instills a fuckign backbone in this boy
+	- Like for instance. The kid that sabo’s parents adopted to replace him and who went on to become the king of island and grew up to be a sniveling power hungry little coward. What if that guy was a master. And what if he summoned one of the greatest and most beloved queens of the era as his servant. What if he faced his adopted brother on the field of battle and realized that there was no way he could have measured up to him. And what if he was so humbled in the face of both that and his servant’s sheer passion, determination, and genuine care for everyone around her, that he decided to become a better king for his people and a better man for himself. What then, huh?
+	- King Stelly of the Goa Kingdom is going to get the fate/zero Waver Velvet treatment so fucking help me
+- I think these two share a sheer stubborn determination to make things better, but where Otohime wants to make things better for her people, Stelly only wants to make things better for himself
+- Yeah stelly is a wet coward paper bag of a man, and yeah he was a pathetic little shitheel the entire reverie, but he still went there and he still did the damn thing. Yeah he was screaming crying throwing up the whole time but he still chased after opportunities for personal advancement
+- Otohime was also opportunistic this way! She saw opportunities to further her own agenda by making personal connections and building support for her cause to succeed
+- I think if anyone could look at Stelly and see an equal it would be Otohime. And i think she could inspire him to become a better person and a better king
+- Fr i think she gets through to him and inspires him to be a better man and a better king. Not due to any extra effort on her part (she will not be mothering or nannying this guy), but because she treats him like a normal person and is kind to him. Has anyone ever been kind to stelly? Truly kind, with no strings attached? My guess is no. Otohime is the first
+- He is absolutely going to fuck her over tho. Bc hes a slimy little weasel and a bigot about fishmen
+- Someone shows him genuine care and empathy for the first time in his life and hes like “ABORT ABORT ABORT” and sabotages the relationship bc CLEARLY they must want something from him and theyre being sneaky about it
+	- What can i say, Outlook and Didit ruined this guy’s fucking life emotionally speaking
+- Otohime has independent action so if she doesnt like something she can be stubborn and leave

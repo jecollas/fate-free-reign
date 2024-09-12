@@ -1,0 +1,6 @@
+- The Mary Read/Mark Read thing
+	- ((6695df3f-bf1f-4f74-abd1-58f98e08ca97)) (blog)
+		- ((6695e0e1-bff7-4441-90a4-f4ee1b4aeee6)) (blog)
+		- *Mistress of the Seas: A dramatic biography of Anne Bonny, the lusty eighteenth-century beauty who became a pirate queen*, written by John Carlova in 1964
+	- ((6695e2c2-1f32-4614-916c-55d3a064173c)), Library of Congress
+		- Article bibliography points to ((6695e21b-8e2a-4aad-b590-f89db970b887)), Library of Congress

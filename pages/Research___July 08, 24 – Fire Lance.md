@@ -1,0 +1,26 @@
+tags:: Portgas D. Ace
+
+- OH MY GOD I JUST FOUND THE COOLEST THING EVER WHAT THE FUCK
+	- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35)) — wikipedia
+	- I was looking for this fucking thang and found fire lances instead. What the freak
+		- ((6695ac8f-0aca-47a0-b3dc-21a9c25aa717))
+	- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
+- God. Fuck. Im going down a fire lance research rabbit hole
+	- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35)) — wikipedia
+		- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
+		- ((668f5ec0-5c74-48db-b0e6-f556361218c0)), 11/28/2017 (citation link from fire lance wikipedia page)
+			- “Fire Cylinder” in Ryukyu around 1450
+				- Recorded in the 1453 item of the actual record of the Yi Dynasty
+			- “Fire Spear” during the Ōnin War in the Ashikaga Period
+				- ((668f5f70-e310-45e5-b226-e58a885ec2a0)) — Britannica
+					- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
+				- ((668f5f7e-3772-4ad2-8f49-bbea0cfc82fa)) — wikipedia
+	- Wano is visually inspired by the feudal era japan, (1185-1600), but its story borrows heavily from the isolationism that characterized the Edo period (1603-1868) after the “Closed Country” edict of 1635
+		- ((668f5f96-aa7f-4127-988d-473ddb2e72ac)) — one piece fan wiki
+		- ((668f5fa5-e065-4948-b649-4bbb70297fc9)) — wikipedia
+			- ((668f5fba-d855-4707-8c42-ba644059072a)), ((668f5fbe-7c0b-46fc-bc5d-803f47df9cbd))
+	- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
+		- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
+		- Stories of him with a Fire Spear could come from Ace’s time in Wano
+			- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
+		- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
