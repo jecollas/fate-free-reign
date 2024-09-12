@@ -424,4 +424,4 @@
  :graph/settings {:orphan-pages? false}
  :feature/enable-timetracking? false
  :ui/show-brackets? false
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? false}

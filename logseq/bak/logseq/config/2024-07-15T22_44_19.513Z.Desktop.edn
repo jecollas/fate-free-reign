@@ -281,7 +281,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 0
+ :ref/linked-references-collapsed-threshold 50
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -423,5 +423,4 @@
  :default-home {:page "START"}
  :graph/settings {:orphan-pages? false}
  :feature/enable-timetracking? false
- :ui/show-brackets? false
- :publishing/all-pages-public? true}
+ :ui/show-brackets? false}

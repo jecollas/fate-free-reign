@@ -50,7 +50,7 @@
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
- :ui/auto-expand-block-refs? false
+ :ui/auto-expand-block-refs? true
 
  ;; Enable Block timestamps.
  ;; Default value: false
@@ -281,7 +281,7 @@
 
  ;; Configure the threshold for linked references before collapsing.
  ;; Default value: 100
- :ref/linked-references-collapsed-threshold 0
+ :ref/linked-references-collapsed-threshold 50
 
  ;; Graph view configuration.
  ;; Example usage:
@@ -421,7 +421,4 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "START"}
- :graph/settings {:orphan-pages? false}
- :feature/enable-timetracking? false
- :ui/show-brackets? false
- :publishing/all-pages-public? true}
+ :graph/settings {:orphan-pages? false}}
