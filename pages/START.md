@@ -1,5 +1,3 @@
-public:: true
-
 - [[Contents]]
 	- [[Github reference]]
 	- [[Premise]]
