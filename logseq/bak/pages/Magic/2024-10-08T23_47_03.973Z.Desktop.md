@@ -1,0 +1,69 @@
+alias:: Reference/Fate/Magic
+description:: reference page for how magic works in fate/stay night. spoiler alert: its obtuse as fuck
+
+- Fuckin, direct quotes from the visual novel
+	- Similarly, Magic is the label we use for Mystics –magical mysteries– that can't be realized with any amount of time or skill, while magecraft, thought it *looks* mysterious, is something anyone can do with enough time and resources.
+		- I'm a mage, and the kind of Mystics I use are merely magecraft, not True Magic.
+	- The other main thing I've inherited from my father is the Magic Crest engraved into my left arm.
+		- A Magic Crest is proof that I'm the heir to our lineage.
+		- It's like all the techniques of the Tohsaka condensed into a tattoo.
+	- Rin's summoning of Archer
+		- I flick a formless switch within myself. With a *click*, I feel my insides turn over to something else. My normal nerves invert and become circuits for conducting magical energy.
+			- Rin Tohsaka is no longer human. She's just a component in the execution of Mystics
+		- ... I melt from my fingers. No, I'm filled up from my fingers. The mana I'm taking in is so dense, it overwrites my bodily sensations.
+			- That's why I'm being destroyed at the same time I'm being filled.
+		- Running through my body is the power –mana– from the atmosphere. I convert it into a different type of energy through my body's circuits. A mage's body is nothing but circuits.
+			- Circuits to connect the ethereal to the material. The Mystical outcome we produce is what we call magecraft.
+		- My body grows hot. It seems like horns are growing from my forehead. It seems like wings are sprouting from my back. It seems like scales are covering my hands. It feels like there's water pooling around my ankles.
+			- ...Sweat drops. Stab. Stab. Swords pierce my body.
+		- These are the stigmata that reject my body, which becomes a circuit. No matter how gifted a mage is, we're only human. In a human body, the pain is something we must live with whenever we use magecraft.
+		- The cycle doesn't let up. Beyond the agony, deep within the trance, lies the mental state necessary for connection.
+			- ...Pain wriggles in my left arm. To aid the caster, my Magic Crest autonomously begins an incantation, invading my nervous system.
+		- The mana in the atmosphere I've taken in turns to blood. It's like molten lead, while my activated Magic Crest resembles thorny nerves. With a crunching sensation, it creeps throughout my body like a thorny centipede.
+		- Within the hurt, I forget my self. At the same time, I can feel it taking hold of me, like I've reached where I need to go.
+		- Time to begin. I convert the mana I've collected into magical energy for fixation. All that's left... is to feed all that energy into the engine –the summoning circle– until my body runs dry.
+		- My vision goes dark. What lies before me now is the Fifth Factor, said to be imperceptible to the naked eye. My vision shuts off on its own, fearing what it might see.
+	- Bounded Fields / Reality Marbles
+		- Innate Bounded Fields. Mages call them Reality Marbles.
+			- Reality Marbles are considered one of the apexes of magecraft. They're said to be infinitely close to True Magic.
+			- For the last few centuries, Bounded Fields have served as mages' defensive barriers. To put it in simple terms, they're like a home security system with real teeth.
+			- Reality Marbles, however, are something else entirely. You can think of them as a space that consumes reality itself. When a mage materializes their imaginary world –a representation of their mind– and overwrites the real world with it, we call the resulting field a Reality Marble.
+				- It's a large-area magecraft that twists – no, *rebuilds* the world according to a mage's wishes.
+		- Bounded Fields are meant to protect their casters. You can consider them a terrain-based magecraft formed by weaving magical energy into a net and applying it to the earth to affect the inside of the field.
+			- There are countless types of effects they can have... ranging from wards that isolate an area from the outside world to avoid detection, to fields that limit the type of magecraft that can be activated within.
+			- The most offensive type suppresses biological functions inside the area of effect.
+	- Magecraft is, taken to its extreme, a skill supposedly meant to release magical energy. You could say that magical energy is a life force.
+		- Magical energy is separated into two sources: mana, which comes from the world's atmosphere, and od, which is created within living creatures.
+		- Obviously mana, which comes from the world itself, it superior to od. The sheer power of the world's mana is simply not even comparable to the od one human can create.
+		- No matter the form it takes, magecraft utilizing mana will always surpass anything created from an individual's od.
+	- Magic Circuits
+		- Typically, humans do not have any lines which allow magical energy to pass through their body. To temporarily change my body to create a pseudo version of the lines, I need enough concentration to unify my entire physical and nervous systems.
+			- Magecraft is a battle with yourself. For example, I insert a burning steel rod into my backbone. The steel rod itself is the one and only Magic Circuit I can prepare for myself. By passing this deep within my body and connecting it to my other nerves, I can finally be a mage.
+			- This is not a metaphor. And if you look closely, a series of metal rods, which cannot normally be seen or touched, pierce my backbone.
+		- So a powerful mage is one who excels at drawing magical energy from the world.
+			- It's a lot like a filtration system. A mage will use their own body's circuits to draw in mana from outside and convert it into something usable.
+			- Mages call the circuits they use to accomplish this "Magic Circuits."
+		- This is the inborn talent part. The number of Magic Circuits one has is determined at the moment of birth.
+			- Typically, humans have hardly any Magic Circuits. They're normally quite rare.
+			- That's why mages will spend generations trying to ensure their descendants have a body more suitable for magic.
+			- Some families even go as far as to practice selective breeding in order to increase the number of Magic Circuits in their children.
+	- According to Kiritsugu, everyone is well-suited to one specific form of magecraft. He also said something about drawing out magical energy based on the person's "origin," but I never quite understood that part.
+		- What I do understand is that even someone like me can use at least one form of magecraft. If I can do that, then maybe I can be like Kiritsugu.
+		- Listen, Shirou. Learning magecraft means leaving behind common sense. You die when the end comes for you, and you kill when you must. Life isn't at the core of what we do, death is. Magecraft is walking the path of self-destruction.
+	- Shirou's magic thing
+		- I've been working on this for a little over an hour. And after all that time, I'm finally able to create one pseudo-circuit...a circuit capable of creating magical energy using my own self.
+		- "Basic structure, analyze." All that's left is to allow the magical energy to flow naturally.
+			- Shirou Emiya is no mage. He is just a user of magecraft who can only create magical energy within his body and channel it into objects.
+		- Passing magical energy into something other than yourself is like mixing poison. My blood is a far cry from the blood of an iron pipe. Forcing an entirely different sort of blood through an object may well destroy it rather than enhance it.
+			- To prevent that from happening, I need to properly understand an object's structure and pass magical energy into it between the small vacant spaces.
+		- ...And it's not that I chose this, but it's really all I can do. It would be much easier if I could make something from shapeless clay, but a substitute that just recreates its form is all show and no substance.
+			- Which explains all the junk around. Whenever I fail at Strengthening magecraft, I try to make substitute objects to practice and calm down on, but they all end up empty.
+			- I can visualize the structure of an object easily, and I can recreate something very similar. But it's hollow, and obviously doesn't function at all.
+		- ... I wipe the sweat off my brow. I realize I'm absolutely dripping with sweat. If this is as bad as it got, I should consider myself lucky. But what happened earlier was really bad.
+			- Had I taken even a second longer to recover, my internal organs would probably be must about now.
+			- "If only pushing myself to the brink of death helped me improve, there'd be some hope here." But nothing comes that easily. At the same time, fear of death will stand in the way of improving my magecraft.
+	- According to Kiritsugu, the Mage's Association is only interested in concealing Mystics. Even if, say, a mage carried out an experiment that sacrificed, let's say *a lot* of citizens, the Association wouldn't punish them.
+		- Their priorities are expressly in preventing the public from becoming aware of magecraft, which does not mean magecraft is completely banned.
+		- Honestly, anything goes as long as the truth doesn't come out...at least that seems to be how that insane bunch conducts themselves.
+- ### [[Sources]]
+	- ((66bfffab-333f-4467-94c2-c44fd0f1c6de))

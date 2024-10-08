@@ -1,0 +1,115 @@
+alias:: Reference/Fate/Holy Grail War, Heaven's Feel
+description:: reference guide for the Holy Grail War
+
+- The **Holy Grail War**, also known as **Heaven's Feel**, is a magical ritual where seven Masters each summon a Heroic Spirit as their [Servant]([[Servants]]) to fight to the death for possession of the [[Holy Grail]] in a battle royale.
+	- The Grail chooses seven Magi as masters and gives them the ability to summon a Servant as their Familiar to do battle until only one pair is left
+	- The last Master/Servant pair standing gets claim the Holy Grail and use the Mana Reservoir inside of it to make a wish
+	- Servants are summoned into one of seven classes: Saber, Archer, Lancer, Rider, Caster, Assassin, and Berserker
+- Most Masters and Servants enter the war with a specific wish in mind for when they obtain the Holy Grail
+	- Not everybody wants the Grail
+		- Some seek it for the sake of seeking it
+		- Some are against its very existence
+		- Some pay it no mind in lieu of pursuing other goals
+	- Jubstacheit von Einzbern believes that all Servants wish to be resurrected for a second life
+	- Lancer believes no true hero would actually be interested in resurrection
+		- He claims that true heroes are not attached to the world, but are only attached to the oaths they could not fulfill
+- ## Premise
+	- "The Holy Grail War... A fight to the death over a single chalice. A ritual that's gone on for centuries..."
+		- The mages who take part in the Holy Grail War are called Masters. It doesn't denote a rank of any kind; it merely describes their role.
+	- The Holy Grail War. It's a grand ritual that's been repeated for hundreds of years, a fight to the death between seven participants, of which only one can survive.
+	- Only one person can possess it. The Holy Grail can only grant one wish for one person. Despite that, seven mages are needed to summon the Grail to this land.
+		- Seven collaborators to create one miracle.
+		- So, as you might imagine... It was only a matter of time before they started fighting over the Grail.
+	- Like so many conflicts, it started as a competition over property right. The seven mages equally use the power of the Holy Grail to summon their respective familiars, then do battle over the Grail itself.
+	- Only one mage can obtain the Grail. As a result, seven people who started as colleagues ended up in a ferocious battle to the death.
+		- That's the gist of the ritual known as the Holy Grail War – a struggle for ownership between mages.
+	- That's how Heroic Spirits are summoned from across time, whether from the Age of Gods or as recent as a century ago. The seven Heroic Spirits serve and protect their seven Masters, and each Master sends their Servants out to defeat enemy Masters.
+		- ...It's a deathmatch between heroes of every age and every land. That's the story behind the ritual we call the Holy Grail War.
+	- "Fine. Let's assume it's really a Holy Grail. Then why would something like the Holy Grail War need to happen? If the Holy Grail exists, we shouldn't be killing each other over it. Something so amazing should be shared."
+		- "A reasonable opinion. However, not an option we have the luxury of. Only one can obtain the Holy Grail. We cannot ourselves choose who. That is for the Grail to decide."
+	- "The selection of the seven Masters and the summoning of seven Servants are all determined by the Holy Grail itself. I mentioned that this was a ritual. The Holy Grail selects those who are worthy of possessing it, and then each against the other to select the sole bearer.
+		- That is what a Holy Grail War is...a sort of necromantic ritual where those chosen by the Holy Grail fight to the death to obtain it."
+	- "Huh? But you said it's a battle to the death. Even Kotomine said that." / "You do kill each other."
+		- "Kirei, shush. Okay, so the Holy Grail here is in spirit form. It's not tangible as an object. It needs to be summoned in a special ritual... Kind of like a séance. Summoning it can be done just by us mages, but as long as it's in spirit form, we can't touch it. Do you understand what that means?"
+		- "I do. Only spirit forms can touch other spirit forms. Oh so that's why you need Servants!"
+		- "Exactly. To put it in simple terms, the goal in the Holy Grail War is for you to eliminate all the Servants other than your own. There's no rule that you have to kill masters."
+- ## Procedure
+	- The Great Grail requires sixty years in order to amass enough Mana to summon Servants, making the planning period span over generations.
+		- If the Grail is unable to utilize its energy, that which is leftover can reduce the time to as little as a decade, such as in the case of the period between the Fourth and Fifth Wars.
+	- It is possible to make a wish upon it with only the power of five Servants, allowing it to grant most wishes. It is still incomplete, and will take at least six to bring it into form. Its true purpose, opening a hole to the Root, requires all seven Servants. Once the vessel is filled, the energy of the Heroic Spirits returning to the "Throne" is used by the Great Grail in a ritual to open a "hole" leading to Akasha.
+	- As a conflict between Magi, the wars' preparation and decision-making are controlled by the Mage's Association. To avoid conflicts of interest, the Associate invites the Holy Church as Arbiters to onboard new Masters and neutrally enforce rules, although they only participate to assert their dominion over Christian relics and hope to confiscate the "Holy Grail" at the right opportunity.
+- ## Strategies
+	- "Now you get it. Servants have enough trouble defeating other Servants. So, what could *you* do? It's simple, really. A Servant cannot exist without their Master. No matter how powerful the Servant, they will disappear once the Master is killed. Which means..."
+		- Now I get it. Nobody would make things harder for themselves. If someone wanted to make sure they won, killing the Master would be the much easier path.
+		- "Yeah...I get it now. It's easier to defeat the Master than the Servant. Let me ask you this, then. If the Servant is defeated first, is their Master no longer a Master? If Servants are the only ones who can touch the Holy Grail, then a Master who lost their Servant becomes obsolete, right?"
+		- "No, as long as the Command Spell remains, they still have the right to remain a Master. A Master is simply a mage who can make a contract with a Servant. As long as they have a Command Spell, they can form contracts with as many Servants as they want."
+		- "A Servant who loses their Master does not disappear immediately. They can remain in this world until they run out of magical energy. Servants who lose their Masters, and Masters who lose their Servant can forge a new contract together, and return to battle. Which is why Masters seek to kill other Masters. Allowing others to live may pose a greater risk later on."
+- ## Origin
+	- The First Holy Grail War was not a war at all, but rather a ritual meant for the Three Founding Families (Einzbern, Tohsaka, and Makiri) to reach [[Akasha]]. It took ten years after the system was established for it to gather the energy necessary to manifest.
+		- The Three Families originally planning to utilize it realized that the system could only allow for one person to utilize it.
+	- Though they had the same goals, their opinions on how to reach them were different, so the incomplete nature of the ritual caused them to break off their alliance.
+		- Instead, the families create the Heaven's Feel system to summon the Grail, and then fight for it amongst themselves.
+- ## The Truth Behind the War
+	- The true purpose of the Holy Grail War is to fill the vessel of the Grail with the souls of all seven Servants and use the combined energy to burn a hole in reality and reach [[The Root]]
+		- The Greater Grail was designed to open a gate to the Root by using the souls of all seven Heroic Spirits collected by the Lesser Grail as fuel
+		- Defeated Servants revert to being pure energy and, while they would normally disappear from the timeline by returning to the Throne of Heroes as information for the true Heroic Spirits, the Grail halts that process temporarily and collects them
+		- Servants are spiritual beings, which makes them collectible by the Lesser Grail
+		- They get broken down into component mana as fuel for either the wish granting process or the Greater Grail's true purpose
+	- Uses the guise of a wish-granting ritual to draw in potential Masters, who would then summon the Heroic Spirits meant to be used as sacrifices to the Greater Grail
+		- Also hides the Three Families’ true goals of reaching the Root from other mages who would likely steal the Grail away if they knew the truth
+			- Only the Three Founding Families and their overseer Zelretch know the truth in order to maximize their own chances of reaching the Root
+		- Ideally, all the Masters would use their Command Seals to compel their Servants into suicide upon summoning and then begin the Heaven’s Feel ritual
+			- However, the ritual's very premise is flawed: only a spiritual body like a Servant, not a flesh-and-blood Master, is capable of grasping the Grail and completing the ritual.
+			- As such, the final Master, instead of sacrificing their own Servant to perfect the Grail and reach the Root, must keep their Servant alive to claim an energy source that is much weaker, but still capable of granting far-reaching wishes to the final Master/Servant pair.
+- ## Heaven's Feel
+	- **Heaven's Feel** is a Magic that allows for the **Materialization of the Soul**
+		- Stops the inevitable dispersion of the soul once it no longer has an anchor to the World, and essentially makes it transcend to a higher form of existence.
+		- It is a Magic that realizes true immortality by making the soul into a high-dimensional planar being capable of interacting with the material world as a mental body without having to return to Akasha.
+		- The practitioner will acquire an unlimited source of Magical Energy due to the soul becoming analogous to a perpetual motion machine.
+	- The Greater Grail uses several parts of Heaven's Feel in an attempt to recreate it in its entirety.
+		- Using an incomplete version, it takes a raw soul, raw energy made from spiritual particles, and copies information of Heroic Spirits in order to generate Servants.
+		- Rather than being actual resurrection, it is the temporary formation of a soul that does not require a real body, meaning that they are not truly brought back to life.
+		- In fact they are not considered proper Life but merely Ether in the form of past individuals.
+		- The World, considering that they should be dead in the present, considers Servants to be a contradiction that must be removed, so they need a constant connection to their Masters' Magical Energy to keep from being erased.
+		- After a Servant is killed, the Holy Grail temporarily stores their souls before they are returned to Akasha.
+		- In the case of receiving an actual body from the corrupted Grail, they are able to exist for a longer period of time, but they are still considered as not alive and require Magical Energy to remain in the present World.
+- Quotes from the visual novel
+	- Exchange in the church
+		- "Then what if you use up your Command Spells? That means you can't form another contract with another Servant, and the Servant who gets freed will pair up with another Master?"
+			- "Wait, that's..."
+			- "Hm. You are correct. If you use up all your Command Spells, you will be freed from your duties as Master."
+		- "Did you say 'repeating Holy Grail War'?" Hold on a minute. It repeats? Does that mean a battle like this happened before?
+			- "Of course not. Do you think an overseer would have been dispatched were this the first time? This church is a special agency responsible for collecting relics. Our organizations original goal is to investigate and recover the True Cross, but here our duty is to assess the Holy Grail.
+			- Our job is to investigate the seven hundred twenty-sixth Holy Grail that was detected in the Far East, and recover it, if it is indeed real. And if it is not real, we will repudiate it."
+			- "Seven hundred twenty-six? Are there really that many Holy Grails?"
+			- "Who knows? At the very least, it means there are that many objects *thought* to be Holy Grails. And one of those is the Holy Grail observed in this town, which triggered a Holy Grail War. According to extant records, the first battle occurred about two hundred years ago. Since then, Masters have fought over it every fifty years or so. This will be the fifth Holy Grail War. The last one happened about ten years ago, so this is the shortest cycle yet."
+		- "Wha... Are you all insane? You guys have done this thing four times already!?"
+			- "I quite agree. As you pointed out, this has been repeated many times. That's right... In the past, the repeated Holy Grail Wars have been exceedingly fierce. Masters were driven by their own desires as they killed each other indiscriminately, forgetting their disciplines as mages."
+		- "You may already know this, but the biggest sin to commit as a mage is practicing magecraft within normal society. Mages must never reveal their identities to others. But the Masters of the past broke that law.
+			- "The Mage's Association finally dispatched an overseer to crack down on Masters like them, but that system was only put in place by the time of the Third Holy Grail War. And that first overseer was my father. Does that make sense now, my boy?"
+		- "The previous Masters willingly broke the laws of mages, right? Then let's say the Holy Grail is real. What if whoever survives and wins is selfish and uses the Holy Grail for their own selfish purposes? Wouldn't it be pretty bad if the Holy Grail went to someone who has no problem killing people? If the Association's job is to supervise mages, shouldn't you be the one punishing those types of folks?"
+			- "Of course not. All mages are motivated by their self-interests. I am only responsible for managing the rules of the Holy Grail War. I do not care what happens afterwards. The Association does not intervene, no matter what sort of person obtains the Holy Grail."
+			- "But that's absurd! What happens if the Holy Grail is obtained by a Master who's absolutely the worst!?"
+			- "That would be bad. But it is out of our control. The Holy Grail is the one that chooses its owner. And we do not have the power to stop a Master who has been chosen by the Holy Grail.
+			- You see, it is a chalice capable of granting any desire. Whoever obtains it will be able to do as they please, I'm sure.
+			- So if that idea troubles you, then your path is clear: survive and win. Doing this yourself would be the approach most certain to work, as opposed to relying on others, correct?"
+		- "Don't jump to conclusions. Obtaining it is the easy part. After all, this church actually manages and is in possession of the Holy Grail. If you're wondering whether someone has touched it, I'll have you know I touch it every day."
+			- "What?" Th-the Holy Grail is here in the church!?
+			- "Well, it's just a vessel. It's quite empty. As Rin said earlier, the Holy Grail is in spirit form.
+			- The church is safekeeping a well-made replica of the Holy Grail. We use it as the catalyst to draw the real Holy Grail out and create the wish-granting device it becomes. I suppose it is similar to a Master and Servant relationship. And yes, there was indeed a man who obtained the Holy Grail which temporary turned real."
+			- "What do you mean? Didn't the Holy Grail appear?"
+			- "Manifesting the Holy Grail is easy. Seven Servants appear, and then, some time later, the Holy Grail does as well. As Rin pointed out, there's no real need to kill other Masters.
+			- But that's not enough to complete a Holy Grail. The Grail selects a worthy owner. For that reason, a man who had avoided the battle was unable to obtain the Holy Grail."
+		- "We have nothing further to discuss. Those qualified to obtain the Holy Grail are Masters who have Servants. The moment there is only one of the seven of you left standing, the Holy Grail shall manifest before you. So, tell me: Will you join this Holy Grail War?"
+			- "Only mages can be selected to be Masters. If you are a mage, you should have already been prepared.
+			- However, if you are still lacking resolve, there is nothing to be done.
+			- But that makes both you and your mentor failures. A mage like you would only be a nuisance in battle, so you might as well get rid of your Command Spells right here, right now."
+- ### [[Sources]]
+	- ((66bfffab-333f-4467-94c2-c44fd0f1c6de))
+	- ((66bff2d2-bd81-473d-8b0b-2dde26649966))
+		- ((6688a490-efa7-4140-aed1-1820f55d362b))
+		- ((668893a3-e709-43b7-824d-c801bb6282be))
+		- ((6688a32d-9ca7-4e61-b638-00dbddb91fc1))
+	- ((66bff2d2-277b-4a03-ad44-2e14c5ac592f))
+		- ((66887431-629a-49be-abd7-1ff9ee4ecb42))
+		- ((6688997d-3208-4279-8d59-a88f9b2e8625))
