@@ -20,6 +20,7 @@ title:: Reference Text
 		- [[Law]] bc he heard from doflamingo or cora
 		- [[Blackbeard]] bc why not. Hes a dick
 - ## Scene Ideas
+  collapsed:: true
 	- Fight scene with [[Ace]] and [[Roger]] vs [[Xebec]]
 		- mimics the foght between roger and garp vs xebec when they were alive
 		- This fight is ace and roger reconciling and naking peace long enough to defeat xebec, then theyll fight each other and roger loses on purpose and its a whole thing /pos
@@ -36,6 +37,7 @@ title:: Reference Text
 	- WHOS GONNA MAKE THEIR SERVANTS KILL THEMSELVES
 - ## Master/Servant Rosters
 	- ### [[Master Factions]]
+	  collapsed:: true
 		- [[The World Government]]
 			- [[The Five Elders]] and Im
 			- The [[Celestial Dragons]]
@@ -59,6 +61,7 @@ title:: Reference Text
 			- Bounty Hunters
 			- Normal people living their lives in one of the blues, on the grand line, or on a sky island like Skypiea or Weatheria
 	- ### Master Candidates
+	  collapsed:: true
 		- #### [[The World Government]]
 			- An agent of [[Cipher Pol 0]], representing the interests of Im and [[The Five Elders]]
 				- Probably [[Rob Lucci]] or Spandam tbh

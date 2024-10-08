@@ -6,6 +6,7 @@
 		- [[Research]]
 		- [[Sources]]
 		- [[Pages in Progress]]
+		- [[Visual Novel Quotes]]
 	- Plot Stuff
 		- [[Celestial Dragon Shitshow]]
 		- [[Grand Line Holy Grail War]]

@@ -1,0 +1,203 @@
+description:: literally this is just all quotes from the visual novel. i've been taking so many screenshots
+
+- Quotes from the visual novel
+- Masters and Servants
+	- Actually, it doesn't take a major evocation to call forth a Servant. Servants are invited by the Holy Grail.
+		- Masters anchor them to the world and supply the magical energy to materialize them, but the Servants are the ones who choose to respond to the summons.
+	- "Oh. The Holy Grail calls the Servants, but Masters keep them in the world."
+		- "Yes. That's your power as a Master. You supply your Servant with magical energy so that they can remain in the world."
+	- The mages chosen by the Holy Grail are called Masters, who use the blessing of the Grail to acquire powerful familiars known as Servants.
+		- Two things serve as proof that one has become a Master: The summoning and command of a Servant, and the mark of Command Spells to compel the Servant's servitude.
+		- The first goes without saying. The Archer I summoned yesterday –no, a few hours ago, to be exact– is Rin Tohsaka's servant. As for the second... A Master must closely guard the Command Spells that control one's Servant. This is probably the most critical aspect of being a Master.
+- Servants
+	- No, not just a man. Even from here, I can tell that it's brimming with a shocking amount of magical energy. Don't be fooled by its appearance. I'm staring at something that's undoubtedly more than human. It's a human-shaped "ghost" that's on the level of an Elemental.
+	- "Ah, so that's your concern. There's no problem. While I'd need to change clothes to blend in, that's only while I'm materialized. Servants are fundamentally spiritual beings. When we're out of combat, I can take an incorporeal state to reduce the burden on my Master."
+		- "Oh, okay. That's what makes you a Heroic *Spirit*. You need your Master's magical energy to form a body, so if I cut that supply..."
+		- "We naturally return to spirit form. In this state, Servants are more like guardian angels. We can only be observed by Masters connected to a leyline. Of course, we're still capable of conversation or reconnaissance."
+	- "Servants are spirits first. Our very existence is similar to grudges or obsessions. That makes us sensitive to lingering emotions such as these. There were other areas around town that felt dense with such a feeling, but this is on a different level. From our point of view, it's almost like a Reality Marble."
+	- Since antiquity, souls have always been difficult to handle. They're theorized to exist and are considered to be necessary components of magecraft, but only one mage has ever proven their existence.
+		- "...You surmise correctly. I did say that we are fundamentally spiritual beings. That means we feed on the Second and Third Factors: the soul and the mind. Just as you sustain yourselves with the flesh of creatures, we Servants derive nutrition from the mind and soul.
+			- While said nutrition doesn't change our baseline abilities, acquiring more of it does make us more durable. It increases our reserve of magical energy, in other words."
+		- "So your own Master's magical energy isn't enough?"
+		- "It's sufficient, but it never hurts to have more. In war, some weaknesses can be compensated with material when one is lacking in fighting strength. It's a basic strategy for a Master to take energy from the humans around them. In that sense, this Bounded Field is an efficient tactic."
+	- Immortalized by what humanity says about them, they cease to be merely human after death, and ascend to something greater.
+		- ...People who work miracles, who save the multitudes, who accomplish great feats, are elevated to the status of heroes, either in life or after death. They become a type of Elemental we call Heroic Spirits– guardians of the human race.
+		- It doesn't matter whether they were historical people or characters from mythology. Heroes are created by the thoughts of the people. We imagine them as the idols we wish they were and treat them as if they were real.
+		- Objective truth is irrelevant. Fame and faith are sufficient to give form to these legends.
+		- They're humanity's ultimate ideals, the greatest among us. That's what it means to be a hero and a Heroic Spirit.
+		- Naturally, it's impossible for a mere human to control something greater than human. What mages usually do is borrow a portion of their power and imitate their feats. Summoning a complete Heroic Spirit is simply impossible.
+	- Servants are heroes whose spiritual rank are elevated to the magnitude of Elementals or Divine Spirits are death. In a way, they're not unlike angels and demons. They're powerful familiars on their own, but their greatest strength is the mighty weapons that prove they're heroes. We call these magic items Noble Phantasms.
+		- Heroes' weapons are known to have slain dragons and gods; to have conquered the earth. Servants activate Noble Phantasms with their own magical energy. It's not unlike magecraft, actually. Servants use their Noble Phantasms as catalysts to recreate the destruction from their legends.
+	- "A familiar... Well, Servants might be in that category but they're on a different level. See, that girl over there is a Ghost Liner, considered to be one of the strongest of all familiars."
+		- "A Ghost Liner? So does that mean she really is a ghost?"
+		- "A ghost... Well, they are similar, but Saber will kill you if you keep thinking like that. Servants are incarnated heroes of the past... So they're a kind of spirit well beyond humans."
+		- "Huh? Incarnated heroes of the past?"
+		- "That's right. Whether they're from history of the modern world, these spirits of dead, legendary heroes are summoned and materialize here."
+	- "Nope. Once something –whether that be humans, an animal, or even machinery– achieves something great, they are removed from the cycle of reincarnation and sublimated into something with a higher rank. Didn't you ever learn about that?
+		- That's what Heroic Spirits are. Put another way, they're kind of like pseudo-gods who are all worshiped in some way or another."
+- Servant Classes
+	- This is their temporary label, and the way they're allowed to exist in this world. The Holy Grail provides vessels that Heroic Spirits can easily materialize in, called "classes," and only Heroic Spirits that fit these classes can be summoned.
+		- A class is like a passport that lets a Heroic Spirit visit the modern era to act as a familiar. It's a material vessel that they temporarily possess.
+		- (oh m fucking god. servant classes are class constructors. thats so fucking good WHAT)
+	- Each is assigned one of seven classes:
+		- Saber, the knight of the sword.
+		- Lancer, the knight of the spear.
+		- Archer, the knight of the bow.
+		- Rider, the cavalier.
+		- Caster, the mage.
+		- Assassin, the silent killer.
+		- Berserker, the mad warrior.
+	- Only Heroic spirits with attributes corresponding to the seven classes can be summoned to the modern world, and they become Servants whom the Masters command.
+- Command Spells
+	- The emblem on my right hand aches. Three Command Spells. They allow a Master to issue three unbreakable commands to their Servants.
+	- "...Ugh. Listen. Command Spells let you force a Servant into action. You can use them not only to stop actions, but also strengthen actions."
+		- "For example, normally I can't come to you instantly from a distant location. But if you order me to with your Command Spell, it's possible as long as it is something that is attainable with our magical energies. That's what the power of forced compliance means – not even we Servants can resist. Your Command Spells are three crystallizations of grand magecrafts that can make us overcome our bodily limits. Though, you're down to two now."
+	- "...You're right. I did miscalculate. The more vague an order is, the more the power of a Command Spell diminishes. They're weaker on long-lasting, broad commands like 'protect me until the end' or 'win this war for me.' The compulsion will be sustained, but there will be Servants who can resist the minor pain of disobedience."
+		- "On the other hand, singular commands like 'unleash your next attack at all costs' or 'do not break that glass' are absolute, and even powerful Servants will find it difficult to defy them. ...Do you understand what I'm trying to tell you, Master?"
+		- "...Yes. You're saying that vague commands are pointless. If the effect and restriction are both weak, then Servants can act against their Command Spells. It's better to use them on a simple, straightforward order rather than something abstract."
+		- "That's correct. A Command Spell is meant to cause miracles beyond our own means. It's unforgivable foolish to spend them on a task that can be executed by other means. ...That goes doubly for the way you used it earlier. You could have verbally persuaded me to obey you, and even a hundred Command Spells would have failed to enforce absolute obedience."
+	- When I summoned Archer, symbols appeared on my right hand. Namely, Command Spells– stigmata bestowed by the Holy Grail upon the summoning of a Servant that mark one's new status as a Master.
+		- A massive amount of magical energy is compressed into these seals, whose power is fleeting rather than long-lasting. They disappear once they're used, and as their shape suggests, each mark represents a single use.
+		- In other words, one only gets three shots. A Master who has used up all three Command Spells can no longer control a Servant, and is as good as dead.
+		- Therefore... Command Spells must be handled with care until the very end, since they're as valuable as one's own life. It pains me to no end that I burned one right off the bat, but it wasn't a total waste so I'll chalk it up as a win.
+			- After all, a Servant could turn on its Master at any time. If one Command Spell is what it takes to put a collar on him, then I consider it a fair trade."
+	- "...Command Spells react to other Command Spells. If we're dealing with a Master, then you should be able to identify them if we come across them. Would they be able to do the same to you?"
+		- "Yeah. But advanced spellcasters can hide their energy signatures. Our Command Spells may react to each other, but it still takes magical energy to activate them. As long as the Master keeps their Magic Circuits shut, it'll be hard to find them."
+- Catalysts
+	- "Servants are drawn to symbols. To summon a powerful Servant, one needs a symbol with a connection to that Servant..."
+		- In other words, I'd need some outrageously valuable item, like a sword or piece of armor that Servant owned, or maybe a bone or heraldry related to them...
+- Exchange in the church #[[Holy Grail War]]
+	- "Then what if you use up your Command Spells? That means you can't form another contract with another Servant, and the Servant who gets freed will pair up with another Master?"
+		- "Wait, that's..."
+		- "Hm. You are correct. If you use up all your Command Spells, you will be freed from your duties as Master."
+	- "Did you say 'repeating Holy Grail War'?" Hold on a minute. It repeats? Does that mean a battle like this happened before?
+		- "Of course not. Do you think an overseer would have been dispatched were this the first time? This church is a special agency responsible for collecting relics. Our organizations original goal is to investigate and recover the True Cross, but here our duty is to assess the Holy Grail.
+		- Our job is to investigate the seven hundred twenty-sixth Holy Grail that was detected in the Far East, and recover it, if it is indeed real. And if it is not real, we will repudiate it."
+		- "Seven hundred twenty-six? Are there really that many Holy Grails?"
+		- "Who knows? At the very least, it means there are that many objects *thought* to be Holy Grails. And one of those is the Holy Grail observed in this town, which triggered a Holy Grail War. According to extant records, the first battle occurred about two hundred years ago. Since then, Masters have fought over it every fifty years or so. This will be the fifth Holy Grail War. The last one happened about ten years ago, so this is the shortest cycle yet."
+	- "Wha... Are you all insane? You guys have done this thing four times already!?"
+		- "I quite agree. As you pointed out, this has been repeated many times. That's right... In the past, the repeated Holy Grail Wars have been exceedingly fierce. Masters were driven by their own desires as they killed each other indiscriminately, forgetting their disciplines as mages."
+	- "You may already know this, but the biggest sin to commit as a mage is practicing magecraft within normal society. Mages must never reveal their identities to others. But the Masters of the past broke that law.
+		- "The Mage's Association finally dispatched an overseer to crack down on Masters like them, but that system was only put in place by the time of the Third Holy Grail War. And that first overseer was my father. Does that make sense now, my boy?"
+	- "The previous Masters willingly broke the laws of mages, right? Then let's say the Holy Grail is real. What if whoever survives and wins is selfish and uses the Holy Grail for their own selfish purposes? Wouldn't it be pretty bad if the Holy Grail went to someone who has no problem killing people? If the Association's job is to supervise mages, shouldn't you be the one punishing those types of folks?"
+		- "Of course not. All mages are motivated by their self-interests. I am only responsible for managing the rules of the Holy Grail War. I do not care what happens afterwards. The Association does not intervene, no matter what sort of person obtains the Holy Grail."
+		- "But that's absurd! What happens if the Holy Grail is obtained by a Master who's absolutely the worst!?"
+		- "That would be bad. But it is out of our control. The Holy Grail is the one that chooses its owner. And we do not have the power to stop a Master who has been chosen by the Holy Grail.
+		- You see, it is a chalice capable of granting any desire. Whoever obtains it will be able to do as they please, I'm sure.
+		- So if that idea troubles you, then your path is clear: survive and win. Doing this yourself would be the approach most certain to work, as opposed to relying on others, correct?"
+	- "Don't jump to conclusions. Obtaining it is the easy part. After all, this church actually manages and is in possession of the Holy Grail. If you're wondering whether someone has touched it, I'll have you know I touch it every day."
+		- "What?" Th-the Holy Grail is here in the church!?
+		- "Well, it's just a vessel. It's quite empty. As Rin said earlier, the Holy Grail is in spirit form.
+		- The church is safekeeping a well-made replica of the Holy Grail. We use it as the catalyst to draw the real Holy Grail out and create the wish-granting device it becomes. I suppose it is similar to a Master and Servant relationship. And yes, there was indeed a man who obtained the Holy Grail which temporary turned real."
+		- "What do you mean? Didn't the Holy Grail appear?"
+		- "Manifesting the Holy Grail is easy. Seven Servants appear, and then, some time later, the Holy Grail does as well. As Rin pointed out, there's no real need to kill other Masters.
+		- But that's not enough to complete a Holy Grail. The Grail selects a worthy owner. For that reason, a man who had avoided the battle was unable to obtain the Holy Grail."
+	- "We have nothing further to discuss. Those qualified to obtain the Holy Grail are Masters who have Servants. The moment there is only one of the seven of you left standing, the Holy Grail shall manifest before you. So, tell me: Will you join this Holy Grail War?"
+		- "Only mages can be selected to be Masters. If you are a mage, you should have already been prepared.
+		- However, if you are still lacking resolve, there is nothing to be done.
+		- But that makes both you and your mentor failures. A mage like you would only be a nuisance in battle, so you might as well get rid of your Command Spells right here, right now."
+- Rin after I got my shit rocked by berserker
+	- "Did you think Servants would really serve humans for free? Whoever acquires the Grail gets their wish granted, whether that's a Master or their guardian Servant. The Servants have wishes of their own. That's why they respond to summons that would otherwise be, at best, unreasonable."
+	- "Masters don't summon Servants to help them get the Holy Grail. Servants answer the Masters' call to have a chance at the Holy Grail."
+	- "That's why Servants will go out and eliminate other Masters even without being ordered to. Only one person can get the Holy Grail. They won't allow it to fall into the hands of anyone other than their own Master. Unlike Masters, Servants don't have the power to take away Command Spells. The only way they can neutralize other Masters is by killing them."
+	- "So even if the Master has no intention of fighting, conflict is inevitable. Masters attacked by a Servant need to fight them off with their own Servant. Kirei told you plenty of times about how that is at the heart of the Holy Grail War."
+	- That means that Servants must fight and kill each other.
+		- I thought it would've been enough as long as the Masters made peace with each other and gave up the Holy Grail. But if Servants answer the summons because they also seek the Holy Grail and will never give up until they have it, then battles between Servants really are inevitable.
+		- But then... is the girl who fought so hard to protect me also here to fight, kill for, and maybe die...all for the Holy Grail?
+	- "...That's awful. I don't know exactly what a Heroic Spirit is, but Saber's human. I even saw her bleed yesterday."
+		- "Oh, don't worry about that. Servants aren't mortal, so if they die, they'll just go back to where they came from. Heroic Spirits are phenomena that can't die. Only Masters can actually get killed when they lose a fight."
+	- Our attacks don't work on them, but they can hurt us. It's a depressingly one-sided arrangement. From a normal person's point of view, Servants may as well be natural disasters. When people die to an invisible killer, those deaths will just be treated as accidents or natural causes.
+	- Magical energy is like gunpowder; the mage is the gun itself. Like how there are different guns –pistols, rifles, shotguns– mages all have a variety of abilities.
+		- To continue the metaphor, Servants are more like artillery cannons than firearms. They burn a huge amount of gunpowder to launch massive shells.
+	- "That's right. But Servants can't draw mana from the atmosphere like us. They generally run only on the magical energy within them. It's our job as Masters to supplement that energy. Their power is limited by their own energy supply, plus whatever their Masters give them."
+	- "That means a half-baked Master like you has no chance against a more capable Master, right?
+		- One very obvious solution to that hurdle is to have your Servant acquire magical energy from other sources.
+		- Servants are spirits, so they can eat similar stuff for sustenance."
+	- "Correct. To be fair, the magical energy supply from Masters chosen by the Holy Grail should be enough in most cases.
+		- But shouldn't it be more obvious that they'd gain more energy by getting it from more than one person?
+		- Bluntly speaking, inferior Masters have to feed other people to their Servants."
+	- "Servants can convert souls and primal human emotions into magical energy. If you want your Servant to get stronger, that's the most efficient way. It's not rare for Masters to sacrifice humans to their Servant."
+	- "Sacrifice... Are you saying there might be Masters out there who go around killing people to make their Servants stronger, if they're not choosy about their methods?"
+		- "Maybe. But I can't see a smart Master something like that."
+		- "No matter how strong a Servant is, they're still limited by energy capacity. They can't store any energy above a hard limit, so there's only so much they can benefit from mass murder.
+		- For one thing, the Association won't just turn a blind eye to someone going around murdering people, but more importantly, the other Masters will be able to figure out the Servant's abilities and identity based on the victims' cause of death. That, and they'll work out the other Master's identity too.
+		- Concealing your identity in a Holy Grail war gives you a big advantage, so any normal Master would be unwilling to use their Servant."
+		- ...I get it. If you don't let anyone know you're a Master, then the other Masters won't attack you. Conversely if the other Masters know who you are, you're just asking to be ambushed. It stands to reason that no one would be reckless enough to let their Servant attack civilians and risk getting exposed.
+	- "Probably not. They're supposed to be heroes, after all. I don't think there are any heroes who'd attack innocent people... though I can't say that for sure. Plenty of them became heroes through sheer violence."
+	- ...An obligation to control my Servant. So I need to ensure my Servant doesn't attack people, as well as other Servants.
+	- "The connection between Master and Servant is like gas and an engine. We provide energy for them to consume.
+		- ...Though, I've read that a Master once acquired pseudo-immortality by physically fusing with their Servant. They wouldn't die as long as their Servant doesn't die... Are you listening, Emiya?"
+- [[Holy Grail]]
+	- Only one person can possess it. The Holy Grail can only grant one wish for one person. Despite that, seven mages are needed to summon the Grail to this land.
+		- Seven collaborators to create one miracle.
+		- So, as you might imagine... It was only a matter of time before they started fighting over the Grail.
+	- Once the Holy Grail is won, the victorious Master's wish has nothing to do with the Servant. But that's weird. Father mentioned that Servants have their own wishes too, but that's their own business. It shouldn't matter to Archer whether or not I have a wish.
+	- "If there's a fight to be had, I just want in, Archer. I'll take whatever I find along the way. I don't really know how the Holy Grail works, but if I find that there's something I want, I can just use it on that. Not all people live to acquire *things*, you know."
+		- "Meaning..."
+		- "That's right. I'm just fighting to win."
+	- "Summoning Heroic Spirits from the past and utilizing them... It is a miracle close enough to the resurrection of the dead that it could be considered magic. A Holy Grail of such power must in turn grant its owner limitless power. When considering the truth of how powerful it is. its authenticity hardly matters."
+		- So what he's saying... is that as long as the object possesses power that surpasses the real thing, it doesn't matter whether it's real or fake.
+- [[Magic]]
+	- Similarly, Magic is the label we use for Mystics –magical mysteries– that can't be realized with any amount of time or skill, while magecraft, thought it *looks* mysterious, is something anyone can do with enough time and resources.
+		- I'm a mage, and the kind of Mystics I use are merely magecraft, not True Magic.
+	- The other main thing I've inherited from my father is the Magic Crest engraved into my left arm.
+		- A Magic Crest is proof that I'm the heir to our lineage.
+		- It's like all the techniques of the Tohsaka condensed into a tattoo.
+	- Rin's summoning of Archer
+		- I flick a formless switch within myself. With a *click*, I feel my insides turn over to something else. My normal nerves invert and become circuits for conducting magical energy.
+			- Rin Tohsaka is no longer human. She's just a component in the execution of Mystics
+		- ... I melt from my fingers. No, I'm filled up from my fingers. The mana I'm taking in is so dense, it overwrites my bodily sensations.
+			- That's why I'm being destroyed at the same time I'm being filled.
+		- Running through my body is the power –mana– from the atmosphere. I convert it into a different type of energy through my body's circuits. A mage's body is nothing but circuits.
+			- Circuits to connect the ethereal to the material. The Mystical outcome we produce is what we call magecraft.
+		- My body grows hot. It seems like horns are growing from my forehead. It seems like wings are sprouting from my back. It seems like scales are covering my hands. It feels like there's water pooling around my ankles.
+			- ...Sweat drops. Stab. Stab. Swords pierce my body.
+		- These are the stigmata that reject my body, which becomes a circuit. No matter how gifted a mage is, we're only human. In a human body, the pain is something we must live with whenever we use magecraft.
+		- The cycle doesn't let up. Beyond the agony, deep within the trance, lies the mental state necessary for connection.
+			- ...Pain wriggles in my left arm. To aid the caster, my Magic Crest autonomously begins an incantation, invading my nervous system.
+		- The mana in the atmosphere I've taken in turns to blood. It's like molten lead, while my activated Magic Crest resembles thorny nerves. With a crunching sensation, it creeps throughout my body like a thorny centipede.
+		- Within the hurt, I forget my self. At the same time, I can feel it taking hold of me, like I've reached where I need to go.
+		- Time to begin. I convert the mana I've collected into magical energy for fixation. All that's left... is to feed all that energy into the engine –the summoning circle– until my body runs dry.
+		- My vision goes dark. What lies before me now is the Fifth Factor, said to be imperceptible to the naked eye. My vision shuts off on its own, fearing what it might see.
+	- Bounded Fields / Reality Marbles
+		- Innate Bounded Fields. Mages call them Reality Marbles.
+			- Reality Marbles are considered one of the apexes of magecraft. They're said to be infinitely close to True Magic.
+			- For the last few centuries, Bounded Fields have served as mages' defensive barriers. To put it in simple terms, they're like a home security system with real teeth.
+			- Reality Marbles, however, are something else entirely. You can think of them as a space that consumes reality itself. When a mage materializes their imaginary world –a representation of their mind– and overwrites the real world with it, we call the resulting field a Reality Marble.
+				- It's a large-area magecraft that twists – no, *rebuilds* the world according to a mage's wishes.
+		- Bounded Fields are meant to protect their casters. You can consider them a terrain-based magecraft formed by weaving magical energy into a net and applying it to the earth to affect the inside of the field.
+			- There are countless types of effects they can have... ranging from wards that isolate an area from the outside world to avoid detection, to fields that limit the type of magecraft that can be activated within.
+			- The most offensive type suppresses biological functions inside the area of effect.
+	- Magecraft is, taken to its extreme, a skill supposedly meant to release magical energy. You could say that magical energy is a life force.
+		- Magical energy is separated into two sources: mana, which comes from the world's atmosphere, and od, which is created within living creatures.
+		- Obviously mana, which comes from the world itself, it superior to od. The sheer power of the world's mana is simply not even comparable to the od one human can create.
+		- No matter the form it takes, magecraft utilizing mana will always surpass anything created from an individual's od.
+	- Magic Circuits
+		- Typically, humans do not have any lines which allow magical energy to pass through their body. To temporarily change my body to create a pseudo version of the lines, I need enough concentration to unify my entire physical and nervous systems.
+			- Magecraft is a battle with yourself. For example, I insert a burning steel rod into my backbone. The steel rod itself is the one and only Magic Circuit I can prepare for myself. By passing this deep within my body and connecting it to my other nerves, I can finally be a mage.
+			- This is not a metaphor. And if you look closely, a series of metal rods, which cannot normally be seen or touched, pierce my backbone.
+		- So a powerful mage is one who excels at drawing magical energy from the world.
+			- It's a lot like a filtration system. A mage will use their own body's circuits to draw in mana from outside and convert it into something usable.
+			- Mages call the circuits they use to accomplish this "Magic Circuits."
+		- This is the inborn talent part. The number of Magic Circuits one has is determined at the moment of birth.
+			- Typically, humans have hardly any Magic Circuits. They're normally quite rare.
+			- That's why mages will spend generations trying to ensure their descendants have a body more suitable for magic.
+			- Some families even go as far as to practice selective breeding in order to increase the number of Magic Circuits in their children.
+	- According to Kiritsugu, everyone is well-suited to one specific form of magecraft. He also said something about drawing out magical energy based on the person's "origin," but I never quite understood that part.
+		- What I do understand is that even someone like me can use at least one form of magecraft. If I can do that, then maybe I can be like Kiritsugu.
+		- Listen, Shirou. Learning magecraft means leaving behind common sense. You die when the end comes for you, and you kill when you must. Life isn't at the core of what we do, death is. Magecraft is walking the path of self-destruction.
+	- Shirou's magic thing
+		- I've been working on this for a little over an hour. And after all that time, I'm finally able to create one pseudo-circuit...a circuit capable of creating magical energy using my own self.
+		- "Basic structure, analyze." All that's left is to allow the magical energy to flow naturally.
+			- Shirou Emiya is no mage. He is just a user of magecraft who can only create magical energy within his body and channel it into objects.
+		- Passing magical energy into something other than yourself is like mixing poison. My blood is a far cry from the blood of an iron pipe. Forcing an entirely different sort of blood through an object may well destroy it rather than enhance it.
+			- To prevent that from happening, I need to properly understand an object's structure and pass magical energy into it between the small vacant spaces.
+		- ...And it's not that I chose this, but it's really all I can do. It would be much easier if I could make something from shapeless clay, but a substitute that just recreates its form is all show and no substance.
+			- Which explains all the junk around. Whenever I fail at Strengthening magecraft, I try to make substitute objects to practice and calm down on, but they all end up empty.
+			- I can visualize the structure of an object easily, and I can recreate something very similar. But it's hollow, and obviously doesn't function at all.
+		- ... I wipe the sweat off my brow. I realize I'm absolutely dripping with sweat. If this is as bad as it got, I should consider myself lucky. But what happened earlier was really bad.
+			- Had I taken even a second longer to recover, my internal organs would probably be must about now.
+			- "If only pushing myself to the brink of death helped me improve, there'd be some hope here." But nothing comes that easily. At the same time, fear of death will stand in the way of improving my magecraft.
+	- According to Kiritsugu, the Mage's Association is only interested in concealing Mystics. Even if, say, a mage carried out an experiment that sacrificed, let's say *a lot* of citizens, the Association wouldn't punish them.
+		- Their priorities are expressly in preventing the public from becoming aware of magecraft, which does not mean magecraft is completely banned.
+		- Honestly, anything goes as long as the truth doesn't come out...at least that seems to be how that insane bunch conducts themselves.

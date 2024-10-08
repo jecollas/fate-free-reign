@@ -22,9 +22,7 @@ tags:: servants
 	- Performing a Summoning Ritual facilitates the process in which the copy of the Heroic Spirit is brought into the chosen class container. Most Masters will prepare a Catalyst with which to summon their desired Heroic Spirit, but it is not absolutely necessary. Without a specific artifact, the Holy Grail will, rather than basing it on their power, choose a Servant based upon similarities to the summoner's own nature.
 	- When choosing based on power with a Catalyst, bad compatibility may make forming a bond impossible, bringing about hardships without being able to have faith in each other. When allowing for a good affinity, it may bring forth a weaker Servant, and it is possible that a single mistake could rouse bad feelings between them due to the resemblance in their personalities being so close.
 	- It is also possible to predetermine the Class of the Servant through the alteration of the summoning incantations, though this is only limited to the Assassin and Berserker Classes
-- Quotes from the visual novel
-	- "Servants are drawn to symbols. To summon a powerful Servant, one needs a symbol with a connection to that Servant..."
-		- In other words, I'd need some outrageously valuable item, like a sword or piece of armor that Servant owned, or maybe a bone or heraldry related to them...
+- Add stuff in from [[Visual Novel Quotes]]
 - ### [[Sources]]
 	- ((66bfffab-333f-4467-94c2-c44fd0f1c6de))
 	- ((66bff2d2-bd81-473d-8b0b-2dde26649966))

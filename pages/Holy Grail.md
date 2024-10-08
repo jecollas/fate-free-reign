@@ -29,16 +29,7 @@ description:: what the fuck is the holy grail anyway!!!!
 	- To open a way to the swirl of the Root, the Grail needs to 
 	  sacrifice all seven Servants to start up the Greater Grail, but six 
 	  Servants are enough if the wish is within the limits of the world.
-- Quotes from the visual novel
-	- Only one person can possess it. The Holy Grail can only grant one wish for one person. Despite that, seven mages are needed to summon the Grail to this land.
-		- Seven collaborators to create one miracle.
-		- So, as you might imagine... It was only a matter of time before they started fighting over the Grail.
-	- Once the Holy Grail is won, the victorious Master's wish has nothing to do with the Servant. But that's weird. Father mentioned that Servants have their own wishes too, but that's their own business. It shouldn't matter to Archer whether or not I have a wish.
-	- "If there's a fight to be had, I just want in, Archer. I'll take whatever I find along the way. I don't really know how the Holy Grail works, but if I find that there's something I want, I can just use it on that. Not all people live to acquire *things*, you know."
-		- "Meaning..."
-		- "That's right. I'm just fighting to win."
-	- "Summoning Heroic Spirits from the past and utilizing them... It is a miracle close enough to the resurrection of the dead that it could be considered magic. A Holy Grail of such power must in turn grant its owner limitless power. When considering the truth of how powerful it is. its authenticity hardly matters."
-		- So what he's saying... is that as long as the object possesses power that surpasses the real thing, it doesn't matter whether it's real or fake.
+- Add stuff in from [[Visual Novel Quotes]]
 - ### [[Sources]]
 	- ((66bfffab-333f-4467-94c2-c44fd0f1c6de))
 	- ((6688a490-efa7-4140-aed1-1820f55d362b))
