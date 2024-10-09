@@ -20,3 +20,4 @@ tags:: list
 	- [[Gol D. Roger]]
 - ## Minor Characters
 	- [[Basil Hawkins]]
+	- [[Saint Marcus Mars]]

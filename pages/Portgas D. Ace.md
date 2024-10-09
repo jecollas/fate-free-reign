@@ -3,7 +3,7 @@ alias:: Ace, Fire Fist, Fire Fist Ace, Lancer
 tags:: characters, servants, pirates
 
 - ## Short Description
-	- [[Portgas D. Ace]] is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
+	- **Portgas D. Ace** is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 - ## Profile
 	- ### Servant Stats
 		- **True Name:** Portgas D. Ace
@@ -73,7 +73,6 @@ tags:: characters, servants, pirates
 			- Buster-type Single Target (Anti-Unit)
 			- Blast attack from the fire spear yeehaw
 		- Fuckass reality marble
-		  collapsed:: true
 			- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
 				- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
 				- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
@@ -200,6 +199,7 @@ tags:: characters, servants, pirates
 					- Aka my NEW BEST FRIEND
 - other stuffp
 	- [Broken Ace](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenAce): Portgas D. Ace. One of the most powerful pirates under Whitebeard's command, owning nearly everyone he comes across...until he meets Blackbeard. After being imprisoned in Impel Down, he is revealed to have a lot of angst about his father (none other than Gold Roger) and barely even wanting to live. And once his little brother Luffy frees him and gives him a second chance? He takes a lava punch from a [General Ripper](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper) to protect the poor kid, then dies in his arms. To explain how badly broken Ace was, one must know the [Driving Question](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingQuestion) of his life. The question which he spent his *entire* life searching for, that he continued to live to find the answer to...was whether or not he deserved to be born. He was *that* broken.
+		- Thank you TVTropes dot com i love you TVTropes dot com
 - ### [[Sources]]
 	- ((66889402-1bd7-4a3b-9821-a84bac98b2b4))
 	- ((63b0cd5e-e919-4e29-8296-c26632de9db4))

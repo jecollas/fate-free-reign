@@ -21,6 +21,7 @@ tags:: list
   template:: Character Profile
   template-including-parent:: false
 	- ## Profile
+	  id:: 67047be8-2994-43b7-bba9-75210fd71e1a
 		- ### Servant Stats
 			- **True Name:**
 			- **Titles:**

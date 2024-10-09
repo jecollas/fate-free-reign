@@ -10,15 +10,8 @@ tags:: servants
 - Some catalysts are only connected to a single Heroic Spirit, which allows that hero be summoned regardless of affinity with the Master
 	- EMIYA is a rare case where he is a Heroic Spirit who holds a catalyst with a connection to his summoner, rather than his summoner having a catalyst with a connection to him
 - If the summoner doesn't have a catalyst, then the summoner themself acts as the catalyst
-- Under systems based upon the Fuyuki ritual, there are several factors 
-  that determine which Heroic Spirit the Master will summon. It is general
-   that the seven participating Masters are all Magi due to requiring 
-  basic Magecraft to properly perform the summoning, but the quality of 
-  the Masters does not matter so long as the most basic summoning 
-  requirements are met to fill out the Holy Grail's requirement of seven 
-  Servants being manifested. Upon selecting the Masters, the Holy Grail 
-  distributes the massive amount of Magical Energy it has gathered among 
-  them to facilitate the process.
+- Under systems based upon the Fuyuki ritual, there are several factors that determine which Heroic Spirit the Master will summon. It is general that the seven participating Masters are all Magi due to requiring basic Magecraft to properly perform the summoning, but the quality of 
+  the Masters does not matter so long as the most basic summoning requirements are met to fill out the Holy Grail's requirement of seven Servants being manifested. Upon selecting the Masters, the Holy Grail distributes the massive amount of Magical Energy it has gathered among them to facilitate the process.
 	- Performing a Summoning Ritual facilitates the process in which the copy of the Heroic Spirit is brought into the chosen class container. Most Masters will prepare a Catalyst with which to summon their desired Heroic Spirit, but it is not absolutely necessary. Without a specific artifact, the Holy Grail will, rather than basing it on their power, choose a Servant based upon similarities to the summoner's own nature.
 	- When choosing based on power with a Catalyst, bad compatibility may make forming a bond impossible, bringing about hardships without being able to have faith in each other. When allowing for a good affinity, it may bring forth a weaker Servant, and it is possible that a single mistake could rouse bad feelings between them due to the resemblance in their personalities being so close.
 	- It is also possible to predetermine the Class of the Servant through the alteration of the summoning incantations, though this is only limited to the Assassin and Berserker Classes
