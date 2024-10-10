@@ -7,12 +7,14 @@ title:: Reference Text
 	- Grand Line Holy Grail War
 	- Fate/free reign bc like. Its a pun on how the phrase free rein means having unrestricted freedom, and freedom is *the* major theme throughout the entirety of one piece, and then reign like the reign of a ~~pirate~~ king
 - ## Premise
+  collapsed:: true
 	- This is hilarious actually bc a holy grail war is so antithetical to One Piece as a whole. The straw hats wouldn’t get involved in it at all if they could help it, because using the holy grail as a shortcut would render luffy’s journey towards becoming king of the pirates absolutely meaningless. Luffy refuses to take shortcuts, and his crew by extension refuses them as well. The only reason why the straw hats would get caught up in a holy grail war would be to help an accidentally summoned servant or a masterless servant fulfill their own wish. Then Luffy would be on board no questions asked. He wouldn’t want to make a contract with them, though. Someone else would have to do that.
 	- Now, Luffy is an outlier here with that kind of attitude, but he is the protagonist and his ideals rub off on the people he meets. A lot of characters would turn down the holy grail’s mana reservoir for similar reasons as him. That leaves the characters who are conniving, power hungry, and willing to use whatever shortcuts or strategies available to achieve their dreams. The issue there is figuring out who amongst those would: a) not be dead or in jail, b) know about the holy grail war ahead of time, and c) have the resources to pull off a summoning. #Masters
 	- Aside from the masters are the [servants]([[Servants]]) themselves. One Piece has a lot of history and folk lore, but a lot of that history is either very recent (with the people involved still being alive) or far enough back that names have been lost. Its really cool and extremely frustrating for my specific purposes. Also, I haven’t actually caught up on everything yet so I’m still missing some context. Anyway.
 	- Nobody in this war is going to have a good time. Im going to make sure of it :)
 	- Note to self: dial up the horny by a lot. We can’t be having loony tunes roadrunner sex here. We might be able to get away with
 - ## Lore Area
+  collapsed:: true
 	- Why does the grail exist? Well you see the [council of elders]([[The Five Elders]]) want to reach the root, same as rhe mages association in fsn. But they dont intend on letting anyone win. They want the servants to fight to the death to feed the mana reservoir up to the point they can reach the root. The more holy grail wars occur the more mana is stored up in the grail until they get their wish. But until then no ones getting wishes. Its all a set up you see but nobody knows that except the five elders.
 	- So like the [celestial dragons]([[Celestial Dragons]]) run this thing but they only throw one or two master candidates in bc they dont want to waste celestial dragon lives. Thats what [the marines]([[The Marines]]) are for tbh. Meanwhile the marines dont knoe this. Fheyre gonna use the grail to end the great pirate era
 	- This is a [celestial dragon]([[Celestial Dragon]]) thing. The holy grail war is a celestial dragon thing that only a select few know about. Even morgans isnt allowed to report it. This is a secret celestial dragon blood ritual its pretty fucking secret my guy. Maybe nobles know abt it too idk. Probably just the nobles who attend the reverie. So how would the non-nobility masters know? Think abt that
@@ -134,6 +136,7 @@ title:: Reference Text
 		- #### Misc.
 			- Some other bad guy from one of the One Piece movies
 	- ### Servant Candidates
+	  collapsed:: true
 		- [[Portgas D. Ace]] / Fire Fist Ace
 			- Class: archer, lancer, or berserker
 			- Catalyst: his hat, necklace, dagger, or in Sabo’s case, devil fruit (Flame-Flame Fruit / Mera-Mera no Mi)
@@ -269,7 +272,7 @@ title:: Reference Text
 			- Its gotta be a civilian bc otherwise itd have to be zoro and hes napping rn
 		- **Archer:** Queen Otohime / King Stelly
 		- **Lancer:** Portgas D. Ace / Sabo
-		- **Caster:** [[Nefertari D. Lili]] / [[Trafalgar D. Law]]
+		- **Caster:** [Nefertari D. Lili / Trafalgar D. Law]([[Freak Dynamics/MS/Law and Lili]])
 			- “My people come first” attitude
 			- Law’s adopted dad used to be a celestial dragon and i think he and lili would have similar views abt them
 			- I think law would be bad at grail war
@@ -278,37 +281,37 @@ title:: Reference Text
 			- Hed think shes scrappy and would push her towards freedom and doing whatever she wants forever :)
 			- Careful, Tashigi. The expectations of the marines and the world government are all on your shoulders
 		- **Assassin:** [[Mont Blanc Noland]] / Celestial Dragon
-		- **Berserker:** [[Rocks D. Xebec]] / [[Marshall D. Teach]]
+		- **Berserker:** [Rocks D. Xebec / Marshall D. Teach]([[Freak Dynamics/MS/Teach and Xebec]])
 			- Im just making these guys a bigger problem for everybody
 	- ### Freak Dynamics
 		- What was it about each master that drew forth their servant summoning? What are their goals? How are they similar? What attitudes or views do they both hold? How do they relate to themselves, each other, and the world around them? In what ways do they match each others freak?
 		- [[Tashigi]] and [[Ryuma]]/Kuina (Saber)
 			- Ough saber…
 			- ive got more thoughts dw
-		- [[King Stelly]] and [[Queen Otohime]] (Archer)
+		- [King Stelly and Queen Otohime]([[Freak Dynamics/MS/Stelly and Otohime]]) (Archer)
 			- I think these two share a sheer stubborn determination to make things better, but where Otohime wants to make things better for her people, Stelly only wants to make things better for himself
 			- Yeah stelly is a wet coward paper bag of a man, and yeah he was a pathetic little shitheel the entire reverie, but he still went there and he still did the damn thing. Yeah he was screaming crying throwing up the whole time but he still chased after opportunities for personal advancement
 			- Otohime was also opportunistic this way! She saw opportunities to further her own agenda by making personal connections and building support for her cause to succeed
 			- I think if anyone could look at Stelly and see an equal it would be Otohime. And i think she could inspire him to become a better person and a better king
-		- [[Sabo]] and [[Ace]] (Lancer)
+		- [Sabo and Ace]([[Freak Dynamics/MS/Sabo and Ace]]) (Lancer)
 			- Oh man where do i even begin. Theyre so in sync its fucking stupid
 			- Snarling noises. THEM. I cant think abt them for longer than two seconds bc itll take over this entire notes file
-		- [[Law]] and [[Nefertari D. Lili]] (Caster)
+		- [Law and Nefertari D. Lili]([[Freak Dynamics/MS/Law and Lili]]) (Caster)
 			- The world government are after their ass so hard for multiple reasons
 			- “My people come first” attitude
 			- I think law would be bad at grail war
-		- [[Blackbeard]] and [[Rocks D. Xebec]] (Rider)
+		- [Blackbeard and Rocks D. Xebec]([[Freak Dynamics/MS/Teach and Xebec]]) (Rider)
 			- The cunts are conspiring, my liege
 			- Guy who wants to be king of the pirates at any cost and his new best friend, guy who wants to be king of the world at any cost
-		- [[Saint Jalmack]] and [[Noland the Liar]] (Assassin)
+		- [Saint Jalmack and Noland the Liar]([[Freak Dynamics/MS/Jalmack and Noland]]) (Assassin)
 			- Torment nexus
-		- [[Rob Lucci]] and [[Roger]] (Berserker)
+		- [Rob Lucci and Roger]([[Freak Dynamics/MS/Lucci and Roger]]) (Berserker)
 			- Mad dog being made to serve at the behest of yet another mad dog
 			- The only thing keeping them from killing each other is the command seals. If it werent for the laws of this holy grail war i would slaughter you
 			- They should fuck narsty im so serious. But they never will bc bad dogs dont get treats or whatever
 	- ### Master/Servant Pairing Candidates
 		- Right so what’s the dynamic? What is going to be narratively interesting? The grail responds to the soul of each master and pairs them accordingly. Servants and masters are usually pretty close in terms of motivations, dreams, ideals, and/or backstory. So try to think about what makes each master and servant similar and how they would work off of each other. Think about how the story of each heroic spirit would affect each servant and how they would be summoned
-		- [[Sabo]] (master) / [[Ace]] (lancer)
+		- [Sabo (master) / Ace (lancer)]([[Freak Dynamics/MS/Sabo and Ace]])
 			- Tragedyyyyy on many fronts. Ill list them all dont tempt me
 			- Our protagonists. Obviously
 			- I think ace would either be summoned as a 17yr old or as a 20yr old
@@ -327,19 +330,19 @@ title:: Reference Text
 				- Ace is the baby brother now. He hates it so bad
 			- This story only ends with Ace dead again bc hes a GHOST hes ALREADY GONE and SABO CANT HAVE HIM BACK
 				- Unless. :)
-		- [[Blackbeard]] (master) / [[Rocks D. Xebec]] (rider)
+		- [Blackbeard (master) / Rocks D. Xebec (rider)]([[Freak Dynamics/MS/Teach and Xebec]])
 			- Yeha uh this would be extremely fuckinf terrifying as a master/servant combo. Just like bad news all around
 			- Guy who wants to be king of the pirates at any cost and his new best friend, guy who wants to be king of the world at any cost
 			- Maybe i should look into the other blackbeard pirates. Maybe one of them would be more interesting to have as a master. Blackbeard seems like a lot :/
 				- NEVERMIND THOUGHT ABT THE COOL NARRATIVE STAKES BEHIND ROGER AND ACE TEAMING UP TO TAKE DOWN XEBEC. THIS TEAMUP FUCKING RULES
-		- [[Rob Lucci]] (master) / [[Gol D. Roger]] (berserker)
+		- [Rob Lucci (master) / Gol D. Roger (berserker)]([[Freak Dynamics/MS/Lucci and Roger]])
 			- oooooouugh they would be such a problem. Lucci is keeping roger on a TIGHT leash
 			- I love the idea that roger is being used by the world government in an attempt to end the great pirate era rhat roger started in the first place
 				- Theyre using the berserker madness to turn roger into the monster that the stories and the government propaganda made him out to be
 			- Lucci can still communicate with roger tho. Not sure what that says abt lucci
 				- yes i am it means hes berserker levels of crazy. Dont look at me
 			- Bc on the one hand its interesting as hell to think abt gold roger, the king of the pirates, being forced to serve under a master affiliated with the world government or the marines. But its *also* interesting to think about *who* would be the master to bring him to heel
-		- [[Tashigi]] (master) / [[Shimotsuki Ryuma]] (Kuina) (saber)
+		- [Tashigi (master) / Shimotsuki Ryuma (Kuina) (saber)]([[Freak Dynamics/MS/Tashigi and Ryuma]])
 			- This sucks for Zoro personally
 			- They are two swordswomen who want to be the best and they’re striving to better their own skills
 				- They would play off of each other really well and would push each other to be better
@@ -354,7 +357,7 @@ title:: Reference Text
 				- Lot of tension between Tashigi and saber at first because Tashigi wants to uphold the marines and saber thinks its a load of horseshit and should study the blade instead
 					- Saber hates being ordered around. She fucking hates it. She only works with Tashigi because Tashigi is nice and feeds her
 				- BUT when Tashigi realizes that she wants to fight for herself instead of the Marines, then she, smoker, and saber have to face the wrath of the world government and their pet pirate king. Uh oh
-		- [Random Celestial Dragon]([[Saint Jalmack]]) (master) / [[Mont Blanc Noland]] (assassin, caster, or archer)
+		- [Random Celestial Dragon (master) / Mont Blanc Noland (assassin, caster, or archer)]([[Freak Dynamics/MS/Jalmack and Noland]])
 			- Noland has to relive his tragic backstory of a being forced to lead a king to a legendary treasure and dying at the hands of that same king when he falls short through no fault of his own all over again and hes gonna be miserable the entire time
 				- Also, the guy was a bit of a colonist so of course he gets paired with the stupid colonizer king
 			- He deserves better. But not this time
@@ -374,7 +377,7 @@ title:: Reference Text
 			- Nah hed have an archer servant fir sure
 			- Maybe he wouldnt compete idk. He doesnt seem to have a concrete goal and he seems like hed know enough about the grail to keep well away from it
 		- Akainu or whoever amd WHO
-		- [[King Stelly]] and WHO. Wait. [[Otohime]]. She instills a fuckign backbone in this boy
+		- [King Stelly and WHO. Wait. Otohime.]([[Freak Dynamics/MS/Stelly and Otohime]]) She instills a fuckign backbone in this boy
 			- Like for instance. The kid that sabo’s parents adopted to replace him and who went on to become the king of island and grew up to be a sniveling power hungry little coward. What if that guy was a master. And what if he summoned one of the greatest and most beloved queens of the era as his servant. What if he faced his adopted brother on the field of battle and realized that there was no way he could have measured up to him. And what if he was so humbled in the face of both that and his servant’s sheer passion, determination, and genuine care for everyone around her, that he decided to become a better king for his people and a better man for himself. What then, huh?
 			- King Stelly of the Goa Kingdom is going to get the fate/zero Waver Velvet treatment so fucking help me
 		- Koby n queen otohime yes wait not koby doesnt need the grail hes not involved sorrh

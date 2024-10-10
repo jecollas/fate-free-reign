@@ -8,6 +8,7 @@ tags:: Servants, list
 - ## Class Skills
 	- Magic Resistance
 	  id:: 6681c23f-c7d4-4de0-8e09-15af4c3941cc
+	  collapsed:: true
 		- Grants protection against magical effects. Differing from the Resistance effect that merely rejects Magical Energy, this ability cancels the spells altogether
 		- ((6682a293-a0e5-4272-bc88-c9e832e37f49))
 		- [[Saber]] [[Archer]] [[Lancer]] [[Rider]]
@@ -19,6 +20,7 @@ tags:: Servants, list
 		- ((6682a293-1965-4daa-a794-f9701db90dbe))
 		- [[Saber]] [[Rider]]
 	- Independent Action
+	  id:: 670706db-41fe-44a7-8636-5cbe4d0f0c7a
 	  collapsed:: true
 		- The ability to remain independent even when rejecting the Magical Energy supply from one's Master.
 		- Allows for action even in the absence of the Master.
@@ -50,6 +52,7 @@ tags:: Servants, list
 		- ((6682a293-be6e-4ddc-a96f-2fdf7ca8b891))
 		- [[Caster]]
 	- Presence Concealment
+	  id:: 670706db-59a3-4895-84c8-3b7adbbb4be9
 	  collapsed:: true
 		- The capacity to hide one's presence as a Servant
 		- Allows them to remain undetected when spying or preparing to ambush their targets.
@@ -58,10 +61,23 @@ tags:: Servants, list
 	- Mad Enhancement
 	  id:: 66832b0f-0ca4-4958-bdf6-df4da3321b9f
 	  collapsed:: true
-		- Raises basic parameters and strengthens one's physical abilities in exchange for hindering mental capacities and/or their sense of reason. 
-		  In some cases, it also affects and/or seals away some techniques, Personal Skills and Noble Phantasms
+		- Raises basic parameters and strengthens one's physical abilities in exchange for hindering mental capacities and/or their sense of reason.
+		- In some cases, it also affects and/or seals away some techniques, Personal Skills and Noble Phantasms
 		- ((6682a293-6079-4ee4-8b14-ca350eb2702c))
 		- [[Berserker]]
 - ## Personal Skills
+	- Battle Continuation
+	  id:: 67071685-8ba5-420c-a389-43a7a4847eef
+	  collapsed:: true
+		- Allows for the continuation of combat after sustaining mortal wounds. It will also reduce mortality rate from injury
+		- This Skill represents the ability to survive and/or the mentality of one who doesn't know when to give up, consisting of one's strength of vitality in predicaments
+			- The best result is achieved when a resilient body is combined with this Skill
+		- ((6707169e-35a8-4734-82dd-aa2b1d949c11))
+	- Mana Burst
+	  id:: 6707177d-8900-41f8-8738-46cb707e5aca
+	  collapsed:: true
+		- The increase in performance caused by infusing one's weapons and body with Magical Energy and instantly expelling it
+		- Recreates the effect of a jet burst by expending large amounts of Magical Energy
+		- ((670717f0-e169-46db-bdfc-5572362cc4c9))
 - ### [[Sources]]
 	- ((6682a293-4f67-48ea-91e7-1fc9f1516033))

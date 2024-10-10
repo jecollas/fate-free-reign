@@ -29,10 +29,12 @@ tags:: list
 			- **Qualified Servant Classes:**
 			- **Wish:**
 		- ### Identity
+			- Backstory
 		- ### Appearance
 		- ### Personality
 		- ### Relationships
 	- ## Role
+		- What happens to them in the story
 	- ## Abilities
 		- ### Skills
 			- #### Class Skills

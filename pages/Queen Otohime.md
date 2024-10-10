@@ -1,4 +1,42 @@
 alias:: Otohime, Archer
-tags:: characters, servants, royalty
+tags:: Characters, Servants, Royalty
 
--
+- ## Profile
+	- ### Servant Stats
+		- **True Name:** Queen Otohime
+		- **Titles:**
+		- **[Summoning Catalyst]([[Catalysts]]):**
+		- **Qualified Servant Classes:** Archer, Caster
+		- **Wish:**
+	- ### Identity
+		- Backstory
+	- ### Appearance
+	- ### Personality
+	- ### Relationships
+		- [[King Stelly]]
+			- [[Freak Dynamics/MS/Stelly and Otohime]]
+		- [[Saint Jalmack]]
+			- [[Freak Dynamics/MvS/Jalmack and Otohime]]
+		- [[Mont Blanc Noland]]
+			- [[Freak Dynamics/SS/Noland and Otohime]]
+- ## Role
+	- What happens to them in the story
+- ## Abilities
+	- ### Skills
+		- #### Class Skills
+			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
+			- ((670706db-41fe-44a7-8636-5cbe4d0f0c7a))
+		- #### Personal Skills
+	- ### [[Noble Phantasm]]
+	- ### Combat
+- ## Alternate Forms
+	- ### Caster
+		- #### Description
+		- #### Abilities
+		- #### Class Skills
+			- ((66832b0f-26ca-4023-9180-58a97699b619))
+			- ((66832b0f-3dcf-4738-86f4-f6e1b70e5c9b))
+		- #### Personal Skills
+		- #### Noble Phantasm
+- ### [[Sources]]
+	- ((670706db-cc84-46a1-bd60-fd1ff8d97817))

@@ -76,7 +76,6 @@ description:: literally this is just all quotes from the visual novel. i've been
 		- "Servants are drawn to symbols. To summon a powerful Servant, one needs a symbol with a connection to that Servant..."
 			- In other words, I'd need some outrageously valuable item, like a sword or piece of armor that Servant owned, or maybe a bone or heraldry related to them...
 	- Holy Grail War #[[Holy Grail War]]
-	  collapsed:: true
 		- "The Holy Grail War... A fight to the death over a single chalice. A ritual that's gone on for centuries..."
 			- The mages who take part in the Holy Grail War are called Masters. It doesn't denote a rank of any kind; it merely describes their role.
 		- The Holy Grail War. It's a grand ritual that's been repeated for hundreds of years, a fight to the death between seven participants, of which only one can survive.
@@ -96,6 +95,12 @@ description:: literally this is just all quotes from the visual novel. i've been
 			- "Kirei, shush. Okay, so the Holy Grail here is in spirit form. It's not tangible as an object. It needs to be summoned in a special ritual... Kind of like a séance. Summoning it can be done just by us mages, but as long as it's in spirit form, we can't touch it. Do you understand what that means?"
 			- "I do. Only spirit forms can touch other spirit forms. Oh so that's why you need Servants!"
 			- "Exactly. To put it in simple terms, the goal in the Holy Grail War is for you to eliminate all the Servants other than your own. There's no rule that you have to kill masters."
+	- Grail War Strategies #[[Holy Grail War]]
+		- "Now you get it. Servants have enough trouble defeating other Servants. So, what could *you* do? It's simple, really. A Servant cannot exist without their Master. No matter how powerful the Servant, they will disappear once the Master is killed. Which means..."
+			- Now I get it. Nobody would make things harder for themselves. If someone wanted to make sure they won, killing the Master would be the much easier path.
+			- "Yeah...I get it now. It's easier to defeat the Master than the Servant. Let me ask you this, then. If the Servant is defeated first, is their Master no longer a Master? If Servants are the only ones who can touch the Holy Grail, then a Master who lost their Servant becomes obsolete, right?"
+			- "No, as long as the Command Spell remains, they still have the right to remain a Master. A Master is simply a mage who can make a contract with a Servant. As long as they have a Command Spell, they can form contracts with as many Servants as they want."
+			- "A Servant who loses their Master does not disappear immediately. They can remain in this world until they run out of magical energy. Servants who lose their Masters, and Masters who lose their Servant can forge a new contract together, and return to battle. Which is why Masters seek to kill other Masters. Allowing others to live may pose a greater risk later on."
 	- Exchange in the church #[[Holy Grail War]]
 	  collapsed:: true
 		- "Then what if you use up your Command Spells? That means you can't form another contract with another Servant, and the Servant who gets freed will pair up with another Master?"

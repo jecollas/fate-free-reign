@@ -22,6 +22,11 @@ tags:: list
 			  id:: 6688c0d5-bd87-4449-98e3-94de6ed47bfb
 		- [Noble Phantasm](https://typemoon.fandom.com/wiki/Noble_Phantasm)
 		  id:: 6682a293-cbb7-4ce6-b889-a0f3c5975f31
+			- [Golden Wild Hunt](https://typemoon.fandom.com/wiki/Golden_Wild_Hunt)
+			  id:: 67072460-31a1-4b3e-a044-15f17525d0cd
+				- [Golden Hind](https://typemoon.fandom.com/wiki/Golden_Wild_Hunt#Golden_Hind)
+			- [Ionioi Hetairoi](https://typemoon.fandom.com/wiki/Ionioi_Hetairoi)
+			  id:: 67072489-dabd-474d-81bf-2c77cbe1ee18
 		- [Parameter Rules](https://typemoon.fandom.com/wiki/Parameter_Rules)
 		  id:: 6682a293-36bb-4ee5-9b4d-54332d909da5
 		- [Servants](https://typemoon.fandom.com/wiki/Servant)
@@ -43,23 +48,31 @@ tags:: list
 				  id:: 668f62df-1d7f-4456-9e08-488efd1d1ff7
 				- [EMIYA (Archer)](https://typemoon.fandom.com/wiki/EMIYA_(Archer))
 				  id:: 668f62f1-b9d3-484c-9e92-2b8d66722761
+				- [Francis Drake](https://typemoon.fandom.com/wiki/Francis_Drake)
+				  id:: 67071cf4-f008-4584-b634-2ffaadff9e39
 		- [Servant Skills](https://typemoon.fandom.com/wiki/Skill)
 		  id:: 6682a293-4f67-48ea-91e7-1fc9f1516033
-		  collapsed:: true
-			- [Independent Action](https://typemoon.fandom.com/wiki/Independent_Action)
-			  id:: 6682a293-d962-4cb9-aa80-236ab17465d0
-			- [Item Construction](https://typemoon.fandom.com/wiki/Item_Construction)
-			  id:: 6682a293-3050-41c2-ac31-c158b0cf245c
-			- [Mad Enhancement](https://typemoon.fandom.com/wiki/Mad_Enhancement)
-			  id:: 6682a293-6079-4ee4-8b14-ca350eb2702c
-			- [Magic Resistance](https://typemoon.fandom.com/wiki/Magic_Resistance)
-			  id:: 6682a293-a0e5-4272-bc88-c9e832e37f49
-			- [Presence Concealment](https://typemoon.fandom.com/wiki/Presence_Concealment)
-			  id:: 6682a293-3d99-474e-a397-d91c2ed03722
-			- [Riding](https://typemoon.fandom.com/wiki/Riding)
-			  id:: 6682a293-1965-4daa-a794-f9701db90dbe
-			- [Territory Creation](https://typemoon.fandom.com/wiki/Territory_Creation)
-			  id:: 6682a293-be6e-4ddc-a96f-2fdf7ca8b891
+			- Class Skills
+			  collapsed:: true
+				- [Independent Action](https://typemoon.fandom.com/wiki/Independent_Action)
+				  id:: 6682a293-d962-4cb9-aa80-236ab17465d0
+				- [Item Construction](https://typemoon.fandom.com/wiki/Item_Construction)
+				  id:: 6682a293-3050-41c2-ac31-c158b0cf245c
+				- [Mad Enhancement](https://typemoon.fandom.com/wiki/Mad_Enhancement)
+				  id:: 6682a293-6079-4ee4-8b14-ca350eb2702c
+				- [Magic Resistance](https://typemoon.fandom.com/wiki/Magic_Resistance)
+				  id:: 6682a293-a0e5-4272-bc88-c9e832e37f49
+				- [Presence Concealment](https://typemoon.fandom.com/wiki/Presence_Concealment)
+				  id:: 6682a293-3d99-474e-a397-d91c2ed03722
+				- [Riding](https://typemoon.fandom.com/wiki/Riding)
+				  id:: 6682a293-1965-4daa-a794-f9701db90dbe
+				- [Territory Creation](https://typemoon.fandom.com/wiki/Territory_Creation)
+				  id:: 6682a293-be6e-4ddc-a96f-2fdf7ca8b891
+			- Personal Skills
+				- [Battle Continuation](https://typemoon.fandom.com/wiki/Battle_Continuation)
+				  id:: 6707169e-35a8-4734-82dd-aa2b1d949c11
+				- [Mana Burst](https://typemoon.fandom.com/wiki/Mana_Burst)
+				  id:: 670717f0-e169-46db-bdfc-5572362cc4c9
 		- [The Swirl of the Root](https://typemoon.fandom.com/wiki/Swirl_of_the_Root)
 		  id:: 6688a00a-7248-49ae-a724-0a6d25aff2d9
 		- [Third Magic](https://typemoon.fandom.com/wiki/Third_Magic)
@@ -71,25 +84,30 @@ tags:: list
 		- [Command Cards](https://fategrandorder.fandom.com/wiki/Command_Cards)
 		  id:: 63b0cd5e-1229-4b78-8fac-63dc9b673007
 	- ### [One Piece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
-	  collapsed:: true
 		- Characters
 			- [Mont Blanc Noland](https://onepiece.fandom.com/wiki/Mont_Blanc_Noland)
+			  id:: 670706db-beb0-4755-afe3-ad4b94ec3c51
 			- [Nefertari D. Lili](https://onepiece.fandom.com/wiki/Nefertari_D._Lili)
+			  id:: 670706db-97c6-4bc5-97e8-664145cccc80
 			- [Otohime](https://onepiece.fandom.com/wiki/Otohime)
+			  id:: 670706db-cc84-46a1-bd60-fd1ff8d97817
 			- [Portgas D. Ace](https://onepiece.fandom.com/wiki/Portgas_D._Ace)
 			  id:: 63b0cd5e-e919-4e29-8296-c26632de9db4
 			- [Rocks D. Xebec](https://onepiece.fandom.com/wiki/Rocks_D._Xebec)
 			  id:: 63b0cdbb-fed1-44f6-9764-209590aa7864
 			- [Shimotsuki Ryuma](https://onepiece.fandom.com/wiki/Shimotsuki_Ryuma)
+			  id:: 670706db-098a-4213-b32c-4e78143c1174
 			- [Tashigi](https://onepiece.fandom.com/wiki/Tashigi)
 		- [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit)
 			- [Mera-Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi)
 			  id:: 66889402-1bd7-4a3b-9821-a84bac98b2b4
 			- [Yami-Yami no Mi](https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi)
+			  id:: 670706db-0886-4a8e-b8fc-e665cbfbc9f2
 		- Locations
 			- [Wano Country](https://onepiece.fandom.com/wiki/Wano_Country)
 			  id:: 668f5f96-aa7f-4127-988d-473ddb2e72ac
 		- Organizations
+			- [Rocks Pirates](https://onepiece.fandom.com/wiki/Rocks_Pirates)
 			- [World Government](https://onepiece.fandom.com/wiki/World_Government)
 			  id:: 63b0cd5e-725d-4254-a148-8be23e2435fb
 			- [World Nobles](https://onepiece.fandom.com/wiki/World_Noble)

@@ -19,16 +19,10 @@ description:: what the fuck is the holy grail anyway!!!!
 	  the blood of the Christ, but the prototype of an even more ancient 
 	  "omnipotent container"; this container is the 726th Grail that sticks to the legend of the name. It is a gate that leads to the Root, Akasha; a hole connected to the nuclear core, the **Greater Grail**, a wish machine - the key to startup the Great Grail. It is not an omnipotent container, but a replica created to work like a "wish machine" that can bring forth one's own will.
 - ## Wish Granting
-	- It is, however only a clump of magical energy and thus is not as 
-	  omnipotent as people believe it to be, so wishing for something like 
-	  "Saving the World" without specifying a working method will not suffice. Even if someone lacks power or wealth, the Grail can possibly carry out such a wish if they knew "the method of Saving the World." Kiritsugu Emiya, knowing only the practice of "sacrificing few for the benefit of many", was shown such a vision of "what would happen if the World was saved", though the corruption caused him to be shown the most malicious imagery of his "saved world." Had he followed through with it, the Grail would have certainty done as it showed him. Ultimately, it can only amplify the scale of realization of wishes 
-	  within working methodologies and is incapable of granting true miracles.
+	- It is, however only a clump of magical energy and thus is not as omnipotent as people believe it to be, so wishing for something like "Saving the World" without specifying a working method will not suffice. Even if someone lacks power or wealth, the Grail can possibly carry out such a wish if they knew "the method of Saving the World." Kiritsugu Emiya, knowing only the practice of "sacrificing few for the benefit of many", was shown such a vision of "what would happen if the World was saved", though the corruption caused him to be shown the most malicious imagery of his "saved world." Had he followed through with it, the Grail would have certainty done as it showed him. Ultimately, it can only amplify the scale of realization of wishes within working methodologies and is incapable of granting true miracles.
 - ## Pathway to the Root
-	- Servants that get killed return to being a "piece of energy" and 
-	  disappear from the time axis, but the Grail (container) created by the Einzberns is here to temporarily stop that and store them. When the Holy Grail goes into hibernation, it puts its accumulated mana into storage. When 7 Servants are present, their spiritual cores will be released, and the Heroic Spirits’ bodies will disappear from this world. The cores alone will then return to the Throne of Heroes. Once the vessel is filled with energy, the Greater Grail can start the ritual that will open a "hole" to the Root.
-	- To open a way to the swirl of the Root, the Grail needs to 
-	  sacrifice all seven Servants to start up the Greater Grail, but six 
-	  Servants are enough if the wish is within the limits of the world.
+	- Servants that get killed return to being a "piece of energy" and disappear from the time axis, but the Grail (container) created by the Einzberns is here to temporarily stop that and store them. When the Holy Grail goes into hibernation, it puts its accumulated mana into storage. When 7 Servants are present, their spiritual cores will be released, and the Heroic Spirits’ bodies will disappear from this world. The cores alone will then return to the Throne of Heroes. Once the vessel is filled with energy, the Greater Grail can start the ritual that will open a "hole" to the Root.
+	- To open a way to the swirl of the Root, the Grail needs to sacrifice all seven Servants to start up the Greater Grail, but six Servants are enough if the wish is within the limits of the world.
 - Add stuff in from [[Visual Novel Quotes]]
 - ### [[Sources]]
 	- ((66bfffab-333f-4467-94c2-c44fd0f1c6de))

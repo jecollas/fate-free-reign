@@ -1,4 +1,48 @@
 alias:: Noland, Noland the Liar, Assassin
-tags:: characters, servants, civilians
+tags:: Characters, Servants, Civilians
 
--
+- ## Profile
+	- ### Servant Stats
+		- **True Name:** Mont Blanc Noland
+		- **Titles:**
+		- **[Summoning Catalyst]([[Catalysts]]):** One of the Noland the Liar books, an old article of his clothing, or his monument from the Tontotta tribe
+		- **Qualified Servant Classes:** Assassin, Caster, Rider
+		- **Wish:** to make it back to Skypiea and set things right between himself and the Shandians (but specifically with Kalgara)
+	- ### Identity
+		- Backstory
+	- ### Appearance
+	- ### Personality
+	- ### Relationships
+		- [[Saint Jalmack]]
+			- [[Freak Dynamics/MS/Jalmack and Noland]]
+		- [[Queen Otohime]]
+			- [[Freak Dynamics/SS/Noland and Otohime]]
+- ## Role
+	- What happens to them in the story
+- ## Abilities
+	- ### Skills
+		- #### Class Skills
+			- ((670706db-59a3-4895-84c8-3b7adbbb4be9))
+		- #### Personal Skills
+	- ### [[Noble Phantasm]]
+	- ### Combat
+- ## Alternate Forms
+  collapsed:: true
+	- ### Caster
+		- #### Description
+		- #### Abilities
+		- #### Class Skills
+			- ((66832b0f-26ca-4023-9180-58a97699b619))
+			- ((66832b0f-3dcf-4738-86f4-f6e1b70e5c9b))
+		- #### Personal Skills
+		- #### Noble Phantasm
+	- ### Rider
+		- #### Description
+		- #### Abilities
+		- #### Class Skills
+			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
+			- ((6681f8d6-1b0a-4697-b017-2b5e037a60be))
+		- #### Personal Skills
+		- #### Noble Phantasm
+- ### [[Sources]]
+	- ((670706db-beb0-4755-afe3-ad4b94ec3c51))

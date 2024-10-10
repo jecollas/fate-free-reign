@@ -7,12 +7,15 @@ tags:: characters, servants, pirates
 - ## Profile
 	- ### Servant Stats
 		- **True Name:** Rocks D. Xebec
+			- Commonly known as Rocks
 		- **Titles:**
 			- Captain of secrets? Strongest of secret keepers?
+			- Shadow King
+			- The King's Rival
 		- **[Summoning Catalyst]([[Catalysts]]):**
 		- **Qualified Servant Classes:** Rider, Berserker
 		- **Wish:**
-			- To become King of the World
+			- To become King of the World / to take over the world
 			- To get it all back
 				- Screw world domination, he just wants his crew back
 				- He wants what is his back, but he only has one wish, and to truly have it all back he'd need to be alive and not a servant
@@ -24,6 +27,10 @@ tags:: characters, servants, pirates
 			- *The Birth of Titans* – Xebec's crew consisted of some of the biggest powerhouses currently in canon: Whitebeard, Big Mom, Kaidou, Shiki the Golden Lion, Captain John, etc
 			- *Man of Many Secrets* – Xebec liked to dabble in the subjects that the World Government kept hidden
 	- ### Appearance
+		- Four decades ago, Rocks appeared as a tall man, but more normally proportioned in comparison to some of his huge (albeit not giant-sized) crewmates
+		- His long, darkish hair was an unruly mass, with locks sticking out unevenly behind his head, in every direction
+		- He had slanted eyes and seemingly tended to sport a wide, toothy smile
+		- Rocks' main outfit appeared to have consisted of a high-collared sailor's coat with fringed epaulettes, plus a buttoned shoulder belt
 	- ### Personality
 		- Incredibly vicious and ambitious, as well as fearless and indiscriminately ruthless
 			- He did not care who he attacked as long as he could gain power for himself
@@ -35,6 +42,7 @@ tags:: characters, servants, pirates
 		- He was also very curious about subjects that the World Government had kept hidden, resulting in him dabbling in those subjects.
 		- According to Whitebeard, Rocks was rather careless in his pursuits, commonly losing sight of the tasks at hand and going off on his own.
 			- Can i make this guy adhd? Probably
+		- I think that bc Xebec’s story has been so bonked from history, the version of him recorded in the throne of heroes and summoned is an absolutely keyed up version of the guy. Hes a loose fucking cannon and he might as well be a berserker for how goddamn off the wall he is.
 	- ### Relationships
 		- [[Marshall D. Teach]]
 			- [their freak dynamics]([[Freak Dynamics/MS/Teach and Xebec]])
@@ -44,6 +52,8 @@ tags:: characters, servants, pirates
 			- [THEIR freak dynamics]([[Freak Dynamics/SS/Roger and Xebec]])
 - ## Role
 	- What happens to him in the story
+	- We talked about the naginata. It would be brutal
+		- Xebec should die by Whitebeard's spear. Then like be vanishing while he tries to kill black beard
 - ## Abilities
 	- ### Skills
 		- #### Class Skills
@@ -51,7 +61,54 @@ tags:: characters, servants, pirates
 			- ((6681f8d6-1b0a-4697-b017-2b5e037a60be))
 		- #### Personal Skills
 	- ### Noble Phantasm
-		- #### Eternal Voyage
+		- **Eternal Voyage: Shadows of the Damned**
+			- Buster-type AoE (Anti-Army / Anti-Divine)
+				- Power on-par with a Buster Call
+			- A two-fold Noble Phantasm that summons the fleet of ships that sailed under Xebec's command while he was still alive, as well as the shadowy versions of the powerful pirates who once served as his crew
+				- A representation of Xebec's reputation of having assembled one of the strongest and most dangerous pirate crews to ever sail the seas
+				- Shadowy crew noble phantasm with a ghost ship armada
+			- What it do, yugi
+				- Xebec's entire crew just fucking gets you. Most of his crew members are still alive, but that's okay! I've got workarounds for this
+					- They're still in there they're just shadows and stuff
+					- Their individual personalities dont matter so much bc they were all under Xebec's thumb, and function as somewhat faceless extensions of his will rather than willing carriers of it
+					- Less about the individual scary faces and more about the fact that he's got sheer fucking numbers
+			- Why it do, yugi
+				- Name symbolizes that Xebec wont Ever let go of what's his
+				- Xebec controls shadows. Fear. Nightmares really. He doesn't get anything back. Doesn't have control beyond orders. The people who surround him are just shades, an amalgamation of the horrors stories and fear
+					- I think that would be a huge brain fuck for him. Like he literally has nothing to lose in this tournament. Everything he had is gone or out of his reach, and he is literally forced to rely on the whims of a egomaniac backstabber
+				- His crazy-ass crew is of the main things hes known for
+			- Whitebeard showing up in Xebec's noble phantasm against Ace is an angle ive not yet considered
+				- It'd suck for xebec bc he doesn't get his crew back – only their sheer numbers and fearsome reputation. Itd suck for ace too bc thats not his fucking dad
+				- Whitebeard in Xebec's noble phantasm but his face is a blurry smudge
+					- Xebec snarling whenever black beard gets anywhere near wb
+		- **Da Boat :)**
+			- Rocks Pirates' boat :)
+			- Xebec is a Rider he needs a thing to ride on. Ergo, Boat :)
+	- ### Combat
+		- sword :)
+		- Although Rocks' individual strength and abilities are unknown, he was well-reputed for presiding over a crew of extremely powerful pirates with clashing personalities and a lack of camaraderie, indicating that he was an extremely powerful and charismatic individual.
+		- Aside from raw strength, Rocks seemed to be a very intelligent and knowledgeable man, as, through studying many subjects that were considered taboo, he was able to unravel many of the World Government's secrets, which led the Government to decide to erase his name from history following his defeat.
+- ## Alternate Forms
+	- ### Berserker
+		- I don't think I really need to go into this one tbh. This guy is bugfuck crazy and absolutely does want to rule the world, though
+		- #### Description
+		- #### Abilities
+		- #### Class Skills
+			- ((66832b0f-0ca4-4958-bdf6-df4da3321b9f))
+		- #### Personal Skills
+		- #### Noble Phantasm
+- ## Notes Dump
+  collapsed:: true
+	- Shit from the fanwiki
+		- Enemies (World Government)
+			- Rocks' actions were destructive and anarchic enough that the Government considered him akin to a terrorist, meaning many of his feats were not properly recorded in history, causing Rocks to eventually fade from public consciousness save the memory of some veteran Marines and the former members of his crew.
+		- Legacy
+			- Many of Rocks' subordinates would go on to become extremely notable pirates, particularly Edward Newgate, Charlotte Linlin, and Kaidou, who became three of the Four Emperors ruling over the New World. Shiki infamously clashed with the Roger Pirates multiple times and became the first documented inmate to escape Impel Down, while Captain John gathered a fabled treasure that's been sought for decades.
+			- Rocks' place in history has been considerably diminished in the decades since his death, with many younger Marines being unaware of who he is. According to Sengoku, this lack of knowledge about him is mainly due to the World Government's intervention, as his path resulted in him dabbling in subjects they forbid.
+			- Additionally, due to the overall lack of camaraderie within the Rocks Pirates, most of Rocks' past subordinates are not inclined to talk about their time sailing with the crew.
+	- Noble Phantasm notes
+	  collapsed:: true
+		- Eternal Voyage
 			- Shadowy crew noble phantasm
 				- Name symbolizes that Xebec wont Ever let go of what's his
 				- Eternal Voyage: Shadows of the Damned (alt title)
@@ -86,23 +143,13 @@ tags:: characters, servants, pirates
 			- Basically the idea is rocks "doesn't have a noble phantasm" because he doesn't have a weapon. Rocks is the weapon
 			- He's the previous user of the Tori Tori no mi and awoke his fruit before he died
 			- Basically you piss him off enough and you are dealing with a huge harpy crypid that will eat you
-	- ### Combat
-		- sword :)
-		- Although Rocks' individual strength and abilities are unknown, he was well-reputed for presiding over a crew of extremely powerful pirates with clashing personalities and a lack of camaraderie, indicating that he was an extremely powerful and charismatic individual.
-		- Aside from raw strength, Rocks seemed to be a very intelligent and knowledgeable man, as, through studying many subjects that were considered taboo, he was able to unravel many of the World Government's secrets, which led the Government to decide to erase his name from history following his defeat.
-- ## Unsorted information
-	- Summoning info
-		- I think that bc Xebec’s story has been so bonked from history, the version of him recorded in the throne of heroes and summoned is an absolutely keyed up version of the guy. Hes a loose fucking cannon and he might as well be a berserker for how goddamn off the wall he is.
-	- Shit from the fanwiki
-		- Enemies (World Government)
-			- Rocks' actions were destructive and anarchic enough that the Government considered him akin to a terrorist, meaning many of his feats were not properly recorded in history, causing Rocks to eventually fade from public consciousness save the memory of some veteran Marines and the former members of his crew.
-		- Legacy
-			- Many of Rocks' subordinates would go on to become extremely notable pirates, particularly Edward Newgate, Charlotte Linlin, and Kaidou, who became three of the Four Emperors ruling over the New World. Shiki infamously clashed with the Roger Pirates multiple times and became the first documented inmate to escape Impel Down, while Captain John gathered a fabled treasure that's been sought for decades.
-			- Rocks' place in history has been considerably diminished in the decades since his death, with many younger Marines being unaware of who he is. According to Sengoku, this lack of knowledge about him is mainly due to the World Government's intervention, as his path resulted in him dabbling in subjects they forbid.
-			- Additionally, due to the overall lack of camaraderie within the Rocks Pirates, most of Rocks' past subordinates are not inclined to talk about their time sailing with the crew.
-			- Rocks' dream of taking over the world would be revived 38 years after his death, as his former subordinates Kaidou and Linlin decided to put aside their enmity with each other and form a temporary alliance to conquer the world. This revived dream ultimately and quickly fell apart when both Linlin and Kaidou were defeated and eventually replaced as Emperors. In a twist of fate, the one to personally defeat Kaidou was Garp's grandson, Monkey D. Luffy
-- See also
-	- [[Research/July 10, 24 – Roche Braziliano]]
-	- ((6695ab56-dd57-49ae-8144-6a67c76d7f97))
+	- Golden Wild Hunt
+	  collapsed:: true
+		- **Golden Wild Hunt: Night of the Golden Hind and the Storm** is a Noble Phantasm where Francis Drake summons an expanding ghost fleet of countless ships lead by her command during her lifetime. It is a symbol of her everyday life and it contains attributes of the anecdotes of the fire ships that defeated the Spanish Armada and the anecdotes of the "Night of the Storm" that is transmitted throughout Europe.
 - ### [[Sources]]
 	- ((63b0cdbb-fed1-44f6-9764-209590aa7864))
+	- See also
+		- ((6695ab56-dd57-49ae-8144-6a67c76d7f97))
+		- ((67071cf4-f008-4584-b634-2ffaadff9e39))
+		- ((67072460-31a1-4b3e-a044-15f17525d0cd))
+		- ((67072489-dabd-474d-81bf-2c77cbe1ee18))

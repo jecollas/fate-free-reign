@@ -198,6 +198,7 @@ description:: general info about the servant classes summoned in the Holy Grail 
 					- In gameplay terms, most Lancers are damage dealers with no defensive abilities and most generally have a Quick-oriented deck (usually QQABB setup, but some have a QQAAB setup, especially Arts-oriented Lancers like Fionn and Li Shuwen).
 					- Although, most Lancers tend to have Buster Noble Phantasms.
 				- [Nonindicative Name](https://tvtropes.org/pmwiki/pmwiki.php/Main/NonindicativeName):
+				  collapsed:: true
 					- If you're not familiar with earlier works in the Fate series, you might think at first that they are a mounted class similar to Rider since "they are named after a type of cavalryman" (lance being a spear *specifically* designed for cavalry use), but all of them except Altria actually fight on foot.
 					- Additionally very few actually wield a lance, with most preferring a spear, [scythe](https://tvtropes.org/pmwiki/pmwiki.php/Main/SinisterScythe), or other polearm (indeed, most of them are better classified as pikemen infantry-type fighters, based on their weaponry and skill-set).
 						- Lancer Tamamo, being a [Fighting Clown](https://tvtropes.org/pmwiki/pmwiki.php/Main/FightingClown), somehow gets away with an umbrella.

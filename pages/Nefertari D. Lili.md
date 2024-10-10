@@ -1,27 +1,57 @@
 filters:: {"reference text" true}
 alias:: Lili, Caster
-tags:: characters, servants, celestial dragons, royalty
+tags:: Characters, Servants, Celestial Dragons, Royalty
 
-- ## Servant Information
-	- **Master:**
-	- **Class:**
-		- **Qualified Classes:**
-		- **Titles:**
-	- **[Catalyst]([[Catalysts]])**
-	- **Wish:**
-	- #### Servant Statistics
-		- **Abilities:**
+- ## Profile
+	- ### Servant Stats
+		- **True Name:** Nefertati D. Lili
+		- **Titles:** Queen of Alabasta
+		- **[Summoning Catalyst]([[Catalysts]]):**
+		- **Qualified Servant Classes:** Caster, Rider
+		- **Wish:**
+	- ### Identity
+		- #### Legends and Anecdotes
+			- did not become a celestial dragon with the other nineteen families and decided to return to Alabasta instead of moving to Mary Geoise
+			- she mysteriously vanished on the way back and her younger brother took over as king
+			- Earliest carrier of the Will of D.
+			- Responsible for the presence of poneglyphs around the world
+	- ### Appearance
+	- ### Personality
+	- ### Relationships
+		- [[Trafalgar D. Law]]
+			- [[Freak Dynamics/MS/Law and Lili]]
+			- Her master
+		- Nefertari Cobra
+			- Her descendant
+		- Nefertari Vivi
+			- Her descendant
+- ## Role
+	- What happens to her in the story
+- ## Abilities
+	- ### Skills
+		- #### Class Skills
 			- ((66832b0f-26ca-4023-9180-58a97699b619))
 			- ((66832b0f-3dcf-4738-86f4-f6e1b70e5c9b))
-		- **Skills:**
-		- **[[Noble Phantasm]]:**
-	- #### Legends and Anecdotes
-		- did not become a celestial dragon with the other nineteen families and decided to return to Alabasta instead of moving to Mary Geoise
-		- she mysteriously vanished on the way back and her younger brother took over as king
-		- Earliest carrier of the Will of D.
-		- Responsible for the presence of poneglyphs around the world
-	- #### Weapons and Abilities
-- Other stuff
+		- #### Personal Skills
+	- ### [[Noble Phantasm]]
+	- ### Combat
+- ## Alternate Forms
+  collapsed:: true
+	- ### Rider
+		- #### Description
+		- #### Abilities
+		- #### Class Skills
+			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
+			- ((6681f8d6-1b0a-4697-b017-2b5e037a60be))
+		- #### Personal Skills
+		- #### Noble Phantasm
+- ## Other stuff
 	- I just think that the random ass civvy should be paired with one of the great queens — either the fishman queen fighting to bring unity between her kingdom and the world above, or the one member of the First Twenty who turned down the title of Celestial Dragon and ensured the presence of the poneglyphs
 		- If Nefertari D. Lili is summoned that is BAD FUCKING NEWS for the poor master bc now the world government (more specifically the world government and their berserker king) are AFTER THEIR ASS
 		- Would definitely ally with Sabo and Ace for protection
+- ### [[Sources]]
+	- ((6688882b-1330-4363-bf89-f335fe98184f))
+	- ((670706db-97c6-4bc5-97e8-664145cccc80))
+	- ((63b0cd5e-1849-40e2-85fa-f12516e46400))
+	- ((63b0cd5e-75d5-40e4-a34c-09ad8659a4b9))
+	- ((66888826-b595-49b5-baef-faa8581c4ff5))

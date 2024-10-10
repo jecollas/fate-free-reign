@@ -1,14 +1,17 @@
 filters:: {}
 alias:: Ace, Fire Fist, Fire Fist Ace, Lancer
-tags:: characters, servants, pirates
+tags:: Characters, Servants, Pirates
 
 - ## Short Description
 	- **Portgas D. Ace** is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 - ## Profile
 	- ### Servant Stats
 		- **True Name:** Portgas D. Ace
-		- **Titles:** Commander of Flames
-		- **[Summoning Catalyst]([[Catalysts]]):** The Flame-Flame Fruit
+		- **Titles:**
+			- Commander / Commander of Flames
+			- Captain of the Spades
+		- **[Summoning Catalyst]([[Catalysts]]):**
+			- The Flame-Flame Fruit / Mera-Mera no Mi, held by Sabo
 			- Could also be summoned using his hat, necklace, or dagger
 		- **Qualified Servant Classes:** Archer, Lancer, Berserker
 		- **Wish:** to have another chance at life
@@ -41,11 +44,20 @@ tags:: characters, servants, pirates
 				- Alt title: *A Life Freely Given*
 			- *Passing the Torch* — Sabo went on to inherit both Ace’s will and Devil Fruit
 	- ### Appearance
+		- Transgender
+		- The version that sabo summoned is the younger ace. The one who set out at 17 because thats when sabo wanted them to set out as pirates
+		- Ace right on the edge between the version sabo might have known from childhood, and the man he was destined to become
+			- The boy who tumbled out of the jungle and into the big blue yonder
+			- Emphasizes the fact that Ace is a ghost from the past
+			- Very closely tied to Sabo’s true home (Dawn Island)
+		- His main weapon is a metal pipe just like the one he used to use as a child back on Dawn Island, and just like the one sabo still uses now, except with a wye joint at the end of it instead of an elbow joint
 	- ### Personality
 	- ### Relationships
 		- [[Sabo]]
 			- [swagever dude]([[Freak Dynamics/MS/Sabo and Ace]])
 			- Ace's sworn brother in life, and his Master in death.
+			- Constantly telling Sabo that he shouldve been summoned as an archer instead of a lancer
+			- If anyone else had tried summoning him Ace wouldve been called forth as an archer. But it wasnt anyone else — it was sabo
 		- [[Marshall D. Teach]]
 			- [alexa kill this clown]([[Freak Dynamics/MvS/Teach and Ace]])
 			- Guy who got him killed he sucks lol
@@ -53,135 +65,163 @@ tags:: characters, servants, pirates
 			- [His fuckass dad]([[Freak Dynamics/SS/Ace and Roger]])
 - ## Role
 	- What happens to him in the story
+	- Gay sex for one. Torment nexus for two
 - ## Abilities
+	- Sabo has the flame flame fruit so ace doesnt have access to his usual arsenal of fire-based archer attacks
+		- Excluding his St. Elmo’s Fire weapon and Fire Fist noble phantasm
+	- Some of his parameters as a lancer are weaker than the archer version, but his hand-to-hand combat is way better
+		- Strength is higher
 	- ### Skills
 		- #### Class Skills
 			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
 		- #### Personal Skills
-			- Battle Continuation
-			- Mana Burst
+			- ((67071685-8ba5-420c-a389-43a7a4847eef))
+			- ((6707177d-8900-41f8-8738-46cb707e5aca))
 	- ### [[Noble Phantasm]]
-		- #### Fire Fist
-			- Buster-type AoE (Anti-Army)
-			- Fire Fist – launches a column of fire at his opponents
-			  collapsed:: true
-				- Ace's signature attack and the thing he is most known for
-				- This would definitely give away his True Name if used
-				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
-				- Anti-City Noble Phantasm? Definitely as an Archer
-		- #### St. Elmo’s Fire
+		- **Fire Fist**
 			- Buster-type Single Target (Anti-Unit)
+				- Buster-type AoE (Anti-Army)? Nah, this is the watered down version
+			- ((8ffa9b07-36e0-4841-a99b-afa2d7a5b384))
+			- Ace's signature attack, which would definitely give away his True Name if used
+				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
+			- Requires a lot more mana to use, so Ace doesn't use this one too often
+		- **St. Elmo’s Fire**
+			- Buster-type Single Target (Anti-Unit)
+			- ((7c4cfa43-1ba6-463c-bced-1d61c0a2abd7))
 			- Blast attack from the fire spear yeehaw
-		- Fuckass reality marble
-			- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
-				- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
-				- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
-				  collapsed:: true
-					- Whats rhe story reason beihind ascension? How can we make ace ascend and why.
-					- No im gonna lose it actually. Servant ascension for ace. Stage one is 17yr old boy, second ascension is the second division commander, and his final ascension is ace from the war at marineford
-				- Fuckoff powerful but takes a lot of mana. He transforms into his adult self and dies to explode everything around him. Its a bomb that goes off and kills him in the process / leaves him unable to keep fighting. so if this doesnt kill his enemy hes kinda fucked
-				- Good thing hes a servant and servants arent people otherwise hed die from being killed ✌️
-				- Anti-Fortress Noble Phantasm
-				- Ill never forgive you for this, anuk
-				- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
+			- Based on the ((668f5f61-546f-45b6-9bf6-a7e7b9192b35))
+				- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
 	- ### Combat
-		- #### St. Elmo's Spear
-			- A long bo staff made from a metal pipe, topped with a wye joint
+		- #### St. Elmo's Fire
+			- Alternate names: St. Elmo’s Fire Spear, St. Elmo’s Spear, Divine Fire Fist, St. Elmo’s Fire, St. Elmo’s Fire Staff, St. Elmo's Beam
 			- An amalgamation weapon that manifested upon Ace's summoning as a Lancer, based on various stories told about his strength in battle from around the world
 				- **Grey Terminal** – Ace's favored weapon from childhood was a long metal pipe, which he used to rob and assault grown men in the Terminal and Edge Town
 				- **The Grand Line** – stories about Ace's Devil Fruit abilities are infamous on the Grand Line. His St. Elmo's Fire technique may not be as well-known as his Fire Fist, but its power was just as feared
 				- **Wano** – h eg ot it from wano idk man im eepyhonk shoo
+					- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
+					- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
+					- Stories of him with a Fire Spear could come from Ace’s time in Wano
+						- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
+					- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
+				- **The Whitebeard Pirates** – Ace may be younger, but his story is still closely associated with Whitebeard’s, and Ace is still his beloved son. Why shouldn’t he have a weapon similar to his father’s?
+					- Whitebeard's naginata, Murakumogiri
+			- A polearm that consists of a long bo staff made from a metal pipe topped with a wye joint, and powered by St. Elmo’s Fire
+				- With the application of St. Elmo’s Fire (his devil fruit technique) he can create a brush of fire at the end of the pipe (in a similar way as St. Elmo’s Fire, the weather phenomena) in the shape of a blade
+				- The joint at the end of the pipe is important because it points the direction where the St. Elmo’s Fire shoots out from to form the blade
+				- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
 			- other notes on this crap
 			  collapsed:: true
-				- Metal pipe powered by st elmos fire could go hard as a polearm
-				- His main weapon is a metal pipe just like the one he used to use as a child back on Dawn Island, and just like the one sabo still uses now
-					- Well, almost like that one. Instead of an elbow joint at one end of it, there’s either a tee joint, wye joint, or cross joint
-						- Why you ask? Because with the application of St. Elmo’s Fire (his devil fruit technique) he can create a brush of fire at the end of the pipe (in a similar way as St. Elmo’s Fire, the weather phenomena) in the shape of a blade
-						- The joint at the end of the pipe is important because it points the direction where the St. Elmo’s Fire shoots out from to form the blade
-						- Thats a Polearm, babey!
-						- I was looking at polearms and originally think like a halberd or something but maybe he has a naginata like the one Whitebeard had
-							- Ace may be younger, but his story is still closely associated with Whitebeard’s, and Ace is still his beloved son. Why shouldn’t he have a weapon similar to his father’s
-				- OH MY GOD I JUST FOUND THE COOLEST THING EVER WHAT THE FUCK
-					- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35)) — wikipedia
-					- I was looking for this fucking thang and found fire lances instead. What the freak
-						- ((6695ac8f-0aca-47a0-b3dc-21a9c25aa717))
-					- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
-				- God. Fuck. Im going down a fire lance research rabbit hole
-					- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35)) — wikipedia
-						- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
-						- ((668f5ec0-5c74-48db-b0e6-f556361218c0)), 11/28/2017 (citation link from fire lance wikipedia page)
-							- “Fire Cylinder” in Ryukyu around 1450
-								- Recorded in the 1453 item of the actual record of the Yi Dynasty
-							- “Fire Spear” during the Ōnin War in the Ashikaga Period
-								- ((668f5f70-e310-45e5-b226-e58a885ec2a0)) — Britannica
-									- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
-								- ((668f5f7e-3772-4ad2-8f49-bbea0cfc82fa)) — wikipedia
+				- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35))
+					- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
+					- ((668f5ec0-5c74-48db-b0e6-f556361218c0)), 11/28/2017 (citation link from fire lance wikipedia page)
+						- “Fire Cylinder” in Ryukyu around 1450
+							- Recorded in the 1453 item of the actual record of the Yi Dynasty
+						- “Fire Spear” during the Ōnin War in the Ashikaga Period
+							- ((668f5f70-e310-45e5-b226-e58a885ec2a0)) — Britannica
+								- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
+							- ((668f5f7e-3772-4ad2-8f49-bbea0cfc82fa)) — wikipedia
 					- Wano is visually inspired by the feudal era japan, (1185-1600), but its story borrows heavily from the isolationism that characterized the Edo period (1603-1868) after the “Closed Country” edict of 1635
 						- ((668f5f96-aa7f-4127-988d-473ddb2e72ac)) — one piece fan wiki
 						- ((668f5fa5-e065-4948-b649-4bbb70297fc9)) — wikipedia
 							- ((668f5fba-d855-4707-8c42-ba644059072a)), ((668f5fbe-7c0b-46fc-bc5d-803f47df9cbd))
-					- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
-						- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
-						- Stories of him with a Fire Spear could come from Ace’s time in Wano
-							- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
-						- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
-				- Possible weapon names: St. Elmo’s Fire Spear, St. Elmo’s Spear, Divine Fire Fist, St. Elmo’s Fire, St. Elmo’s Fire Staff, St. Elmo's Beam
-					- These are all links i was using to research st elmos fire earlier
-						- ((668f551e-78a1-4451-aa2e-0a77348c35cb)) — wikipedia
-						- ((668f5569-b4a6-40d2-9d53-d01077bfccd2)) — britannica
-						- ((668f55bf-6d4e-42df-8ff4-f8937aaf622c))
-						- ((668f5615-d834-431c-8a1a-4126f08c7249))
-					- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
+				- These are all links i was using to research st elmos fire earlier
+					- ((668f551e-78a1-4451-aa2e-0a77348c35cb)) — wikipedia
+					- ((668f5569-b4a6-40d2-9d53-d01077bfccd2)) — britannica
+					- ((668f55bf-6d4e-42df-8ff4-f8937aaf622c))
+					- ((668f5615-d834-431c-8a1a-4126f08c7249))
 	- #### Weapons and Abilities
-		- *The Flame-Flame Fruit* – Ace ate a logia-type Devil Fruit that allows him to create, control, and transform his body into fire
-		  collapsed:: true
-			- Ace mainly uses his flames for a different kinds of offensive attacks that can create and unleash massive amounts of fire for large-scale damage as well as small precision attacks
-			- **List of Techniques**
-				- **Fire Fist** (Hiken) – turns his fist into fire and launches it as a massive column of flame at his target powerful enough to destroy ships and annihilate entire cities at once
-					- Ace's signature attack, and the reason why he's called "Fire Fist Ace"
-				- **Heat Haze** (Kagero) – shoots a stream of fire from the palm of his hand
-				- **Flame Fence** (Enjomo) – creates a circle of fire around a selected area to prevent anyone from leaving or entering
-				- **Fire Gun** (Higan) – points the index and middle fingers of both hands at an opponent, turns his fingertips into fire, and shoots bullets of compressed flame at them
-					- Literal finger guns lol
-				- **Flame Commandment** (Enkai) – amasses a large amount of flames around his body to prepare for another attack
-					- Usually does this by swinging his outstretched hand in a circle to "summon" a swirling ball of flames
-					- **Fire Pillar** (Hibashira) – shoots the collected flames straight upward to destroy at a target above him, or downwards to get rid of any enemies below him while he's in mid-air
-				- **Firefly** (Hotarubi) – creates a swarm of small, glowing fireballs that float around an enemy to prepare for another attack
-					- The fireballs are greenish-yellow and look like fireflies
-					- **Fiery Doll** (Hidaruma) – sends the fireflies flying into his targets all at once and burns them
-					- **Fire Whirl** (Kasen) – shoots the fireflies at his targets at high speed to distract them and cause them to scatter
-					- **Ship Spirit** (Funadama) – instead of firing them all at once, he staggers the timing and uses Observation Haki to place them where his targets are going to be before setting them off
-				- **St. Elmo's Fire** (Shinka: Shiranui) – hurls long lances made out of fire, which has the combined effect of piercing and burning a target at the same time
-					- Definitions for St. Elmo's Fire, Shinka, and Shiranui
-					  collapsed:: true
-						- St. Elmo's Fire – a weather phenomenon where a continuous, luminous discharge of atmospheric electricity is created from the ends of pointed objects (like the masts of a ship) during thunderstorms
-						- Shinka (Divine Fire) – mysterious and strange fires that are beyond man-made, like the ones caused by natural phenomena such as lightning strikes or volcanic eruptions
-						- Shiranui (Unknown Fire) – strange atmospheric ghost lights that appear on the sea, similar to will-o'-the-wisps.
-							- Also called "sea fire"
-					- **St. Elmo's Fire: Beam of Light** (Shinka: Shiranui Itto) – a variation of St. Elmo's Fire where the lances are thrown at the same spot at the same time
-				- **Cross Fire** (Jujika) – crosses his index fingers together and launches a cross-shaped column of fire directly at his opponent
-					- **Twin Guns & Cross Fire** – fires a volley of bullets from two guns before finishing with a Cross Fire attack
-				- **Great Flame Commandment: Flame Emperor** (Dai Enkai: Entei) – creates a large, spiraling fire centered around the palm of his hand, turns it into a gigantic fireball that resembles the sun, and hurls it at his opponent to obliterate them
-					- Ace's ultimate technique
-					- **Great Flame Commandment: Demon Fire** (Dai Enkai: Onibi) – creates a giant vortex of fire around himself and his opponent to trap them inside, then targets his opponent with fire dragons created from the vortex which hit all at once, resulting in a huge explosion
-				- **Flame Mirror** (Kyokaen) – releases a wall of fire to block oncoming attacks
-				- **Fire Leg** (Hikyaku) – covers his feet in flames so that he can launch himself off the ground and do an aerial attack
 		- *Haki* – Ace can use all three types of Haki, but he rarely uses them for combat in favor of fighting with his Devil Fruit abilities
 			- Ace's Haki is fiery in nature, to the point where his very presence is able to stop blizzards from happening on islands as long as he is there
-		- *Weapons*
-			- Ace's favored weapon as a child was a long bo staff made from a metal pipe
-			- In *One Piece: Burning Blood*, Ace wields two twin double-barreled firearms that look like a cross between a pistol and a sawed-off shotgun
-				- Part of his Twin Guns & Cross Fire special attack
-- ## Forms and Alternate Versions
+- ## Alternate Forms
 	- ### Archer
+		- Ace can typically only be summoned as an Archer class Servant. The fact that he was summoned into the Lancer class is an anomaly
+		- If anyone else had tried summoning Ace, he would have been summoned into the Archer class
+		- #### Description
+			- What's it look like
+		- #### Abilities
+			- Ace is more powerful as an Archer
+			- Some of his parameters are stronger than his Lancer form, with the exception of his Strength stat
+			- #### Class Skills
+				- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
+				- ((670706db-41fe-44a7-8636-5cbe4d0f0c7a))
+			- #### Personal Skills
+				- ((6707177d-8900-41f8-8738-46cb707e5aca))
+		- #### Noble Phantasm
+			- **Fire Fist**
+				- Buster-type AoE (Anti-City)
+				- ((8ffa9b07-36e0-4841-a99b-afa2d7a5b384))
+			- **Great Flame Commandment: Flame Emperor**
+				- Buster-type AoE (Anti-Fortress)
+				- ((33347bdf-3776-4a99-a5c1-0a9433b9309e))
+		- #### Combat
+			- ((6707087e-8c4d-464d-9a6c-4d15b78eab2a))
+				- Ace ate a logia-type Devil Fruit that allows him to create, control, and transform his body into fire
+				- Ace mainly uses his flames for a different kinds of offensive attacks that can create and unleash massive amounts of fire for large-scale damage as well as small precision attacks
+	- ### Berserker
+	  collapsed:: true
 		- #### Description
 		- #### Abilities
 		- #### Class Skills
+			- ((66832b0f-0ca4-4958-bdf6-df4da3321b9f))
 		- #### Personal Skills
 		- #### Noble Phantasm
-			- Fire Fist — Buster-type AoE (Anti-Army)
-			- Great Flame Commandment: Flame Emperor — Buster-type AoE (Anti-City) / (Anti-Fortress)
-	- Notes on this crap
+- ## Notes dump
+  collapsed:: true
+	- Fuckass reality marble
+	  collapsed:: true
+		- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
+			- Ill never forgive you for this, anuk
+			- itd be funny if this was a stella situation where using this noble phantasm just kills him. i mean i dont want it to be but god what a mean thing to do to my favorite emotional support dead guy <3
+			- Oh hang on. Servant ascension. He gets a power upgrade by going through thr war at marineford
+				- Whats rhe story reason beihind ascension? How can we make ace ascend and why.
+				- No im gonna lose it actually. Servant ascension for ace. Stage one is 17yr old boy, second ascension is the second division commander, and his final ascension is ace from the war at marineford
+			- Fuckoff powerful but takes a lot of mana. He transforms into his adult self and dies to explode everything around him. Its a bomb that goes off and kills him in the process / leaves him unable to keep fighting. so if this doesnt kill his enemy hes kinda fucked
+			- Good thing hes a servant and servants arent people otherwise hed die from being killed ✌️
+			- Anti-Fortress Noble Phantasm
+			- OH FUCK OR ITS AN ANTI-UNIT NOBLE PHANTASM WHERE HE SUMMONS A REALITY MARBLE AND PUTS HIS OPPONENT THROUGH HIS OWN DEATH AT MARINEFORD
+	- Notes from St Elmos Fire
+	  collapsed:: true
+		- Metal pipe powered by st elmos fire could go hard as a polearm
+		- His main weapon is a metal pipe just like the one he used to use as a child back on Dawn Island, and just like the one sabo still uses now
+			- Well, almost like that one. Instead of an elbow joint at one end of it, there’s either a tee joint, wye joint, or cross joint
+				- Why you ask? Because with the application of St. Elmo’s Fire (his devil fruit technique) he can create a brush of fire at the end of the pipe (in a similar way as St. Elmo’s Fire, the weather phenomena) in the shape of a blade
+				- The joint at the end of the pipe is important because it points the direction where the St. Elmo’s Fire shoots out from to form the blade
+				- Thats a Polearm, babey!
+				- I was looking at polearms and originally think like a halberd or something but maybe he has a naginata like the one Whitebeard had
+					- Ace may be younger, but his story is still closely associated with Whitebeard’s, and Ace is still his beloved son. Why shouldn’t he have a weapon similar to his father’s
+		- OH MY GOD I JUST FOUND THE COOLEST THING EVER WHAT THE FUCK
+			- [Fire Lance](https://en.m.wikipedia.org/wiki/Fire_lance) — wikipedia
+			- I was looking for this fucking thang and found fire lances instead. What the freak
+				- [Felyne St. Elmo’s Javelin](https://monsterhunterrise.wiki.fextralife.com/Felyne+St.+Elmo's+Javelin) — Monster Hunter Rise Wiki
+			- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
+		- God. Fuck. Im going down a fire lance research rabbit hole
+			- [Fire Lance](https://en.m.wikipedia.org/wiki/Fire_lance) — wikipedia
+				- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
+				- [Tsushima's Fire Bowl Mouth](https://desaixjp.blog.fc2.com/?no=2267) — The Country in danger (La patrie en danger) related blog[JP], 2017, 11/28/2017 (citation link from fire lance wikipedia page)
+					- “Fire Cylinder” in Ryukyu around 1450
+						- Recorded in the 1453 item of the actual record of the Yi Dynasty
+					- “Fire Spear” during the Ōnin War in the Ashikaga Period
+						- [Ōnin War](https://www.britannica.com/event/Onin-War) — Britannica
+							- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
+						- [Ōnin War](https://en.m.wikipedia.org/wiki/Ōnin_War) — wikipedia
+			- Wano is visually inspired by the feudal era japan, (1185-1600), but its story borrows heavily from the isolationism that characterized the Edo period (1603-1868) after the “Closed Country” edict of 1635
+				- [Wano Country](https://onepiece.fandom.com/wiki/Wano_Country) — one piece fan wiki
+				- [History of Japan](https://en.m.wikipedia.org/wiki/History_of_Japan) — wikipedia
+					- [Edo Period](https://en.m.wikipedia.org/wiki/Edo_period), [Sakoku Edict of 1635](https://en.m.wikipedia.org/wiki/Closed_Country_Edict_of_1635)
+			- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
+				- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
+				- Stories of him with a Fire Spear could come from Ace’s time in Wano
+					- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
+				- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
+		- Possible weapon names: St. Elmo’s Fire Spear, St. Elmo’s Spear, Divine Fire Fist, St. Elmo’s Fire, St. Elmo’s Fire Staff, St. Elmo's Beam
+			- These are all links i was using to research st elmos fire earlier
+				- [St. Elmo’s Fire](https://en.m.wikipedia.org/wiki/St._Elmo%27s_fire) — wikipedia
+				- [St. Elmo’s Fire](https://www.britannica.com/science/Saint-Elmos-fire) — britannica
+				- [St. Elmo’s Fire](https://cloudatlas.wmo.int/en/saint-elmos-fire.html) — WMO International Cloud Atlas
+				- [St. Elmo’s Fire / Spears](https://www.mediastorehouse.com.au/mary-evans-prints-online/st-elmos-fire-spears-583154.html) — Media Storehouse
+			- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
+	- Notes from Archer summoning
+	  collapsed:: true
 		- Ace shouldve been summoned as an archer. He really shouldve been summoned as an archer. He constantly tells sabo this
 			- Ace is more powerful as an archer class servant, and if anyone else had tried summoning him Ace wouldve been called forth as an archer. But it wasnt anyone else — it was sabo
 				- The version that sabo summoned is the younger ace. The one who set out at 17 because thats when sabo wanted them to set out as pirates
@@ -194,10 +234,9 @@ tags:: characters, servants, pirates
 				- Very closely tied to Sabo’s true home
 			- Some of his parameters as a lancer are weaker than the archer version, but his hand-to-hand combat is way better
 				- Strength is higher
-				- ((668f6005-b2eb-4141-a963-b49722a1fd19)) — vs battles wiki
-					- ((668f5ffd-2a43-4e69-9850-bce974d9ac36)) — The VS Battles Wiki is the world's most comprehensive and popular index of statistics and powers for characters and items from all of popular fiction
+				- [Portgas D. Ace](https://vsbattles.fandom.com/wiki/Portgas_D._Ace) — vs battles wiki
+					- [VS Battles Wiki](https://vsbattles.fandom.com/wiki/VS_Battles_Wiki) — The VS Battles Wiki is the world's most comprehensive and popular index of statistics and powers for characters and items from all of popular fiction
 					- Aka my NEW BEST FRIEND
-- other stuffp
 	- [Broken Ace](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenAce): Portgas D. Ace. One of the most powerful pirates under Whitebeard's command, owning nearly everyone he comes across...until he meets Blackbeard. After being imprisoned in Impel Down, he is revealed to have a lot of angst about his father (none other than Gold Roger) and barely even wanting to live. And once his little brother Luffy frees him and gives him a second chance? He takes a lava punch from a [General Ripper](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper) to protect the poor kid, then dies in his arms. To explain how badly broken Ace was, one must know the [Driving Question](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingQuestion) of his life. The question which he spent his *entire* life searching for, that he continued to live to find the answer to...was whether or not he deserved to be born. He was *that* broken.
 		- Thank you TVTropes dot com i love you TVTropes dot com
 - ### [[Sources]]
