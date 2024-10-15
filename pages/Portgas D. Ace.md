@@ -49,6 +49,8 @@ tags:: Characters, Servants, Pirates
 		- Ace right on the edge between the version sabo might have known from childhood, and the man he was destined to become
 			- The boy who tumbled out of the jungle and into the big blue yonder
 			- Emphasizes the fact that Ace is a ghost from the past
+				- Represents everything Sabo missed while he was away having amnesia, and to an extent, a life that sabo could've lived but is now closed off to him forever
+				- A ghost from start to finish
 			- Very closely tied to Sabo’s true home (Dawn Island)
 		- His main weapon is a metal pipe just like the one he used to use as a child back on Dawn Island, and just like the one sabo still uses now, except with a wye joint at the end of it instead of an elbow joint
 	- ### Personality
@@ -136,6 +138,9 @@ tags:: Characters, Servants, Pirates
 	- ### Archer
 		- Ace can typically only be summoned as an Archer class Servant. The fact that he was summoned into the Lancer class is an anomaly
 		- If anyone else had tried summoning Ace, he would have been summoned into the Archer class
+		- This version represents everything ace ever wanted to be, and especially everything *sabo* wanted him to be
+			- He's in the prime of his power with the swagger to match
+			- He's still a ghost but he's the ghost of someone you missed by five minutes instead of by a mile
 		- #### Description
 			- What's it look like
 		- #### Abilities

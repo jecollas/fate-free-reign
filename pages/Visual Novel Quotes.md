@@ -76,6 +76,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 		- "Servants are drawn to symbols. To summon a powerful Servant, one needs a symbol with a connection to that Servant..."
 			- In other words, I'd need some outrageously valuable item, like a sword or piece of armor that Servant owned, or maybe a bone or heraldry related to them...
 	- Holy Grail War #[[Holy Grail War]]
+	  collapsed:: true
 		- "The Holy Grail War... A fight to the death over a single chalice. A ritual that's gone on for centuries..."
 			- The mages who take part in the Holy Grail War are called Masters. It doesn't denote a rank of any kind; it merely describes their role.
 		- The Holy Grail War. It's a grand ritual that's been repeated for hundreds of years, a fight to the death between seven participants, of which only one can survive.
@@ -96,6 +97,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 			- "I do. Only spirit forms can touch other spirit forms. Oh so that's why you need Servants!"
 			- "Exactly. To put it in simple terms, the goal in the Holy Grail War is for you to eliminate all the Servants other than your own. There's no rule that you have to kill masters."
 	- Grail War Strategies #[[Holy Grail War]]
+	  collapsed:: true
 		- "Now you get it. Servants have enough trouble defeating other Servants. So, what could *you* do? It's simple, really. A Servant cannot exist without their Master. No matter how powerful the Servant, they will disappear once the Master is killed. Which means..."
 			- Now I get it. Nobody would make things harder for themselves. If someone wanted to make sure they won, killing the Master would be the much easier path.
 			- "Yeah...I get it now. It's easier to defeat the Master than the Servant. Let me ask you this, then. If the Servant is defeated first, is their Master no longer a Master? If Servants are the only ones who can touch the Holy Grail, then a Master who lost their Servant becomes obsolete, right?"
@@ -309,3 +311,177 @@ description:: literally this is just all quotes from the visual novel. i've been
 		- "I don't know what it is, but the only thing I can feel for the Holy Grail is disgust."
 			- A Grail that supposedly grants wishes. I don't know what it is exactly, but it's an artifact powerful enough to summon Servants.
 			- It may not grant every wish, but it's more than valuable enough for a mage. And yet, I have no interest. I might be skeptical because it doesn't feel real to me, but I also feel it's not fair to take a shortcut like that.
+- Screenshot dump 3
+	- Servant stuff #Servants
+		- True names and Bullshit
+			- "The first thing is about a summoned Servant's first obligation. I am afraid I cannot fulfill that obligation, so I would like to apologize in advance."
+				- "Huh? A Servant's first obligation?"
+				- "Revealing my identity to you. Have you not heard it from Rin?"
+				- "About who you are...oh you mean your real name."
+			- They conceal their identities as well as their skills by using class names. A Servant's True Name isn't something to reveal lightly. But their Masters should know. Without knowing their identity, Masters won't know a Servant's strengths and abilities.
+				- Master and Servant are one. The pair simply can't battle effectively if one has something to hide. ...At least that would be case if we're talking about a normal Master.
+			- "...I ask of you. What Servant are you?" Saber doesn't expect an answer.
+				- After a brief smile... "Servant, Assassin, Sasaki Kojirou." The Servant's reply is given in a singsong voice.
+				- "Wha...!" Saber cannot help but be surprised. Servants generally conceal their identities. What sort of Servant would so bluntly and proudly give his name?
+		- Magical energy
+			- "Now you understand, Master. Thus, I must avoid using any more magical energy. If I am unable to supplement my magical energy, the only other method is for me to sleep to reduce the consumption of magical energy."
+				- "Sleep... Does sleeping restore magical energy?"
+				- "I do not know. But at the very least, I will not use any magical energy while asleep. Which is why I would like you to permit me to sleep as much as possible. I may not be able to protect you all the time, but I hope you do understand so that we may increase our chances of victory."
+			- "Yes. Running out of magical energy is a more serious problem than a Servant just getting wounded. Magical energy is how Servants are able to give their spirit forms flesh. Without it, they will disappear."
+				- "Typically, Masters provide their Servants with magical energy so that doesn't happen, but you can't do that. That means Saber can only fight with her own magical energy. Once she runs out, it's over. You were told that from the start."
+				- "Now do you understand? You only have two ways of getting Saber back to her normal state. Either the Master replenishes their magical energy, or they have the Servant collect magical energy themselves."
+				- "I figured as much. If she had to involve innocent people, I'm sure Saber would choose to let herself disappear. Then there's only one other option. If you don't want Saber to disappear, you'll need to provide her with magical energy."
+			- "Probably not. And it's too late to teach you magecraft to share magical energy. You're really not suited to be a mage, so it would probably take you a year to learn, and even if you learned it, you wouldn't be able to *use* it. Well, a path should have been created between you and Saber during her summoning, so there might be a different way, but..."
+			- "Listen. If you want to save Saber, you'll have to make her attack people and then have her eat their souls. Which I'm sure you know already."
+			- Magical Energy transplant three-way sex scene lfg. Boy meets girl on girl
+				- "There are other ways. I thought I explained that to you yesterday...er, I guess it's the day before yesterday now. Sharing magical energy with a Servant can be accomplished by sharing magecraft and a handful of other methods. Back then...well, I didn't say anything because I never thought we would end up in a situation like this."
+					- *"Well, a path should have been created between you and Saber during her summoning, so there might be a different way, but..."*
+				- "I remember now. You said something about a path, and that there's some other method besides magecraft." Right...? Or did I get it wrong? At the time, I was shocked to learn that I had to make Saber attack people, so I might have misheard her.
+				- "Listen. Saber lacks magical energy because the path between you two is incomplete. In order for her to recover, we need to reform the path between you to make it work properly."
+				- "That's probably the best solution, but I don't know how to do it."
+				- Saber's summoning was messed up from the start. If I had been able to make a connection to supply her with magical energy, we wouldn't be in this mess.
+				- "It's quite simple. We need you and Saber to bond properly and reconnect your spiritual path. That's the only way to fix a path without breaking the contract or resummoning her. And to do that, we need to transplant your Magic Circuits to Saber."
+				- "Hm?" ...Transplant my Magic Circuits to Saber?
+				- "To establish the path between you and Saber, we need to transplant spiritually important organs. If the Servant and Master are borrowing the Holy Grail's power, we need to create a connection just as strong or else the path won't be formed. And to accomplish that, we need to transplant the Master's Magic Circuits to their Servant. It's going to require something that extreme, or your powers won't reach Saber."
+					- Magic Circuits. An indispensible mechanism for mages that uses od to activate mana. It's the core of a mage's existence, and without it, the magical energy that serves as the source of a mage's power can't be created. To a mage, their Magic Circuits are more important than life itself. They see them as the thing that gives their existence value.
+				- "It's too dangerous to transplant a Servant's circuit to a Master. Transplanting the circuits of Ghost Liners, especially Heroic Spirits, into a dying person pretty much only leads to severe rejection. So, our only remaining option is to transplant your circuits to Saber."
+				- "But it amounts to ripping nerves out of your body. Which means the burden here will be..." Entirely on the one offering the transplant. Ripping out nerves is the same as amputating fingers or even arms.
+				- "Tohsaka. Can you make this work?"
+				- "...I'll make it work, yes. But even if it works, it's not going to be safe or easy. I have no intention of failing, but even if I succeed, your Magic Circuits will go to Saber. You will experience such an intense sense of loss and pain, you'll wish I failed." ... "If your Magic Circuits are taken from you, that means you..."
+					- It would mean that my secondary nerve –my missing Magic Circuits– would be like a piece torn from my psyche, and would damage the spiritual body's integrity, creating a fatal flaw in me as a mage. I will never regain that missing piece for as long as I live. My hope of becoming a full-fledged mage from experience alone will die. Once I lose my foundation –my Magic Circuits– I will always be incomplete, no matter what.
+				- "Okay. Let's do it, Tohsaka."
+				- "That was fast! Oh well, I guess it's fine you decided so fast, but do you really understand what you're getting into!? Of course you don't! Listen. I've basically just told you that you're going to have to die as a mage to save Saber. How can you just agree without any questions or objections!?"
+				- "Okay. Now, let's get your clothes off, Saber."
+					- "WHAT!?"
+					- "Wha...!?"
+				- "Quit reacting to everything I do. We just need to take some of her clothes off. Transplanting Magic Circuits is a mingling of body and mind. We need to make sure you make as much contact with as little obstruction as possible."
+					- Tohsaka is completely calm about this. Saber and I are the only two who are flustered about this as Tohsaka begins undoing Saber's collar.
+		- Servant's role, aka Servant/Master nonsense
+			- "That is a Servant's role. In this, Rin is absolutely correct. There is no cause to treat Servants like humans. We are tools used to protect our Master, and that is something you must understand."
+			- So it doesn't feel right for her to just fight. If Saber is going to be here, she should at least do something she enjoys, or it'll all seem like it was in vain.
+			- "Eh...? Oh, yeah, I guess I understand, at least logically. You see, the Master influences which Heroic Spirit is summoned as a Servant. So because of that, Master and Servant tend to be similar."
+				- "For example, if the Master is a noble person, they'll summon a Heroic Spirit of a similar disposition. On the other hand, a deeply scarred, traumatized person is likely to summon a Servant with similar experiences. So that's probably why Shirou felt something off from Rider. A Master with a twisted personality might summon a vengeful ghost close to a Heroic Spirit, rather than a hero."
+				- "A vengeful ghost close to a Heroic Spirit... Is this what you meant before...?"
+				- "That's right. A tyrant who enjoys the sight of blood and does not think twice about killing. There are plenty of heroes famous only for their brutality, so it wouldn't be a surprise for someone like that to become a Servant as well."
+			- "I did not think to hear you say such a thing again. Listen, Master. Servants are meant to get hurt. I will not allow my Master to avoid battle simply for fear of that eventuality."
+			- "You see, girls shouldn't get hurt. I'm a guy, so I can't let that happen. So, I'm going to fight rather than let you fight." / "What!? Are you saying I cannot fight because I'm a woman!?"
+				- "Are you out of your mind? A Servant protects her Master! We *will* be hurt in the doing, and are summoned for that precise purpose. One's sex has nothing to do with being a Servant. More importantly, are you treating me as a warrior, or as a woman!? I insist you take back what you have said, Shirou. Please!"
+			- I'm not surprised. Saber didn't form a contract with me to help me. Masters are the only ones who can obtain the Holy Grail, so she is only here to assist with that.
+			- "As much as I would like to do that, there's just one thing I cannot overlook. I hear you don't intend to let Saber fight."
+				- "What's wrong with that?" My reply is impulsive.
+				- "I knew it. Only a brat would do something like that. You won't accept help from anyone. You'll just do everything yourself. On top of it all, you don't want any casualties. That mentality disgusts me."
+				- "What? You have no right to tell me that! I'm only doing what I think is right! *You* have no reason to complain!"
+				- "I do, actually. As a fellow Servant, I understand Saber's hardship. Saber has a heavy weight to carry with a Master like you."
+				- "Screw you! I'm not a burden to Saber! I'm going to fight in her place, so there shouldn't be a problem!"
+				- "Hmph. Are you saying she won't get hurt as long as she doesn't fight? Servants only exist to fight. Forbidding her to fight is blasphemous...thought I doubt there's any point telling you that." Having said what was on his mind, Archer falls silent.
+			- "But those aren't your feelings, they're your beliefs. That's not what I'm talking about. I'm saying that you never speak straight from the heart."
+				- "Of course not. What is required from me is not my own personal opinion, but rather my opinion based on my standing and position. That is true even now. I am a Servant, a Saber, and I will protect Shirou. There is no point in my saying anything unconnected with my purpose. And there is no sense in me thinking otherwise."
+				- "That may be true, but that would be boring for you. You might have a role to fill, but that doesn't mean you have to devote yourself to that and nothing else. There are things you *want* to do too, right?"
+			- How stupid of me. I hadn't realized the extent to which she trusted me. And I couldn't extend the most basic trust of just *letting her fight.*
+			- She's so weak she can't even arm herself... She was willing to become my shield since she couldn't fight...? What kind of absurd nonsense is she saying?
+				- "I am sorry, Shirou. I know I am useless as a Servant in my current state, but I can at least be your shield. I know this is not ideal for you, but it is the only–"
+				- *Oh come on!* Why does Saber never think about herself? Why is she only ever worried about everyone else!?
+				- "To hell with that! Of course I'm not happy!"
+		- Servant-y Servant stuff. idk man
+			- "Of course it's amazing. All Servants are Heroic Spirits...not just Saber, you know? They're spirits, so they can't be harmed by ordinary means, since Servants themselves are Mystics."
+				- "Only fellow Servants, since they're also Heroic Spirits, can physically harm other Servants. On the flip side, so long as we're dealing with a Servant, they could wound Saber even if they grabbed something like a paper cutter."
+		- Just kinda in general
+			- "I don't know about the others, but I can say pretty confidently that Illyasviel is our biggest obstacle. The Berserker class is typically used to enhance a weak hero. It takes the Heroic Spirit's sanity in exchange for strengthening them, but to control a hero that's turned violent requires a vast amount of magical energy. Let's say for example, if you became a Berserker class..." #Berserker
+				- "I would not be able to communicate with you as I am now. Berserkers are entirely specialized in combat, totally unable to cooperate with anyone. It would be like attempting to tame a wounded lion; no ordinary mage could control such a Servant."
+				- "I figured as much. An ordinary mage would have a difficult time controlling a Berserker even if the Heroic Spirit was a minor hero. Yet Illyasviel summoned an absolutely top-tier hero as a Berserker, and she's managed to control him completely. I hate to say this, but that girl's ability as a Master is on an entirely different level."
+			- But how can she call herself a Servant if she cannot do the impossible? Servants are driven by their superior abilities and unassailable pride. They are proud as heroes, and have earned that confidence in the numerous battles they fought. As Heroic Spirits whose lore has been passed down and respected since ancient times, they cannot lose, no matter who they face. She cannot even imagine defeat.
+			- That image of her won't leave me. It's burned into my mind now. She and her sword are one. The sword from the stone, which chose the king. The brilliance of the sword that determined her fate is also her brilliance.
+		- Archer being a bitch about ideals and Archer stuff
+			- "Don't get things confused, though. This champion of justice you're pretending to be? Nothing more than a cleaner. You should know that only the survivor is going to have a chance to save anyone that way."
+			  collapsed:: true
+				- "Wait. What do you mean a champion of justice is just a cleaner?"
+				- "You should have figured it out by now. Listen. You approach won't undo a tragic death. That's the limitation you're working within. A champion of justice is someone who can only clean up a mess that's already been made. You'll never be able to save the very people you're hoping to save."
+				- "..." That's...not true. The idea that you can't save the person you're reaching out to save is...wrong.
+				- "An ideal is just that: an ideal. As long as you hold to that ideal, the friction between it and reality will only get more intense. That's the path you're on right now. Someday you're going to face reality, and you'll have to pay the price. The choices you've made will cost many, many lives."
+				- "Wha...!"
+				- "You should at least be prepared. By the time you realize how narrow-minded you've been, you'll have to figure out how to fix it, and who to punish for it. If you can't do that, then I suggest you abandon both your dream and your magecraft right now."
+				- "Listen. No matter what anyone does, there will always be those who can't be saved. All your ideal will let you save is the ideal itself. There is so little a human can do. But even so..."
+				- "What the hell's with him? He just showed up, unloaded a bunch of crap on me, and disappeared!" He was telling me that my thinking is too idealistic, and I'm going to suffer for it soon. But how can I decide something is wrong before I've even tried it?
+				- "I'm ready. If I'm wrong, I'll just have to pay for that mistake with my life." That's my resolve as a mage. Archer doesn't have to remind me that.
+			- "I wonder. I'm not an archer like you understand it, so even if you ask, I can't teach you anything about archery. Your archery is about shooting arrows for yourself. Mine are used to strike at enemies. You think of archers with a concern for things like civility."
+				- "Well, I don't care about that. The point I'm trying to make is this: zanshin isn't about determining whether or not your arrow hits; everyone knows what happens to the arrow they fire. Zanshin is the mindset of accepting the consequences of the shot."
+			- "Listen. You're not a fighter. You only create." Berserker draws near. Archer is still empty-handed, and he doesn't take a single step while he watches his enemy closing in.
+				- "Don't think about anything else. There's only one thing you can do, so master that one thing." Archer raises one hand. I have no idea when he got it, but he's holding a short sword now.
+				- "Don't forget. What you need to do is to always imagine yourself as the strongest. You don't need an enemy. The only opponent you need to fight is your own mind." I see him start to shift. Berserker's sword sends a rush of wind ahead of him.
+	- Noble Phantasm
+		- "Do you not understand? Lancer's spear may not be powerful enough to destroy something as large as a castle, but it is perfectly suited to kill a single human being. A Noble Phantasm consumes magical energy proportionate to its magnitude. A rank A Noble Phantasm consumes a massive amount of magical energy when used. Once it is used, it will take a tremendous amount of time to replenish that lost magical energy."
+			- "However, to kill one person –nay, a single Servant– no such destructive force is necessary. There can be no better tactical advantage than Lancer being able to do so with a single attack."
+			- "So what you're trying to say is that it would cost less to shoot a single arrow than a cannonball?"
+			- "Correct. However, a single arrow would typically not be effective against Servants. Ultimately, battles between Servants require attacks more in line with the force of a cannonball."
+			- "...But Lancer's Gáe Bolg, while it may only be like a single arrow, can potentially be fatal with just one strike. Because it's not just a graze, but a fatal strike through the heart."
+			- "Exactly. On top of that, it does not require much magical energy to deploy. The amount of magical energy consumed is so low, he could use his Noble Phantasm perhaps seven times without needing to replenish his magical energy. That is why his demonic spear is well-suited for this war. An ordinary Servant would require rest after a few battles, but Lancer has the potential to fight six opponents if need be. Though, it would have to be single combat in his case."
+		- "If Master felt that way, then it's likely true. But a Servant's true power is determined by their Noble Phantasm. Until we find out who Rider truly is, please do not let your guard down around her, Shirou."
+		- "Kischur Zelretch... A multi-dimensional refraction phenomenon... A Servant whose skills reached the level of a Noble Phantasm without using magecraft, but by skill alone..."
+			- It is most certainly to be admired. That single blow made it very clear. Sasaki Kojirou does not possess a Noble Phantasm as Heroic Spirits typically do. All he has is his magical sword and its sheer power, reaching the realm of the gods. What's astonishing is that this man, a mere human, has managed to stand on equal ground with a Heroic Spirit who possesses a Noble Phantasm!"
+		- "Do you mean an anti-personnel Noble Phantasm? Well, it is what the word suggests. My Invisible Air and Lancer's Gáe Bolg are armaments that are strictly used to defeat people. No matter how powerful the magical energy or curse it may possess, it cannot be used against something else."
+			- But that's only effective against people. If you chopped firewood with Saber's sword, whether you can see the blade or not isn't going to affect how quickly you can chop wood. It's the same with Lancer's Gáe Bolg. Even a cursed spear that always strikes the heart is just a sharp spear if you use it against a boulder or a house.
+		- "It would be an anti-army Noble Phantasm. Actually, I heard from Father about this once; certain Noble Phantasms are designated anti-personnel, and others as anti-army."
+			- "The simple way to understand it is this: an anti-personnel Noble Phantasm is like a gun with unlimited ammo, but an anti-army Noble Phantasm is like a missile you can only launch once.
+			- Rider's Noble Phantasm may be powerful, but it probably has limited uses. At the very least, it doesn't generate a continuous effect like Saber's sword being invisible.
+		- Excalibur...the Sword of Promised Victory. A sword that is said to have existed in England; a sword wielded by the king who has become the very symbol of knighthood. The strongest of the Servants' Noble Phantasms, sealed by several Bounded Fields. That is Saber's proof of her place as a hero.
+	- Magecraft
+		- "Splitting something in two just dilutes its power. A mage's job is to collect ten magecraft disciplines and crystallize them, then leave that to the heir to strengthen their bloodline. There are no exceptions, not even for family." #Stelly
+			- "That's why mage families don't teach magecraft to anyone other than their heirs. Children who weren't selected to be the family's successor either never learn that their family practices magecraft, or they're sent to be adopted by a different family."
+		- She sticks a needle in her arm as she speaks, her mouth full. ...She draws blood into the syringe. Tohsaka slowly drips blood from the syringe onto the jewel, then grips it tightly. A wave of vertigo washes over me. I can tell it's a ripple of magical energy.
+			- "Eh, huh? I was just making magic bullets. My family's style of magecraft uses the flow and conversion of power. Whenever I have the time, I transfer my magical energy to other objects."
+		- "What my family does is make it so the magical energy flows into jewels, where they become permanent objects...but other mages can do something similar to their own bodies. That's what Magic Crests are... A kind of backup magecraft mages possess."
+		  collapsed:: true
+			- "Magic Crests...oh yeah, secrets that parents pass down to their children. I don't have anything like that so I'm kind of clueless about them."
+			- "I'll start with something simple. You already know that you need magical energy to use magecraft. You can actually refer to anything that can activate magecraft as magical energy. There are endless varieties of magical energy. Some may use magecraft via their own means, while some may do it by paying a price of some sort. You at least know that, right?"
+			- "Yeah, you're talking about mana and od. Mana is magical energy that's found throughout the world, while od is magical energy an individual can create themselves."
+			- "Yep, yep. Good job. Let me start by explaining the types of magecraft that use mana."
+			- "Listen. Mages who don't have so much history, like you, employ something that already has taken form to use magical energy. It's a method based on a long established system of rituals using offerings to make contact with Mystics."
+			- "It's called Formal Craft...a negotiation technique where a mage prepares a compensation of sorts to make a deal because their own power is insufficient. This way, even a caster with weak magical energy can use magecraft. They don't need to use their own magical energy because they're borrowing it from elsewhere –from mana– so the caster only has to perform a ritual."
+			- "But you need knowledge to pull something like this off. You're not at the right level to do something like this. Besides, something reeking of blood probably wouldn't be your style anyway."
+			- "Right? Then let's move on and talk about od...magecraft that uses the mage's own power. This probably doesn't bear mentioning, but it is the basic method for using the magecraft you and I practice. Your Strengthening magecraft only uses your own Magic Circuits without using anybody else's power, right?"
+			- "Right. The Magic Circuits that function to create your own magical energy are a hereditary trait passed down through generations. Magic Circuits are forged over many generations, and get more powerful as they're passed down to the next generation and so on. The child of a mage family is already fit to use magical energy because of this. It may not be fair, but you and I had different starting points."
+			- "I know that. It doesn't bother me. Keep going."
+			- "I wasn't too worried about that either... But whatever. Anyway, other than Magic Circuits, mage families also have secret magecrafts that they cultivate over generations."
+			- "It's similar to my jewels you saw earlier. Once a certain magecraft is mastered, a mage can physically 'hold' that magecraft. Do you know that feeling of getting ahold of magecraft, even though it's typically shapeless and simply devised?"
+			- "I don't, but I'm guessing it's like it becomes a part of your body."
+			- "Bingo. Magecraft that goes beyond the realm of principle and becomes a part of you then becomes tangible. It's a feat that can authenticate an otherwise unstable magecraft, and at the same time, it becomes the testimony of that mage's existence."
+			- "And when a mage is on the brink of death, they pass down their great accomplishments to their successor in the form of a crest. It's their way of telling their successor to go further, to places they were unable to reach, and that their crest may be of some use to them. Though to be honest, both the one handing down the crest and the one receiving it know it's of no help."
+			- "It IS useful. An ordinary mage would consider a single crest to be like a security blanket. It's THAT helpful! But then again, it's like getting a car. No matter how fast it is on the road, it's never going to take you to the moon." *Huh?*
+			- "Just forget that part. Let's move on. You might know this already, but this crest is what's called a Magic Crest."
+			- "The head of the mage family spends their entire life completing their magecraft and makes it into a crest to pass it down to their descendants, and the descendant completes another magecraft and adds it to the crest, which gets passed down to the next descendant. The Magic Crest gets more complex as it passes from generation to generation, but it's also a constraint mages can't escape."
+			- "So what you're saying is that the entire history of a mage family is recorded in these Magic Crests?"
+			- "No, that's not it. Family records are recorded in books. Magic Crests only contain magecraft. It can cast spells on its own, or it can let you use magecraft you haven't mastered yet. In simpler terms, it's like having magic circles engraved on your body."
+			- "Huh. Then doesn't that mean you can engrave the crests onto anyone. If magic circles are all you need, then you can draw as many as you want as long as you know the shape."
+			- "That's not how it works. Magic Crests are like living things. It's more like transplanting an organ. There's only one organ, so you can't split it in amongst other people or copy it. There's no point in splitting a heart in half, because it'd just stop working, right?"
+			- "'Implanted' is a pretty backwards way to put it, if I do say so myself. In my case it's on my left arm. It covers my entire arm from my shoulders to my hand. It doesn't show up as long as I'm not using it, so I don't have to hide it like with Command Spells."
+			- "So that's why a mage family only has a single heir. If a family has multiple siblings, typically any not chosen to be the successor would not be taught magecraft and would instead live an ordinary life. The Magic Crest can't be passed down to them, so there's no point in them being a mage."
+		- "Listen. The difference between a mage and a human is the presence or absence of a switch. You already know that this switch is for turning the Magic Circuit on and off. See the electric kettle over there? Mages are like that. Ordinary humans are just regular kettles that can't boil water on their own, but they can at least keep it warm."
+		  collapsed:: true
+			- "That's what we are: similar, but different. The difference is in whether someone has a switch to boil the water or not. The moment we are born with it...or rather, the moment it's made, is when we're separated into electric kettles and plain, insulated bottles. Anyone who doesn't have this switch won't ever be able to experience magecraft."
+			- "You see, you might be an amateur, but you *do* have a Magic Circuit. That means you have an affinity for it. It's why, once you've created a Magic Circuit inside you, all you have to do is use the switch. You're just toggling the switch on and off to produce magic energy."
+			- "You only have to make a Magic Circuit once. But all this time, you've been creating a Magic Circuit from scratch and incorporating it into yourself every time you use it."
+			- "And that's such a waste. Once you've created the circuit inside yourself, even once, all you have to do is turn it on or off. Normally, those who have created a Magic Circuit would be trained in how to turn it on and off next. But your mentor didn't do that. So you've been risking your life creating a Magic Circuit every time. ...Of course, your father may have been misinformed too."
+			- "Since you have been training the wrong way for so long, your switch it closed, which means all I can do is force it open and make your body understand it has a switch."
+			- "You see, that jewel you swallowed forces that switch on. So, you'll be like this forever unless you can use your own strength to turn it off and return to your normal state. If you can do that, you won't need the help of the jewel. After that, you should be able to control your Magic Circuit with some simple mental commands."
+			- "Eh, you can already talk!? Huh. I guess you're good at controlling yourself. You might get back to normal faster than I thought. As for the switch itself, your body will naturally try to turn if off to calm down and get comfortable as quickly as it can. All you have to do is will that process to speed up. Easy, right?"
+			- "Uh...it's not... I don't get it. You say there's a switch, but it doesn't feel real to me."
+			- "You might think that right now, but eventually you'll be able to form a really clear image. It'll be like a button in your mind, and all you have to do is press it. It should open your Magic Circuit, easy as that."
+			- "I figured you would. You've always closed your Magic Circuit after using your Strengthening magecraft, right? Now you're doing the opposite: opening your Magic Circuit up. It's like you're running full speed this whole time, so of course it's tough. But that's all part of being a mage. If you're going to fish as a Master, turning the switch on and off will be a huge help to you."
+			- "You can only do Strengthening magecraft, right? You said that's all you can do, so I might be able to kick it up another notch and teach you Alteration magecraft. Have you been taught what Strengthening, Alteration, and Projection magecraft are?"
+		- I feel a switch flipping inside me. Tohsaka said something about pressing a switch in my head, but it's nothing like that. There's this...echoing clang in my head. A firing hammer strikes inside my head, and the inside of my body suddenly switches over.
+		- "If you won't shut off the Bounded Field, then I just have to kill you. I don't care which it is, so pick one. *Now.*" I squeeze. It must be all the magical energy coursing through my body... I could snap his neck like a twig.
+		- A Phantasmal species. As the name suggests, it refers to creatures which exist within an illusion. Humanoids, like faeries and giants... Demonic creatures, like oni and dragons. They are considered Mystics, that alone makes them superior to magecraft.
+			- It's the law of nature for Mystics to be destroyed by other, stronger Mystics. In the same way magecraft grows in power with knowledge, Phantasmal species accumulate power from their longevity.
+			- Even if a human masters magecraft, the most they can accumulate is about five hundred years' worth of it. Take a species that's lived since ancient times. There's just no contest between that and a Mystic that's only five hundred years old.
+		- "Trace, on." I murmur the spell to focus myself. You don't use spells to change the world around you. They're to be used on yourself...to empower you to change the world. For mages, they're a way to initiate a kind of self-transformation. Spells are the first, most basic magecraft used to create a Mystic just for you...a command that will only work on you.
+			- "Basic structure...analysis." My blood flow accelerates. Power builds in my blood. My body is becoming a machine for circulating magical energy. ...Probably thanks to the gem Tohsaka made me swallow. Normally, this would take me at least an hour. Now, I'm able to do it almost instantly.
+	- Command Seals
+		- I murmur those words like a prayer. My life doesn't matter anymore. But to put a stop to this savage brutality...
+			- "No...COME...SABER!!!"
+			- I muster up all my strength and call for my blade. One of my Command Spell strokes disappears. At that very moment, the space around me begins to waver.
+	- Leylines
+		- "Have you forgotten, Shirou? I participated in the previous Holy Grail War. I know this town very well, and I know about the leyline that formed at that temple."
+			- "A leyline!? Hold on...that's what's at MY house! Why would there be two leyline centers in one area!?"
+			- "I figured as much. Temples and shrines have traditionally been built where there are gods, to protect the town. Monks don't pray to the gods and Buddha to offer people to offer blessings. Instead, their job is to seal up any areas that people believe are unlucky, to ward off calamity. So based on that, it's no surprise that the mountain where Ryudou Temple is located is a special place."
+		- "Practicing thaumaturges? What's that?"
+			- "They're people who help spirits go to heaven by means other than sutra readings, worship, or prayer. An enlightened person can pull it off just through Shinto and Buddhist rites, but monks who aren't as experienced aren't able to reach that level, so they add their own powers to cast spells just like us. There's an organization for those people here in this country. I don't know much about them, though, since they're nothing like the Mage's Association."

@@ -1,0 +1,281 @@
+description:: sources used for researching this crossover
+tags:: list
+
+- ## Fandom Wikis
+	- ### [Type-Moon Wiki](https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki)
+	  id:: 66bff2d2-bd81-473d-8b0b-2dde26649966
+		- [Heroic Spirit](https://typemoon.fandom.com/wiki/Heroic_Spirit)
+		  id:: 668f1fd8-f7ef-49f2-93c2-228d53dc6a5a
+		- [Holy Grail](https://typemoon.fandom.com/wiki/Holy_Grail)
+		  id:: 6688a490-efa7-4140-aed1-1820f55d362b
+			- [Greater Holy Grail of Fuyuki](https://typemoon.fandom.com/wiki/Greater_Holy_Grail_of_Fuyuki)
+			- [List of Wishes](https://typemoon.fandom.com/wiki/Holy_Grail#List_of_wishes)
+		- [Holy Grail War](https://typemoon.fandom.com/wiki/Holy_Grail_War)
+		  id:: 668893a3-e709-43b7-824d-c801bb6282be
+			- [Fuyuki Holy Grail War](https://typemoon.fandom.com/wiki/Fuyuki_Holy_Grail_War)
+		- [Magic](https://typemoon.fandom.com/wiki/Magic)
+		  id:: 6688c07e-c8b2-4228-a447-7c58a793787c
+			- [Magecraft](https://typemoon.fandom.com/wiki/Magecraft)
+			- [Magical Energy](https://typemoon.fandom.com/wiki/Magical_Energy)
+			- [Magic Circuit](https://typemoon.fandom.com/wiki/Magic_Circuit)
+			- [Mystery](https://typemoon.fandom.com/wiki/Mystery)
+			  id:: 6688c0d5-bd87-4449-98e3-94de6ed47bfb
+		- [Noble Phantasm](https://typemoon.fandom.com/wiki/Noble_Phantasm)
+		  id:: 6682a293-cbb7-4ce6-b889-a0f3c5975f31
+		- [Parameter Rules](https://typemoon.fandom.com/wiki/Parameter_Rules)
+		  id:: 6682a293-36bb-4ee5-9b4d-54332d909da5
+		- [Servants](https://typemoon.fandom.com/wiki/Servant)
+		  id:: 6682a293-4aff-4ffc-a144-5453de764f57
+			- [Catalysts](https://typemoon.fandom.com/wiki/Servant#Catalyst)
+			  id:: 66887e47-a8a5-4dbd-9873-43bb9b48bffd
+			- [Servant Classification](https://typemoon.fandom.com/wiki/Servant#Classification)
+			  id:: 6682a293-96ea-4c92-af60-2ba83fa8ddb7
+			  collapsed:: true
+				- [Saber](https://typemoon.fandom.com/wiki/Saber)
+				- [Archer](https://typemoon.fandom.com/wiki/Archer)
+				- [Lancer](https://typemoon.fandom.com/wiki/Lancer)
+				- [Rider](https://typemoon.fandom.com/wiki/Rider)
+				- [Caster](https://typemoon.fandom.com/wiki/Caster)
+				- [Assassin](https://typemoon.fandom.com/wiki/Assassin)
+				- [Berserker](https://typemoon.fandom.com/wiki/Berserker)
+			- Servant List
+				- [Artoria Pendragon (Saber)](https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber))
+				  id:: 668f62df-1d7f-4456-9e08-488efd1d1ff7
+				- [EMIYA (Archer)](https://typemoon.fandom.com/wiki/EMIYA_(Archer))
+				  id:: 668f62f1-b9d3-484c-9e92-2b8d66722761
+		- [Servant Skills](https://typemoon.fandom.com/wiki/Skill)
+		  id:: 6682a293-4f67-48ea-91e7-1fc9f1516033
+		  collapsed:: true
+			- [Independent Action](https://typemoon.fandom.com/wiki/Independent_Action)
+			  id:: 6682a293-d962-4cb9-aa80-236ab17465d0
+			- [Item Construction](https://typemoon.fandom.com/wiki/Item_Construction)
+			  id:: 6682a293-3050-41c2-ac31-c158b0cf245c
+			- [Mad Enhancement](https://typemoon.fandom.com/wiki/Mad_Enhancement)
+			  id:: 6682a293-6079-4ee4-8b14-ca350eb2702c
+			- [Magic Resistance](https://typemoon.fandom.com/wiki/Magic_Resistance)
+			  id:: 6682a293-a0e5-4272-bc88-c9e832e37f49
+			- [Presence Concealment](https://typemoon.fandom.com/wiki/Presence_Concealment)
+			  id:: 6682a293-3d99-474e-a397-d91c2ed03722
+			- [Riding](https://typemoon.fandom.com/wiki/Riding)
+			  id:: 6682a293-1965-4daa-a794-f9701db90dbe
+			- [Territory Creation](https://typemoon.fandom.com/wiki/Territory_Creation)
+			  id:: 6682a293-be6e-4ddc-a96f-2fdf7ca8b891
+		- [The Swirl of the Root](https://typemoon.fandom.com/wiki/Swirl_of_the_Root)
+		  id:: 6688a00a-7248-49ae-a724-0a6d25aff2d9
+		- [Third Magic](https://typemoon.fandom.com/wiki/Third_Magic)
+		  id:: 6688a32d-9ca7-4e61-b638-00dbddb91fc1
+	- ### Fate/Grand Order Wiki
+	  collapsed:: true
+		- [Noble Phantasm](https://fategrandorder.fandom.com/wiki/Noble_Phantasm)
+		  id:: 6682a293-6774-4970-aeed-73c91da90a47
+		- [Command Cards](https://fategrandorder.fandom.com/wiki/Command_Cards)
+		  id:: 63b0cd5e-1229-4b78-8fac-63dc9b673007
+	- ### [One Piece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
+	  collapsed:: true
+		- Characters
+			- [Mont Blanc Noland](https://onepiece.fandom.com/wiki/Mont_Blanc_Noland)
+			- [Nefertari D. Lili](https://onepiece.fandom.com/wiki/Nefertari_D._Lili)
+			- [Otohime](https://onepiece.fandom.com/wiki/Otohime)
+			- [Portgas D. Ace](https://onepiece.fandom.com/wiki/Portgas_D._Ace)
+			  id:: 63b0cd5e-e919-4e29-8296-c26632de9db4
+			- [Rocks D. Xebec](https://onepiece.fandom.com/wiki/Rocks_D._Xebec)
+			  id:: 63b0cdbb-fed1-44f6-9764-209590aa7864
+			- [Shimotsuki Ryuma](https://onepiece.fandom.com/wiki/Shimotsuki_Ryuma)
+			- [Tashigi](https://onepiece.fandom.com/wiki/Tashigi)
+		- [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit)
+			- [Mera-Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi)
+			  id:: 66889402-1bd7-4a3b-9821-a84bac98b2b4
+			- [Yami-Yami no Mi](https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi)
+		- Locations
+			- [Wano Country](https://onepiece.fandom.com/wiki/Wano_Country)
+			  id:: 668f5f96-aa7f-4127-988d-473ddb2e72ac
+		- Organizations
+			- [World Government](https://onepiece.fandom.com/wiki/World_Government)
+			  id:: 63b0cd5e-725d-4254-a148-8be23e2435fb
+			- [World Nobles](https://onepiece.fandom.com/wiki/World_Noble)
+			  id:: 66888826-b595-49b5-baef-faa8581c4ff5
+		- Miscellaneous
+			- [Absolute Justice](https://onepiece.fandom.com/wiki/Justice#Absolute_Justice)
+			  id:: 63b0cd5e-2448-4b25-90ed-9755d60b07db
+			- [Haki](https://onepiece.fandom.com/wiki/Haki)
+			  id:: 63b0cd81-a0ce-45f1-8dd8-b5827b3da690
+			- [The Empty Throne](https://onepiece.fandom.com/wiki/Empty_Throne)
+			  id:: 63b0cd5e-0fd8-45a1-a02b-6ebe255ad0ed
+			- [The First Twenty](https://onepiece.fandom.com/wiki/First_Twenty)
+			  id:: 6688882b-1330-4363-bf89-f335fe98184f
+			- [Lineage Factor](https://onepiece.fandom.com/wiki/Lineage_Factor)
+			  id:: 63b0cd5e-51f5-4d3a-ae58-005419393f18
+			- [Poneglyphs](https://onepiece.fandom.com/wiki/Poneglyph)
+			  id:: 63b0cd5e-1849-40e2-85fa-f12516e46400
+			- [The Void Century](https://onepiece.fandom.com/wiki/Void_Century)
+			  id:: 63b0cd5e-75d5-40e4-a34c-09ad8659a4b9
+- ## TV Tropes
+  id:: 66bff2d2-277b-4a03-ad44-2e14c5ac592f
+	- Characters
+		- [Fate/Stay Night: Servants](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateStayNightServants)
+		  id:: 66887431-629a-49be-abd7-1ff9ee4ecb42
+		- [Fate/Grand Order](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrder)
+		  id:: 6682a397-475d-4964-a0dc-fd5096ceea27
+			- [Sabers](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderSabers)
+			- [Archers](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderArchers)
+			- [Lancers](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderLancers)
+			- [Riders](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderRiders)
+			- [Casters](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderCasters)
+			- [Assassins](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderAssassins)
+			- [Berserkers](https://tvtropes.org/pmwiki/pmwiki.php/Characters/FateGrandOrderBerserkers)
+	- Franchise
+		- [Fate Series](https://tvtropes.org/pmwiki/pmwiki.php/Franchise/FateSeries)
+		- [Nasuverse](https://tvtropes.org/pmwiki/pmwiki.php/Franchise/Nasuverse)
+	- [Fate/Grand Order (Video Game)](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FateGrandOrder)
+	- [Fate/Stay Night (Visual Novel)](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight)
+	  id:: 6688997d-3208-4279-8d59-a88f9b2e8625
+	- TV Tropes
+		- [Broken Ace](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenAce)
+		  id:: 668f3954-0fa4-442a-9c7a-a13fc3dc91f1
+			- [Broken Ace / Anime & Manga](https://tvtropes.org/pmwiki/pmwiki.php/BrokenAce/AnimeAndManga)
+			  id:: 668f114d-6bf3-4b40-9d62-9692948e7841
+- ## Wikipedia Articles
+	- [Wikipedia:Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style)
+	  id:: 63b0cd81-2eb2-463c-a4e5-2b0de22f88dd
+		- [Wikipedia:Short Description](https://en.wikipedia.org/wiki/Wikipedia:Short_description)
+		  id:: 66972b49-8419-47e2-9a0b-0aa1daf49958
+		- [Wikipedia:Manual of Style/Lead Section](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section)
+		  id:: 66c52821-286a-4ebb-a6e1-1211ebc7b5c7
+	- ### Events
+		- [History of Japan](https://en.m.wikipedia.org/wiki/History_of_Japan)
+		  id:: 668f5fa5-e065-4948-b649-4bbb70297fc9
+			- [Edo Period](https://en.m.wikipedia.org/wiki/Edo_period)
+			  id:: 668f5fba-d855-4707-8c42-ba644059072a
+			- [Ōnin War](https://en.m.wikipedia.org/wiki/Ōnin_War)
+			  id:: 668f5f7e-3772-4ad2-8f49-bbea0cfc82fa
+			- [Sakoku Edict of 1635](https://en.m.wikipedia.org/wiki/Closed_Country_Edict_of_1635)
+			  id:: 668f5fbe-7c0b-46fc-bc5d-803f47df9cbd
+	- ### People
+		- [Alexandre Exquemelin](https://en.wikipedia.org/wiki/Alexandre_Exquemelin)
+		  id:: 6695ce09-7bc1-49cd-91d4-13aadf5fab80
+		- [Henry Morgan](https://en.m.wikipedia.org/wiki/Henry_Morgan)
+		  id:: 6695d43c-20bb-4497-a46a-68f6d93ba455
+		- [Roche Braziliano](https://en.m.wikipedia.org/wiki/Roche_Braziliano)
+		  id:: 6695ab9e-1683-4f04-a88a-fb412c695351
+	- ### Things
+		- [Akashic Records](https://en.wikipedia.org/wiki/Akashic_records)
+		  id:: 668f3c00-4884-4c0b-a0e6-51d853b96db1
+		- [Fire Lance](https://en.m.wikipedia.org/wiki/Fire_lance)
+		  id:: 668f5f61-546f-45b6-9bf6-a7e7b9192b35
+		- [Shiranui (optical phenomenon)](https://en.wikipedia.org/wiki/Shiranui_(optical_phenomenon))
+		- [St. Elmo’s Fire](https://en.m.wikipedia.org/wiki/St._Elmo%27s_fire)
+		  id:: 668f551e-78a1-4451-aa2e-0a77348c35cb
+		- [Xebec](https://en.m.wikipedia.org/wiki/Xebec)
+		  id:: 6695ab56-dd57-49ae-8144-6a67c76d7f97
+- ## PDFs and eBooks
+  collapsed:: true
+	- ### Internet Archive
+		- [The Buccaneers of America: In the Original English Translation of 1684](https://archive.org/details/buccaneersofamer0000exqu_m2u1), 2007
+		  id:: 6695d109-1490-4802-86b8-1aec0d8d7e0b
+		  collapsed:: true
+			- John Esquemeling, *The Buccaneers of America* (New York: Cosimo, 2007), the Internet Archive
+	- ### Library of Congress
+		- [The Buccaneers of America](https://tile.loc.gov/storage-services/public/gdcmassbookdig/buccaneersofamer01exqu/buccaneersofamer01exqu.pdf), 1914
+		  id:: 6695cbbc-e944-410e-b5d8-746b4569f419
+		  collapsed:: true
+			- John Exquemeling, *The Buccaneers of America*, ed. George Alfred Williams (New York: Frederick A. Stokes company, 1914), 48-53, Library of Congress, https://www.loc.gov/item/14015418/
+			- [The Buccaneers of America](https://www.loc.gov/item/14015418/)
+			  id:: 6695cebe-de62-4717-ade6-4d7ff79c2b7c
+	- ### Project Gutenberg
+		- [The Buccaneers and Marooners of America](https://www.gutenberg.org/cache/epub/73564/pg73564-images.html), 1891
+		  id:: 6695d29e-5446-47b2-bd99-b549c00c1ae7
+		  collapsed:: true
+			- John Exquemeling and Captain Charles Johnson, *The Buccaneers and Marooners of America*, ed. Howard Pyle (London: T. Fisher Unwin, 1891), Project Gutenberg
+		- [History of the Buccaneers of America](https://www.gutenberg.org/files/37116/37116-h/37116-h.htm), 1816
+		  id:: 6695ca77-6199-48ff-a985-cd6e910f96bd
+		  collapsed:: true
+			- James Burney, *History of the Buccaneers of America* (London: Luke Hansard & Sons, 1816), Project Gutenberg
+		- [The Life of Sir Henry Morgan](https://gutenberg.ca/ebooks/cruikshank-henrymorgan/cruikshank-henrymorgan-00-h-dir/cruikshank-henrymorgan-00-h.html), 1935
+		  id:: 6695d6df-4f66-457d-a37b-1cfb40778851
+		  collapsed:: true
+			- Ernest Alexander Cruikshank, *The Life of Sir Henry Morgan* (Toronto: Macmillan Company of Canada, 1935), 373-392, Project Gutenberg
+	- ### University Libraries
+		- [Bucaniers of America](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A39081.0001.001), 1684
+		  id:: 6695cffb-31f0-4411-8197-d86ebfc6f9a1
+		  collapsed:: true
+			- John Esquemeling, *Bucaniers of America* (London: William Crooke, 1684), University of Michigan Library Digital Collections
+		- [The Governors of Jamaica in the Seventeenth Century](https://ufdc.ufl.edu/UF00074120/00001), 1936
+		  id:: 6695d54b-bee5-493c-9c40-3ef49c9067bb
+		  collapsed:: true
+			- Frank Cundall, *The Governors of Jamaica in the Seventeenth Century* (London: The West India Committee, 1936), 70-71, University of Florida
+	- ### Miscellaneous
+		- [The Buccaneers of America](https://snsstudents.weebly.com/uploads/1/3/0/1/13017018/the_buccaneers_of_america.pdf) — Chapter 5 of *Pirates Through the Ages: Primary Sources*, 2011
+		  id:: 6695b08c-32c0-4b01-95cc-295ae8e50dae
+		  collapsed:: true
+			- Sonia Benson, Laurie Edwards, and Elizabeth Shostak, *Pirates Through the Ages: Primary Sources* (Detroit: U·X·L, 2011), 49-60
+		- [Translation in Libel Cases: Reputations at Stake!](https://pressto.amu.edu.pl/index.php/cl/article/download/31723/29787/73271) — Comparative Legilinguistics, vol. 50, 2022
+		  id:: 6695dac3-9dcc-45e5-bd3b-6edee08636bc
+		  collapsed:: true
+			- Juliette Scott and John O'Shea, "Translation in Libel Cases: Reputations at Stake!," *Comparative Legilinguistics* 50 (July 2022): 123-179, https://doi.org/10.14746/cl.50.2022.7
+- ## Other Sources
+	- [Primary Documents - HIST3718 Pirates, Rascals and Scoundrels - Fortin](https://learningcommons.emmanuel.edu/guide_hist3718/documents) — Emmanuel College Library
+	- Fate/Stay Night the visual novel
+	  id:: 66bfffab-333f-4467-94c2-c44fd0f1c6de
+	- ### Encyclopaedia Britannica
+		- [Ōnin War](https://www.britannica.com/event/Onin-War)
+		  id:: 668f5f70-e310-45e5-b226-e58a885ec2a0
+		- [St. Elmo’s Fire](https://www.britannica.com/science/Saint-Elmos-fire)
+		  id:: 668f5569-b4a6-40d2-9d53-d01077bfccd2
+	- ### Library of Congress
+		- [The Buccaneers of America - Exploring the Early Americas](https://www.loc.gov/exhibits/exploring-the-early-americas/interactives/buccaneers-of-america/) — Interactive Exhibit
+		  id:: 6695b016-f371-4726-a76e-7278c51ae990
+		- [Mistress of the Seas](https://lccn.loc.gov/64015966) — Catalog Record
+		  id:: 6695e21b-8e2a-4aad-b590-f89db970b887
+		- [A Treasure Trove of Trials](https://www.loc.gov/ghe/cascade/index.html?appid=1f1be130b12a492c8e6f6d5af7456159) — LoC Legal
+		  id:: 6695e2c2-1f32-4614-916c-55d3a064173c
+		  collapsed:: true
+			- Francisco Macías, "A Treasure Trove of Trials: Piracy Trials from the Law Library of Congress," Library of Congress, accessed July 10, 2024, https://www.loc.gov/ghe/cascade/index.html?appid=1f1be130b12a492c8e6f6d5af7456159
+			- Piracy Trials from the Law Library of Congress
+	- ### Blog Posts
+		- [Rob Ossian's Pirate's Cove](https://www.thepirateking.com/index.htm)
+			- [Book Review - The Buccaneers of America](https://www.thepirateking.com/books/books_buccaneersofamerica_review.htm)
+			  id:: 6695c9b9-fc39-4726-a820-b71bd20b9be1
+			- [Roche Braziliano](https://www.thepirateking.com/bios/braziliano_roche.htm)
+			  id:: 6695ae9c-e566-4502-8d54-79e504a83b4f
+		- [Roche Braziliano](https://brethrencoast.com/pirate/Roche_Braziliano.html) — Brethren of the Coast
+		  id:: 6695aed3-27da-4ace-93d9-b121eee18b6f
+		- [Tsushima's Fire Bowl Mouth](https://desaixjp.blog.fc2.com/?no=2267) — The Country in danger (La patrie en danger) related blog[^JP], 2017
+		  id:: 668f5ec0-5c74-48db-b0e6-f556361218c0
+		  collapsed:: true
+			- desaixjp, "対馬の火㷁碗口" [Tsushima’s Fire Bowl Mouth], *祖国は危機にあり(La patrie en danger) 関連blog* [The Country in danger (La patrie en danger) related blog], accessed July 8, 2024, https://desaixjp.blog.fc2.com/?no=2267
+			  id:: 668f5783-ce63-4a59-8123-5ddc941d36f6
+		- [Anne Bonny and Mary Read: Female Pirates and Maritime Women](https://csphistorical.com/2016/05/08/anne-bonny-and-mary-read-female-pirates-and-maritime-women-page-one/) — Colonies, Ships, and Pirates, 2016
+		  id:: 6695df3f-bf1f-4f74-abd1-58f98e08ca97
+		  collapsed:: true
+			- David Fictum, "Anne Bonny and Mary Read: Female Pirates and Maritime Women," *Colonies, Ships, and Pirates,* accessed July 10, 2024, https://wp.me/p6m9w5-4A
+		- [Mistress of the Seas by John Carlova](https://jillianmolenaar.home.blog/2020/02/12/mistress-of-the-seas-by-john-carlova/) — Depictions of John Rackham, Anne Bonny, and Mary Read, 2020
+		  id:: 6695e0e1-bff7-4441-90a4-f4ee1b4aeee6
+		  collapsed:: true
+			- Jillian Molenaar, "Mistress of the Seas by John Carlova," *Depictions of John Rackham, Anne Bonny, and Mary Read*, accessed July 10, 2024, https://jillianmolenaar.home.blog/2020/02/12/mistress-of-the-seas-by-john-carlova/
+	- ### Wikis
+		- [Felyne St. Elmo’s Javelin](https://monsterhunterrise.wiki.fextralife.com/Felyne+St.+Elmo's+Javelin) — Monster Hunter Rise Wiki
+		  id:: 6695ac8f-0aca-47a0-b3dc-21a9c25aa717
+		- [Roche Braziliano](https://dbpedia.org/page/Roche_Braziliano) — DBpedia
+		  id:: 6695af7b-3ed8-42b7-affc-68b43c03f8cf
+		- [VS Battles Wiki](https://vsbattles.fandom.com/wiki/VS_Battles_Wiki)
+		  id:: 668f5ffd-2a43-4e69-9850-bce974d9ac36
+			- [Portgas D. Ace](https://vsbattles.fandom.com/wiki/Portgas_D._Ace)
+			  id:: 668f6005-b2eb-4141-a963-b49722a1fd19
+	- ### Miscellaneous
+		- [Publication Details No.20639](https://benjamins.com/online/etsb/publications/20639) — Translation Studies Bibliography
+		  id:: 6695d812-dc39-429a-b2cc-47c0b51b2b8a
+		  collapsed:: true
+			- John Benjamins Publishing Company
+			- Frohock, Richard. 2010. Common mischaracterizations of early English translations of Exquemelin’s *Buccaneers of America*
+		- [St. Elmo’s Fire](https://cloudatlas.wmo.int/en/saint-elmos-fire.html) — WMO International Cloud Atlas
+		  id:: 668f55bf-6d4e-42df-8ff4-f8937aaf622c
+		- [St. Elmo’s Fire / Spears](https://www.mediastorehouse.com.au/mary-evans-prints-online/st-elmos-fire-spears-583154.html) — Media Storehouse
+		  id:: 668f5615-d834-431c-8a1a-4126f08c7249
+		- [Textual Afterlives: Generating Editions and Editing Generations of Americana](https://jcblibrary.org/exhibitions/textual-afterlives-generating-editions-and-editing-generations-americana) — John Carter Brown Library
+		  id:: 6695d91b-80c8-4545-ae94-ede7bd6b2a21
+		  collapsed:: true
+			- "Textual Afterlives: Generating Editions and Editing Generations of Americana," John Carter Brown Library, accessed July 10, 2024, https://jcblibrary.org/exhibitions/textual-afterlives-generating-editions-and-editing-generations-americana
+		- [Writing an Abstract for Your Research Paper](https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/) – University of Wisconsin
+		  id:: 66971673-80c9-48d8-8b94-757e0e0580da
+		  collapsed:: true
+			- "Writing an Abstract for Your Research Paper", University of Wisconsin-Madison Writing Center, accessed July 16, 2024, https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/
