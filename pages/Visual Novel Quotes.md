@@ -314,6 +314,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 - Screenshot dump 3
 	- Servant stuff #Servants
 		- True names and Bullshit
+		  collapsed:: true
 			- "The first thing is about a summoned Servant's first obligation. I am afraid I cannot fulfill that obligation, so I would like to apologize in advance."
 				- "Huh? A Servant's first obligation?"
 				- "Revealing my identity to you. Have you not heard it from Rin?"
@@ -324,6 +325,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 				- After a brief smile... "Servant, Assassin, Sasaki Kojirou." The Servant's reply is given in a singsong voice.
 				- "Wha...!" Saber cannot help but be surprised. Servants generally conceal their identities. What sort of Servant would so bluntly and proudly give his name?
 		- Magical energy
+		  collapsed:: true
 			- "Now you understand, Master. Thus, I must avoid using any more magical energy. If I am unable to supplement my magical energy, the only other method is for me to sleep to reduce the consumption of magical energy."
 				- "Sleep... Does sleeping restore magical energy?"
 				- "I do not know. But at the very least, I will not use any magical energy while asleep. Which is why I would like you to permit me to sleep as much as possible. I may not be able to protect you all the time, but I hope you do understand so that we may increase our chances of victory."
@@ -357,6 +359,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 				- "Quit reacting to everything I do. We just need to take some of her clothes off. Transplanting Magic Circuits is a mingling of body and mind. We need to make sure you make as much contact with as little obstruction as possible."
 					- Tohsaka is completely calm about this. Saber and I are the only two who are flustered about this as Tohsaka begins undoing Saber's collar.
 		- Servant's role, aka Servant/Master nonsense
+		  collapsed:: true
 			- "That is a Servant's role. In this, Rin is absolutely correct. There is no cause to treat Servants like humans. We are tools used to protect our Master, and that is something you must understand."
 			- So it doesn't feel right for her to just fight. If Saber is going to be here, she should at least do something she enjoys, or it'll all seem like it was in vain.
 			- "Eh...? Oh, yeah, I guess I understand, at least logically. You see, the Master influences which Heroic Spirit is summoned as a Servant. So because of that, Master and Servant tend to be similar."
@@ -383,15 +386,18 @@ description:: literally this is just all quotes from the visual novel. i've been
 				- *Oh come on!* Why does Saber never think about herself? Why is she only ever worried about everyone else!?
 				- "To hell with that! Of course I'm not happy!"
 		- Servant-y Servant stuff. idk man
+		  collapsed:: true
 			- "Of course it's amazing. All Servants are Heroic Spirits...not just Saber, you know? They're spirits, so they can't be harmed by ordinary means, since Servants themselves are Mystics."
 				- "Only fellow Servants, since they're also Heroic Spirits, can physically harm other Servants. On the flip side, so long as we're dealing with a Servant, they could wound Saber even if they grabbed something like a paper cutter."
 		- Just kinda in general
+		  collapsed:: true
 			- "I don't know about the others, but I can say pretty confidently that Illyasviel is our biggest obstacle. The Berserker class is typically used to enhance a weak hero. It takes the Heroic Spirit's sanity in exchange for strengthening them, but to control a hero that's turned violent requires a vast amount of magical energy. Let's say for example, if you became a Berserker class..." #Berserker
 				- "I would not be able to communicate with you as I am now. Berserkers are entirely specialized in combat, totally unable to cooperate with anyone. It would be like attempting to tame a wounded lion; no ordinary mage could control such a Servant."
 				- "I figured as much. An ordinary mage would have a difficult time controlling a Berserker even if the Heroic Spirit was a minor hero. Yet Illyasviel summoned an absolutely top-tier hero as a Berserker, and she's managed to control him completely. I hate to say this, but that girl's ability as a Master is on an entirely different level."
 			- But how can she call herself a Servant if she cannot do the impossible? Servants are driven by their superior abilities and unassailable pride. They are proud as heroes, and have earned that confidence in the numerous battles they fought. As Heroic Spirits whose lore has been passed down and respected since ancient times, they cannot lose, no matter who they face. She cannot even imagine defeat.
 			- That image of her won't leave me. It's burned into my mind now. She and her sword are one. The sword from the stone, which chose the king. The brilliance of the sword that determined her fate is also her brilliance.
 		- Archer being a bitch about ideals and Archer stuff
+		  collapsed:: true
 			- "Don't get things confused, though. This champion of justice you're pretending to be? Nothing more than a cleaner. You should know that only the survivor is going to have a chance to save anyone that way."
 			  collapsed:: true
 				- "Wait. What do you mean a champion of justice is just a cleaner?"
@@ -409,6 +415,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 				- "Don't think about anything else. There's only one thing you can do, so master that one thing." Archer raises one hand. I have no idea when he got it, but he's holding a short sword now.
 				- "Don't forget. What you need to do is to always imagine yourself as the strongest. You don't need an enemy. The only opponent you need to fight is your own mind." I see him start to shift. Berserker's sword sends a rush of wind ahead of him.
 	- Noble Phantasm
+	  collapsed:: true
 		- "Do you not understand? Lancer's spear may not be powerful enough to destroy something as large as a castle, but it is perfectly suited to kill a single human being. A Noble Phantasm consumes magical energy proportionate to its magnitude. A rank A Noble Phantasm consumes a massive amount of magical energy when used. Once it is used, it will take a tremendous amount of time to replenish that lost magical energy."
 			- "However, to kill one person –nay, a single Servant– no such destructive force is necessary. There can be no better tactical advantage than Lancer being able to do so with a single attack."
 			- "So what you're trying to say is that it would cost less to shoot a single arrow than a cannonball?"
@@ -425,6 +432,7 @@ description:: literally this is just all quotes from the visual novel. i've been
 			- Rider's Noble Phantasm may be powerful, but it probably has limited uses. At the very least, it doesn't generate a continuous effect like Saber's sword being invisible.
 		- Excalibur...the Sword of Promised Victory. A sword that is said to have existed in England; a sword wielded by the king who has become the very symbol of knighthood. The strongest of the Servants' Noble Phantasms, sealed by several Bounded Fields. That is Saber's proof of her place as a hero.
 	- Magecraft
+	  collapsed:: true
 		- "Splitting something in two just dilutes its power. A mage's job is to collect ten magecraft disciplines and crystallize them, then leave that to the heir to strengthen their bloodline. There are no exceptions, not even for family." #Stelly
 			- "That's why mage families don't teach magecraft to anyone other than their heirs. Children who weren't selected to be the family's successor either never learn that their family practices magecraft, or they're sent to be adopted by a different family."
 		- She sticks a needle in her arm as she speaks, her mouth full. ...She draws blood into the syringe. Tohsaka slowly drips blood from the syringe onto the jewel, then grips it tightly. A wave of vertigo washes over me. I can tell it's a ripple of magical energy.
@@ -476,10 +484,12 @@ description:: literally this is just all quotes from the visual novel. i've been
 		- "Trace, on." I murmur the spell to focus myself. You don't use spells to change the world around you. They're to be used on yourself...to empower you to change the world. For mages, they're a way to initiate a kind of self-transformation. Spells are the first, most basic magecraft used to create a Mystic just for you...a command that will only work on you.
 			- "Basic structure...analysis." My blood flow accelerates. Power builds in my blood. My body is becoming a machine for circulating magical energy. ...Probably thanks to the gem Tohsaka made me swallow. Normally, this would take me at least an hour. Now, I'm able to do it almost instantly.
 	- Command Seals
+	  collapsed:: true
 		- I murmur those words like a prayer. My life doesn't matter anymore. But to put a stop to this savage brutality...
 			- "No...COME...SABER!!!"
 			- I muster up all my strength and call for my blade. One of my Command Spell strokes disappears. At that very moment, the space around me begins to waver.
 	- Leylines
+	  collapsed:: true
 		- "Have you forgotten, Shirou? I participated in the previous Holy Grail War. I know this town very well, and I know about the leyline that formed at that temple."
 			- "A leyline!? Hold on...that's what's at MY house! Why would there be two leyline centers in one area!?"
 			- "I figured as much. Temples and shrines have traditionally been built where there are gods, to protect the town. Monks don't pray to the gods and Buddha to offer people to offer blessings. Instead, their job is to seal up any areas that people believe are unlucky, to ward off calamity. So based on that, it's no surprise that the mountain where Ryudou Temple is located is a special place."
