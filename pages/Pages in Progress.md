@@ -10,13 +10,9 @@ tags:: list
 	- [[Ideas]]
 	- [[Portgas D. Ace]]
 	- [[Rocks D. Xebec]]
-	- [[The Root]]
-		- At the Magic section
-	- [[Holy Grail War]]
-		- The truth behind the war
+	- [[The Root]] – moved on to touching the root
+	- [[Holy Grail War]] – The truth behind the war
 	- [[Freak Dynamics]]
-	- [[Research]]
-		- Abstracts/Short Descriptions
 	- [[Catalysts]]
 	- [[Servants]]
 	- [[Holy Grail]]

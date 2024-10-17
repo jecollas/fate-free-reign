@@ -3,13 +3,14 @@ alias:: Ace, Fire Fist, Fire Fist Ace, Lancer
 tags:: Characters, Servants, Pirates
 
 - ## Short Description
-	- **Portgas D. Ace** is the [[Lancer]] Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
+	- **Portgas D. Ace** is the **Lancer** Class Servant of [[Sabo]] in the [[Grand Line Holy Grail War]].
 - ## Profile
 	- ### Servant Stats
 		- **True Name:** Portgas D. Ace
 		- **Titles:**
-			- Commander / Commander of Flames
 			- Captain of the Spades
+			- Commander of Flames
+			- Second Division Commander
 		- **[Summoning Catalyst]([[Catalysts]]):**
 			- The Flame-Flame Fruit / Mera-Mera no Mi, held by Sabo
 			- Could also be summoned using his hat, necklace, or dagger
@@ -43,6 +44,8 @@ tags:: Characters, Servants, Pirates
 			- *A Brother‘s Love* — Ace died taking a killing blow from Admiral Akainu meant for his brother, Luffy
 				- Alt title: *A Life Freely Given*
 			- *Passing the Torch* — Sabo went on to inherit both Ace’s will and Devil Fruit
+		- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
+			- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
 	- ### Appearance
 		- Transgender
 		- The version that sabo summoned is the younger ace. The one who set out at 17 because thats when sabo wanted them to set out as pirates
@@ -54,6 +57,7 @@ tags:: Characters, Servants, Pirates
 			- Very closely tied to Sabo’s true home (Dawn Island)
 		- His main weapon is a metal pipe just like the one he used to use as a child back on Dawn Island, and just like the one sabo still uses now, except with a wye joint at the end of it instead of an elbow joint
 	- ### Personality
+		- He's got one. I'm sure of it
 	- ### Relationships
 		- [[Sabo]]
 			- [swagever dude]([[Freak Dynamics/MS/Sabo and Ace]])
@@ -69,10 +73,8 @@ tags:: Characters, Servants, Pirates
 	- What happens to him in the story
 	- Gay sex for one. Torment nexus for two
 - ## Abilities
-	- Sabo has the flame flame fruit so ace doesnt have access to his usual arsenal of fire-based archer attacks
-		- Excluding his St. Elmo’s Fire weapon and Fire Fist noble phantasm
-	- Some of his parameters as a lancer are weaker than the archer version, but his hand-to-hand combat is way better
-		- Strength is higher
+	- Ace doesn't have access to his usual arsenal of flame-based Devil Fruit techniques as a Lancer (excluding his Noble Phantasms)
+	- Some of his parameters as a Lancer are weaker than when he is summoned as an Archer, but his Strength as a Lancer is higher and his hand-to-hand combat skills are way better
 	- ### Skills
 		- #### Class Skills
 			- ((6681c23f-c7d4-4de0-8e09-15af4c3941cc))
@@ -82,7 +84,8 @@ tags:: Characters, Servants, Pirates
 	- ### [[Noble Phantasm]]
 		- **Fire Fist**
 			- Buster-type Single Target (Anti-Unit)
-				- Buster-type AoE (Anti-Army)? Nah, this is the watered down version
+				- Buster-type AoE (Anti-Army)?
+				- Nah, this is the watered down version
 			- ((8ffa9b07-36e0-4841-a99b-afa2d7a5b384))
 			- Ace's signature attack, which would definitely give away his True Name if used
 				- A fist can be a spear if you punch hard enough. If you turn your fist into flames and punch someone from far away I'm pretty sure that counts as a long-range melee weapon
@@ -90,51 +93,32 @@ tags:: Characters, Servants, Pirates
 		- **St. Elmo’s Fire**
 			- Buster-type Single Target (Anti-Unit)
 			- ((7c4cfa43-1ba6-463c-bced-1d61c0a2abd7))
-			- Blast attack from the fire spear yeehaw
+				- Blast attack from the fire spear yeehaw
+			- An amalgamation weapon that manifested upon Ace's summoning as a Lancer, based on various stories told about his strength in battle from around the world
+				- ((671074c4-0274-430c-9242-8e5003e55aab)) – Ace's favored weapon from childhood was a long metal pipe, which he used to rob and assault grown men in the Terminal and Edge Town
+				- ((671075bf-ae73-495a-b061-2feded864517)) – stories about Ace's [Devil Fruit abilities](((6707087e-8c4d-464d-9a6c-4d15b78eab2a))) are infamous on the Grand Line. His [St. Elmo's Fire](((7c4cfa43-1ba6-463c-bced-1d61c0a2abd7))) technique may not be as well-known as his [Fire Fist](((8ffa9b07-36e0-4841-a99b-afa2d7a5b384))), but its power was just as feared
+				- ((668f5f96-aa7f-4127-988d-473ddb2e72ac)) – Ace defended the village of Kuri from raiding Beast Pirates, and drove the attackers away using an ancient Fire Spear he looted from a hidden weapons stash
+				- ((67107575-ae63-4be4-8920-b3c1fbfcb772)) – This version of Ace may not be Whitebeard's beloved son yet, but their stories are still closely associated with each other. It is for this reason that Ace's spear bears a passing resemblance to Whitebeard's naginata
 			- Based on the ((668f5f61-546f-45b6-9bf6-a7e7b9192b35))
 				- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
 	- ### Combat
 		- #### St. Elmo's Fire
 			- Alternate names: St. Elmo’s Fire Spear, St. Elmo’s Spear, Divine Fire Fist, St. Elmo’s Fire, St. Elmo’s Fire Staff, St. Elmo's Beam
-			- An amalgamation weapon that manifested upon Ace's summoning as a Lancer, based on various stories told about his strength in battle from around the world
-				- **Grey Terminal** – Ace's favored weapon from childhood was a long metal pipe, which he used to rob and assault grown men in the Terminal and Edge Town
-				- **The Grand Line** – stories about Ace's Devil Fruit abilities are infamous on the Grand Line. His St. Elmo's Fire technique may not be as well-known as his Fire Fist, but its power was just as feared
-				- **Wano** – h eg ot it from wano idk man im eepyhonk shoo
-					- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
-					- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
-					- Stories of him with a Fire Spear could come from Ace’s time in Wano
-						- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
-					- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
-				- **The Whitebeard Pirates** – Ace may be younger, but his story is still closely associated with Whitebeard’s, and Ace is still his beloved son. Why shouldn’t he have a weapon similar to his father’s?
-					- Whitebeard's naginata, Murakumogiri
 			- A polearm that consists of a long bo staff made from a metal pipe topped with a wye joint, and powered by St. Elmo’s Fire
 				- With the application of St. Elmo’s Fire (his devil fruit technique) he can create a brush of fire at the end of the pipe (in a similar way as St. Elmo’s Fire, the weather phenomena) in the shape of a blade
 				- The joint at the end of the pipe is important because it points the direction where the St. Elmo’s Fire shoots out from to form the blade
 				- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
 			- other notes on this crap
-			  collapsed:: true
-				- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35))
-					- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
-					- ((668f5ec0-5c74-48db-b0e6-f556361218c0)), 11/28/2017 (citation link from fire lance wikipedia page)
-						- “Fire Cylinder” in Ryukyu around 1450
-							- Recorded in the 1453 item of the actual record of the Yi Dynasty
-						- “Fire Spear” during the Ōnin War in the Ashikaga Period
-							- ((668f5f70-e310-45e5-b226-e58a885ec2a0)) — Britannica
-								- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
-							- ((668f5f7e-3772-4ad2-8f49-bbea0cfc82fa)) — wikipedia
-					- Wano is visually inspired by the feudal era japan, (1185-1600), but its story borrows heavily from the isolationism that characterized the Edo period (1603-1868) after the “Closed Country” edict of 1635
-						- ((668f5f96-aa7f-4127-988d-473ddb2e72ac)) — one piece fan wiki
-						- ((668f5fa5-e065-4948-b649-4bbb70297fc9)) — wikipedia
-							- ((668f5fba-d855-4707-8c42-ba644059072a)), ((668f5fbe-7c0b-46fc-bc5d-803f47df9cbd))
 				- These are all links i was using to research st elmos fire earlier
 					- ((668f551e-78a1-4451-aa2e-0a77348c35cb)) — wikipedia
 					- ((668f5569-b4a6-40d2-9d53-d01077bfccd2)) — britannica
 					- ((668f55bf-6d4e-42df-8ff4-f8937aaf622c))
 					- ((668f5615-d834-431c-8a1a-4126f08c7249))
-	- #### Weapons and Abilities
-		- *Haki* – Ace can use all three types of Haki, but he rarely uses them for combat in favor of fighting with his Devil Fruit abilities
+		- #### Haki
+			- Ace can use all three types of Haki, but he rarely uses them for combat in favor of fighting with his Devil Fruit abilities
 			- Ace's Haki is fiery in nature, to the point where his very presence is able to stop blizzards from happening on islands as long as he is there
 - ## Alternate Forms
+  collapsed:: true
 	- ### Archer
 		- Ace can typically only be summoned as an Archer class Servant. The fact that he was summoned into the Lancer class is an anomaly
 		- If anyone else had tried summoning Ace, he would have been summoned into the Archer class
@@ -171,7 +155,6 @@ tags:: Characters, Servants, Pirates
 		- #### Personal Skills
 		- #### Noble Phantasm
 - ## Notes dump
-  collapsed:: true
 	- Fuckass reality marble
 	  collapsed:: true
 		- noble phantasm that represents the story of the war at marineford and the burning fist that went through his own chest
@@ -194,30 +177,6 @@ tags:: Characters, Servants, Pirates
 				- Thats a Polearm, babey!
 				- I was looking at polearms and originally think like a halberd or something but maybe he has a naginata like the one Whitebeard had
 					- Ace may be younger, but his story is still closely associated with Whitebeard’s, and Ace is still his beloved son. Why shouldn’t he have a weapon similar to his father’s
-		- OH MY GOD I JUST FOUND THE COOLEST THING EVER WHAT THE FUCK
-			- [Fire Lance](https://en.m.wikipedia.org/wiki/Fire_lance) — wikipedia
-			- I was looking for this fucking thang and found fire lances instead. What the freak
-				- [Felyne St. Elmo’s Javelin](https://monsterhunterrise.wiki.fextralife.com/Felyne+St.+Elmo's+Javelin) — Monster Hunter Rise Wiki
-			- I cant believe there exists a polearm thats a combination flamethrower/shotgun. Are you kidding me that’s fucking awesome
-		- God. Fuck. Im going down a fire lance research rabbit hole
-			- [Fire Lance](https://en.m.wikipedia.org/wiki/Fire_lance) — wikipedia
-				- So the fire lance wiki page mentioned that fire lances were used by 15th century japanese samurai
-				- [Tsushima's Fire Bowl Mouth](https://desaixjp.blog.fc2.com/?no=2267) — The Country in danger (La patrie en danger) related blog[JP], 2017, 11/28/2017 (citation link from fire lance wikipedia page)
-					- “Fire Cylinder” in Ryukyu around 1450
-						- Recorded in the 1453 item of the actual record of the Yi Dynasty
-					- “Fire Spear” during the Ōnin War in the Ashikaga Period
-						- [Ōnin War](https://www.britannica.com/event/Onin-War) — Britannica
-							- “The recently renewed contact with China, severed during the Mongol invasions, allowed several Chinese weapons to appear in Japan. The first were exploding arrows launched by catapult, while in 1468 there is a record of fire-spears being used.“
-						- [Ōnin War](https://en.m.wikipedia.org/wiki/Ōnin_War) — wikipedia
-			- Wano is visually inspired by the feudal era japan, (1185-1600), but its story borrows heavily from the isolationism that characterized the Edo period (1603-1868) after the “Closed Country” edict of 1635
-				- [Wano Country](https://onepiece.fandom.com/wiki/Wano_Country) — one piece fan wiki
-				- [History of Japan](https://en.m.wikipedia.org/wiki/History_of_Japan) — wikipedia
-					- [Edo Period](https://en.m.wikipedia.org/wiki/Edo_period), [Sakoku Edict of 1635](https://en.m.wikipedia.org/wiki/Closed_Country_Edict_of_1635)
-			- It’s TOTALLY plausible for Ace to have gotten his hands on an ancient Fire Spear in Wano and absolutely wreck shop for the Beast Pirates
-				- Ace was in Wano back when he was still captain of the Spade pirates and became beloved by everyone he met
-				- Stories of him with a Fire Spear could come from Ace’s time in Wano
-					- Fought against the Beast Pirates terrorizing Tama’s village in Kuri
-				- Told with enough frequency that it could have been inscribed with him onto the Throne of Heroes
 		- Possible weapon names: St. Elmo’s Fire Spear, St. Elmo’s Spear, Divine Fire Fist, St. Elmo’s Fire, St. Elmo’s Fire Staff, St. Elmo's Beam
 			- These are all links i was using to research st elmos fire earlier
 				- [St. Elmo’s Fire](https://en.m.wikipedia.org/wiki/St._Elmo%27s_fire) — wikipedia
@@ -225,26 +184,30 @@ tags:: Characters, Servants, Pirates
 				- [St. Elmo’s Fire](https://cloudatlas.wmo.int/en/saint-elmos-fire.html) — WMO International Cloud Atlas
 				- [St. Elmo’s Fire / Spears](https://www.mediastorehouse.com.au/mary-evans-prints-online/st-elmos-fire-spears-583154.html) — Media Storehouse
 			- Uurrrm.. it shoots fire out of the pipe. It can ignite into a blade, swoosh around, and ace can use a mana burst to make it go flamethrower mode yippeee
-	- Notes from Archer summoning
+	- Notes from Ace's Archer summoning
 	  collapsed:: true
 		- Ace shouldve been summoned as an archer. He really shouldve been summoned as an archer. He constantly tells sabo this
-			- Ace is more powerful as an archer class servant, and if anyone else had tried summoning him Ace wouldve been called forth as an archer. But it wasnt anyone else — it was sabo
-				- The version that sabo summoned is the younger ace. The one who set out at 17 because thats when sabo wanted them to set out as pirates
-				- Sabo has the flame flame fruit so ace doesnt have access to his usual arsenal of fire-based archer attacks
-					- Excluding his St. Elmo’s Fire weapon and Fire Fist noble phantasm
-				- Still has the pipe as a weapon because thats what the three of them used as children
-				- Ace right on the edge between the version sabo might have known from childhood, and the man he was destined to become
-				- The boy who tumbled out of the jungle and into the big blue yonder
-				- Emphasizes the fact that Ace is a ghost from the past
-				- Very closely tied to Sabo’s true home
-			- Some of his parameters as a lancer are weaker than the archer version, but his hand-to-hand combat is way better
-				- Strength is higher
-				- [Portgas D. Ace](https://vsbattles.fandom.com/wiki/Portgas_D._Ace) — vs battles wiki
-					- [VS Battles Wiki](https://vsbattles.fandom.com/wiki/VS_Battles_Wiki) — The VS Battles Wiki is the world's most comprehensive and popular index of statistics and powers for characters and items from all of popular fiction
-					- Aka my NEW BEST FRIEND
-	- [Broken Ace](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenAce): Portgas D. Ace. One of the most powerful pirates under Whitebeard's command, owning nearly everyone he comes across...until he meets Blackbeard. After being imprisoned in Impel Down, he is revealed to have a lot of angst about his father (none other than Gold Roger) and barely even wanting to live. And once his little brother Luffy frees him and gives him a second chance? He takes a lava punch from a [General Ripper](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper) to protect the poor kid, then dies in his arms. To explain how badly broken Ace was, one must know the [Driving Question](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingQuestion) of his life. The question which he spent his *entire* life searching for, that he continued to live to find the answer to...was whether or not he deserved to be born. He was *that* broken.
-		- Thank you TVTropes dot com i love you TVTropes dot com
+		- Ace is more powerful as an archer class servant, and if anyone else had tried summoning him Ace wouldve been called forth as an archer. But it wasnt anyone else — it was sabo
+			- The version that sabo summoned is the younger ace. The one who set out at 17 because thats when sabo wanted them to set out as pirates
+			- Sabo has the flame flame fruit so ace doesnt have access to his usual arsenal of fire-based archer attacks
+				- Excluding his St. Elmo’s Fire weapon and Fire Fist noble phantasm
+			- Still has the pipe as a weapon because thats what the three of them used as children
+			- Ace right on the edge between the version sabo might have known from childhood, and the man he was destined to become
+			- The boy who tumbled out of the jungle and into the big blue yonder
+			- Emphasizes the fact that Ace is a ghost from the past
+			- Very closely tied to Sabo’s true home
+		- Some of his parameters as a lancer are weaker than the archer version, but his hand-to-hand combat is way better
+			- Strength is higher
+			- [Portgas D. Ace](https://vsbattles.fandom.com/wiki/Portgas_D._Ace) — vs battles wiki
+				- [VS Battles Wiki](https://vsbattles.fandom.com/wiki/VS_Battles_Wiki) — The VS Battles Wiki is the world's most comprehensive and popular index of statistics and powers for characters and items from all of popular fiction
+				- Aka my NEW BEST FRIEND
+	- Thank you TVTropes dot com i love you TVTropes dot com
+		- [Broken Ace](https://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenAce): Portgas D. Ace. One of the most powerful pirates under Whitebeard's command, owning nearly everyone he comes across...until he meets Blackbeard. After being imprisoned in Impel Down, he is revealed to have a lot of angst about his father (none other than Gold Roger) and barely even wanting to live. And once his little brother Luffy frees him and gives him a second chance? He takes a lava punch from a [General Ripper](https://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper) to protect the poor kid, then dies in his arms. To explain how badly broken Ace was, one must know the [Driving Question](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingQuestion) of his life. The question which he spent his *entire* life searching for, that he continued to live to find the answer to...was whether or not he deserved to be born. He was *that* broken.
 - ### [[Sources]]
 	- ((66889402-1bd7-4a3b-9821-a84bac98b2b4))
 	- ((63b0cd5e-e919-4e29-8296-c26632de9db4))
 	- ((668f3954-0fa4-442a-9c7a-a13fc3dc91f1)) / ((668f114d-6bf3-4b40-9d62-9692948e7841))
+- ### See also
+	- ((668f5f61-546f-45b6-9bf6-a7e7b9192b35))
+	- ((671074f2-883f-4fd3-9c62-5555a2ee609e))
+	- ((67107218-429d-4277-8b7f-46d023f7a850))

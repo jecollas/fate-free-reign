@@ -16,10 +16,13 @@ tags:: list
 		- [Magic](https://typemoon.fandom.com/wiki/Magic)
 		  id:: 6688c07e-c8b2-4228-a447-7c58a793787c
 			- [Magecraft](https://typemoon.fandom.com/wiki/Magecraft)
+			  id:: 670706db-5384-457b-b1ff-d687fbae7837
 			- [Magical Energy](https://typemoon.fandom.com/wiki/Magical_Energy)
 			- [Magic Circuit](https://typemoon.fandom.com/wiki/Magic_Circuit)
 			- [Mystery](https://typemoon.fandom.com/wiki/Mystery)
 			  id:: 6688c0d5-bd87-4449-98e3-94de6ed47bfb
+			- [Third Magic](https://typemoon.fandom.com/wiki/Third_Magic)
+			  id:: 6688a32d-9ca7-4e61-b638-00dbddb91fc1
 		- [Noble Phantasm](https://typemoon.fandom.com/wiki/Noble_Phantasm)
 		  id:: 6682a293-cbb7-4ce6-b889-a0f3c5975f31
 			- [Golden Wild Hunt](https://typemoon.fandom.com/wiki/Golden_Wild_Hunt)
@@ -75,8 +78,6 @@ tags:: list
 				  id:: 670717f0-e169-46db-bdfc-5572362cc4c9
 		- [The Swirl of the Root](https://typemoon.fandom.com/wiki/Swirl_of_the_Root)
 		  id:: 6688a00a-7248-49ae-a724-0a6d25aff2d9
-		- [Third Magic](https://typemoon.fandom.com/wiki/Third_Magic)
-		  id:: 6688a32d-9ca7-4e61-b638-00dbddb91fc1
 	- ### Fate/Grand Order Wiki
 	  collapsed:: true
 		- [Noble Phantasm](https://fategrandorder.fandom.com/wiki/Noble_Phantasm)
@@ -95,19 +96,36 @@ tags:: list
 			  id:: 63b0cd5e-e919-4e29-8296-c26632de9db4
 			- [Rocks D. Xebec](https://onepiece.fandom.com/wiki/Rocks_D._Xebec)
 			  id:: 63b0cdbb-fed1-44f6-9764-209590aa7864
+				- [Rocks Pirates](https://onepiece.fandom.com/wiki/Rocks_Pirates)
 			- [Shimotsuki Ryuma](https://onepiece.fandom.com/wiki/Shimotsuki_Ryuma)
 			  id:: 670706db-098a-4213-b32c-4e78143c1174
 			- [Tashigi](https://onepiece.fandom.com/wiki/Tashigi)
+			- [Whitebeard](https://onepiece.fandom.com/wiki/Edward_Newgate)
+				- [Murakumogiri](https://onepiece.fandom.com/wiki/Murakumogiri)
+				  id:: 67107218-429d-4277-8b7f-46d023f7a850
+				- [Whitebeard Pirates](https://onepiece.fandom.com/wiki/Whitebeard_Pirates)
+				  id:: 67107575-ae63-4be4-8920-b3c1fbfcb772
 		- [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit)
 			- [Mera-Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi)
 			  id:: 66889402-1bd7-4a3b-9821-a84bac98b2b4
 			- [Yami-Yami no Mi](https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi)
 			  id:: 670706db-0886-4a8e-b8fc-e665cbfbc9f2
 		- Locations
+			- [Dawn Island](https://onepiece.fandom.com/wiki/Dawn_Island)
+			  id:: 671074f2-883f-4fd3-9c62-5555a2ee609e
+				- [Gray Terminal](https://onepiece.fandom.com/wiki/Gray_Terminal)
+				  id:: 671074c4-0274-430c-9242-8e5003e55aab
+				- [Goa Kingdom](https://onepiece.fandom.com/wiki/Goa_Kingdom)
+				  id:: 671074e5-b9f6-4666-9f6d-c99c91f0ad28
+			- [Grand Line](https://onepiece.fandom.com/wiki/Grand_Line)
+			  id:: 671075bf-ae73-495a-b061-2feded864517
 			- [Wano Country](https://onepiece.fandom.com/wiki/Wano_Country)
 			  id:: 668f5f96-aa7f-4127-988d-473ddb2e72ac
+				- [Kuri](https://onepiece.fandom.com/wiki/Wano_Country#Kuri)
+				  id:: 67107433-841c-4cfd-a6e0-b89662bb3623
 		- Organizations
-			- [Rocks Pirates](https://onepiece.fandom.com/wiki/Rocks_Pirates)
+			- [Beast Pirates](https://onepiece.fandom.com/wiki/Beasts_Pirates)
+			  id:: 67107488-488d-40f6-ac3a-ea55ba550b10
 			- [World Government](https://onepiece.fandom.com/wiki/World_Government)
 			  id:: 63b0cd5e-725d-4254-a148-8be23e2435fb
 			- [World Nobles](https://onepiece.fandom.com/wiki/World_Noble)

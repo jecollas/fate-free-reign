@@ -148,8 +148,8 @@ tags:: characters, servants, pirates
 		- **Golden Wild Hunt: Night of the Golden Hind and the Storm** is a Noble Phantasm where Francis Drake summons an expanding ghost fleet of countless ships lead by her command during her lifetime. It is a symbol of her everyday life and it contains attributes of the anecdotes of the fire ships that defeated the Spanish Armada and the anecdotes of the "Night of the Storm" that is transmitted throughout Europe.
 - ### [[Sources]]
 	- ((63b0cdbb-fed1-44f6-9764-209590aa7864))
-	- See also
-		- ((6695ab56-dd57-49ae-8144-6a67c76d7f97))
-		- ((67071cf4-f008-4584-b634-2ffaadff9e39))
-		- ((67072460-31a1-4b3e-a044-15f17525d0cd))
-		- ((67072489-dabd-474d-81bf-2c77cbe1ee18))
+- ### See also
+	- ((6695ab56-dd57-49ae-8144-6a67c76d7f97))
+	- ((67071cf4-f008-4584-b634-2ffaadff9e39))
+	- ((67072460-31a1-4b3e-a044-15f17525d0cd))
+	- ((67072489-dabd-474d-81bf-2c77cbe1ee18))

@@ -28,8 +28,7 @@ description:: info about devil fruits and shit
 			  collapsed:: true
 				- St. Elmo's Fire – a weather phenomenon where a continuous, luminous discharge of atmospheric electricity is created from the ends of pointed objects (like the masts of a ship) during thunderstorms
 				- Shinka (Divine Fire) – mysterious and strange fires that are beyond man-made, like the ones caused by natural phenomena such as lightning strikes or volcanic eruptions
-				- Shiranui (Unknown Fire) – strange atmospheric ghost lights that appear on the sea, similar to will-o'-the-wisps.
-					- Also called "sea fire"
+				- Shiranui (Unknown Fire) – strange atmospheric ghost lights that appear on the sea, similar to will-o'-the-wisps. Also called "sea fire"
 			- **St. Elmo's Fire: Beam of Light** (Shinka: Shiranui Itto) – a variation of St. Elmo's Fire where the lances are thrown at the same spot at the same time
 		- **Cross Fire** (Jujika) – crosses his index fingers together and launches a cross-shaped column of fire directly at his opponent
 			- **Twin Guns & Cross Fire** – fires a volley of bullets from two guns before finishing with a Cross Fire attack
